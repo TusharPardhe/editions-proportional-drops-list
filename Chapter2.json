@@ -1,0 +1,5450 @@
+{
+    "totalParticipation": 150581101.8062503,
+    "accountsToDrizzle": [
+        {
+            "address": "r9KThg5WziS6o9Q7g42CerQZd3YL91VryL",
+            "balance": 54297.96692062,
+            "drizzleAmount": 855.7449
+        },
+        {
+            "address": "rGpuBUBJaS3Vk9NXxi5tisP4PXFszqqR2",
+            "balance": 127477.2190886891,
+            "drizzleAmount": 2009.062
+        },
+        {
+            "address": "rGRHVn1a4y2hBKzu1C9sDHLNNufremiQCx",
+            "balance": 92612.86143781,
+            "drizzleAmount": 1459.594
+        },
+        {
+            "address": "rK781JKMKzNeMsgGLguJhLMushm1hUJNEG",
+            "balance": 2192749.459492596,
+            "drizzleAmount": 34558.0931
+        },
+        {
+            "address": "rfRjtMZQtETcBGndKch3zFHmLk2CRXwCAt",
+            "balance": 172390.03403012,
+            "drizzleAmount": 2716.8954
+        },
+        {
+            "address": "rHiKuJ56ubH9WE4HhSMaH4Fozu1tw7er59",
+            "balance": 92124.29660004303,
+            "drizzleAmount": 1451.8941
+        },
+        {
+            "address": "rhEnQtZ3Sem7ykzoj8FKG1a85Qi5vhdHDh",
+            "balance": 74552.67935941,
+            "drizzleAmount": 1174.9625
+        },
+        {
+            "address": "rGNAoM3punrrP5rPc94EqYvzD67Sedopuo",
+            "balance": 102667.0603571501,
+            "drizzleAmount": 1618.0498
+        },
+        {
+            "address": "rJ5AAeTvRhUFZL5huMBZqdHb5JMbv3aveE",
+            "balance": 30854.92054929,
+            "drizzleAmount": 486.2786
+        },
+        {
+            "address": "r4QbXHzDuxEykjL6Ro4HisKUdy5iwtGSn1",
+            "balance": 197114.653023975,
+            "drizzleAmount": 3106.5594
+        },
+        {
+            "address": "rN39F2gZhKpoteZi6mi95yM4T1L2m5AxAh",
+            "balance": 106116.15496057,
+            "drizzleAmount": 1672.4081
+        },
+        {
+            "address": "raUqX5PGcVWFjCUjc6vZPf1A9BpVkym542",
+            "balance": 93661.41670197822,
+            "drizzleAmount": 1476.1194
+        },
+        {
+            "address": "rEpZ1JFmGoQmCRiRWw2DLDPyNhGKhyGGLU",
+            "balance": 111730.81611919,
+            "drizzleAmount": 1760.8961
+        },
+        {
+            "address": "rSi5cQtQ6qdWoB3ryrBpbMsJNi2bwTBsb",
+            "balance": 38272.57677873963,
+            "drizzleAmount": 603.1821
+        },
+        {
+            "address": "rKQeAoJE4x1uBv7mJGV3zMDhyPrutwi53D",
+            "balance": 201604.9844682157,
+            "drizzleAmount": 3177.3278
+        },
+        {
+            "address": "rJje1r5pmeYtRZr8eWMBBAQ2W1pvCStwUK",
+            "balance": 97989.93870741448,
+            "drizzleAmount": 1544.3376
+        },
+        {
+            "address": "rNoq2nEDb41mZMsKNetmtnr8gFcdG5R1BA",
+            "balance": 57269.15140583,
+            "drizzleAmount": 902.5713
+        },
+        {
+            "address": "rpeZ6n5Fa4bsqyJd4RrWYNxjHbJAaX3uUg",
+            "balance": 102246.45765054,
+            "drizzleAmount": 1611.421
+        },
+        {
+            "address": "rp2QVaw1jVuTUv3XNEGz3Y26nvE7NR9fpq",
+            "balance": 27945.08356722849,
+            "drizzleAmount": 440.4191
+        },
+        {
+            "address": "rE7SPFG5YXwbVmcbjk7apzVTkHCQrrHSFx",
+            "balance": 80000,
+            "drizzleAmount": 1260.8132
+        },
+        {
+            "address": "r9TcqWtCqzG7xnhLcYPUbKsV691wNPzMMw",
+            "balance": 25494.58705101265,
+            "drizzleAmount": 401.7989
+        },
+        {
+            "address": "rEiSs5uuewgbpGH5D8qufwcc3EQMj9c6wr",
+            "balance": 247637.5120268097,
+            "drizzleAmount": 3902.808
+        },
+        {
+            "address": "rURFvJMgSJUkBh7NCLXwWMFKHRGd4wAXN2",
+            "balance": 73228.76915000199,
+            "drizzleAmount": 1154.0975
+        },
+        {
+            "address": "rLGrZHJ66H9VcKHKcCQeX3EyFKxR1itHye",
+            "balance": 123662.6570938,
+            "drizzleAmount": 1948.9439
+        },
+        {
+            "address": "rUWXyv8b9uw59TeqttnDVcjzMfBsYYTjFM",
+            "balance": 25049.561791,
+            "drizzleAmount": 394.7852
+        },
+        {
+            "address": "r35cZMERrTcRXkUB1vxSnke9oJ7GNsVCJC",
+            "balance": 118094.64201788,
+            "drizzleAmount": 1861.191
+        },
+        {
+            "address": "rK7GWfsbi77dVXJit64rtct3hWupb3q9fq",
+            "balance": 62922.50445298,
+            "drizzleAmount": 991.669
+        },
+        {
+            "address": "rPqbuYpLyTQxaHqHtUvVczpNjsqAYEKBxs",
+            "balance": 72954.7436077497,
+            "drizzleAmount": 1149.7788
+        },
+        {
+            "address": "rEpxdxHzipUzatrzx8ecfPP2VUWxw1Mzab",
+            "balance": 34321.88329247,
+            "drizzleAmount": 540.9185
+        },
+        {
+            "address": "rLxJSkNCgKxn7aQTcvnoJFZ366VEk41wJ7",
+            "balance": 87546.87478356,
+            "drizzleAmount": 1379.7532
+        },
+        {
+            "address": "rpb88Le5KMGCuhGu4TukJSyPf3XDto3pra",
+            "balance": 543180.2714874751,
+            "drizzleAmount": 8560.6107
+        },
+        {
+            "address": "rM6XDoXbuaQ1HYgU9GCTaHVbG3mZJUJxDU",
+            "balance": 63967.31227898,
+            "drizzleAmount": 1008.1354
+        },
+        {
+            "address": "r9VHQ7vi374WcWNaPWbZsSrCmywENwxtJZ",
+            "balance": 51576.856371,
+            "drizzleAmount": 812.8598
+        },
+        {
+            "address": "rNGq5P8rLtDf6v8tKNCp1KB32Cf8b7iPQ9",
+            "balance": 103496.3641846303,
+            "drizzleAmount": 1631.1198
+        },
+        {
+            "address": "rhmxXbs7bAfb6XrCdDCPbMHsaVYN3urVsQ",
+            "balance": 86224.257407034,
+            "drizzleAmount": 1358.9085
+        },
+        {
+            "address": "rKUyDHyvFTbvmyA8mUGPdk3J24su49DVrz",
+            "balance": 31461.31404334,
+            "drizzleAmount": 495.8355
+        },
+        {
+            "address": "rKHCTUAbeSGCNxMn5L9rc78cQ7ok5thZPN",
+            "balance": 91816.460321,
+            "drizzleAmount": 1447.0426
+        },
+        {
+            "address": "rfW7SqKx9csUiZDjaBN4CxufCR474AZMTk",
+            "balance": 38746.62432389,
+            "drizzleAmount": 610.6532
+        },
+        {
+            "address": "raPkHE1ZCp67pPFXg5CZi3gb59vnuD7zfP",
+            "balance": 36080.30037885613,
+            "drizzleAmount": 568.6315
+        },
+        {
+            "address": "rHcktsyGjtoD9fEuYf5V1dM4dFSmT2QyZ5",
+            "balance": 91275.2932345,
+            "drizzleAmount": 1438.5137
+        },
+        {
+            "address": "r4urB17QdrYNJRR5Y4KXgxVMatiZzcssdZ",
+            "balance": 41776.48985074,
+            "drizzleAmount": 658.4044
+        },
+        {
+            "address": "rUkWKCwnCVbiyLeA9n25uSdreYwLw45oVD",
+            "balance": 45038.66658400181,
+            "drizzleAmount": 709.8168
+        },
+        {
+            "address": "rptsAhiLKJkZsxXrhXAgEtxjcgduTHET31",
+            "balance": 101702.27030321,
+            "drizzleAmount": 1602.8446
+        },
+        {
+            "address": "rPHd8bb2C2aHFxNTpN2yz6sxbqkkGM921r",
+            "balance": 61581.49501662,
+            "drizzleAmount": 970.5345
+        },
+        {
+            "address": "r3XroFFjWdD3fHyQVo2YwMMk6H6Ehkq1ni",
+            "balance": 27582.0985185081,
+            "drizzleAmount": 434.6984
+        },
+        {
+            "address": "rQDfFidho11YB469ZWuFU1ftMfw5wpUwAt",
+            "balance": 92076.10537055,
+            "drizzleAmount": 1451.1346
+        },
+        {
+            "address": "rJZUYmJmaTqsRS5sR64FL86QhzLR3dpfJw",
+            "balance": 119597.71975831,
+            "drizzleAmount": 1884.8798
+        },
+        {
+            "address": "rDK5bKgK9aFFqHmbLVuj1UTpEcSxku2RKs",
+            "balance": 74665.682221,
+            "drizzleAmount": 1176.7435
+        },
+        {
+            "address": "rELQpgT2t4oMdWVEAtT5pNVcsi4G697AQ",
+            "balance": 239783.56992103,
+            "drizzleAmount": 3779.0286
+        },
+        {
+            "address": "rEFZnRye2q8K1QPDXksLFFd7jtZ7ZQTnX1",
+            "balance": 85460.59490617,
+            "drizzleAmount": 1346.8731
+        },
+        {
+            "address": "rD5P7gpT2QzeP3REX3z4WVfbjVMVhLUKkp",
+            "balance": 62096.09335601917,
+            "drizzleAmount": 978.6447
+        },
+        {
+            "address": "rHcradbrJwupkfQctbpGdoZi3k28cZ8qQG",
+            "balance": 51223.29760187,
+            "drizzleAmount": 807.2876
+        },
+        {
+            "address": "rHxjmGqKLdKCzgYHEEek4hPvau76gArLVr",
+            "balance": 65836.22654868,
+            "drizzleAmount": 1037.5898
+        },
+        {
+            "address": "rMqHED5iYbxHQj5FiaprYai1U8kAo3LQsW",
+            "balance": 61238.31944881,
+            "drizzleAmount": 965.126
+        },
+        {
+            "address": "rBWP2Y8LzANhiLa7BGkN1RFMyZK7mKV6i",
+            "balance": 73667.48640147,
+            "drizzleAmount": 1161.0117
+        },
+        {
+            "address": "rfYEpcKarEHsU2ESWp5vrsP53SM8r1wWpQ",
+            "balance": 88693.15268062211,
+            "drizzleAmount": 1397.8187
+        },
+        {
+            "address": "rhJevbsUhyT79CHuF95eLWVxHZ8UPZFJMa",
+            "balance": 156757.68167133,
+            "drizzleAmount": 2470.5269
+        },
+        {
+            "address": "ruRb7BuU4hAXfvChhkGmK65oh6Ac4W7xK",
+            "balance": 130503.1511159477,
+            "drizzleAmount": 2056.7512
+        },
+        {
+            "address": "rhNox5RZbHDtZ2yD1arP6zyAFCp4JFsjhq",
+            "balance": 50071.2977855,
+            "drizzleAmount": 789.1319
+        },
+        {
+            "address": "rQH1Ff18tMvqtjv87oVrEMLY9La6pT8GCs",
+            "balance": 36824.48093,
+            "drizzleAmount": 580.3599
+        },
+        {
+            "address": "rBfvinKm4kFjugzDX4AQrYooX8djyjq65c",
+            "balance": 27888.707121,
+            "drizzleAmount": 439.5306
+        },
+        {
+            "address": "rUv4X1NEcqA6rtnd8DjiYycSCDYVrn1Tc8",
+            "balance": 89321.56690162641,
+            "drizzleAmount": 1407.7226
+        },
+        {
+            "address": "rGYTYZounN5uAuc5dJxaRSimm1mGef3fmX",
+            "balance": 26137.83807089,
+            "drizzleAmount": 411.9366
+        },
+        {
+            "address": "rDd5D2GNLTurmAwFJrEbvfYuwB9MfSRVNc",
+            "balance": 1017067.246249997,
+            "drizzleAmount": 16029.1475
+        },
+        {
+            "address": "rn2431ShqRBrxfGUFrxrixL31WdUjRHXYu",
+            "balance": 115049.76535677,
+            "drizzleAmount": 1813.2033
+        },
+        {
+            "address": "rK4UpLZAJEkwbE3qx2ZSVG5REWGHEiNdHp",
+            "balance": 26164.18913506,
+            "drizzleAmount": 412.3519
+        },
+        {
+            "address": "rsTQffTDmrw1qoCmZKg93rUWDNLQdPR2MF",
+            "balance": 54003.31711062,
+            "drizzleAmount": 851.1012
+        },
+        {
+            "address": "rfxs1D3ekiDnWRPPH2n4Bs2NhvJmVZ261M",
+            "balance": 4178703.642105968,
+            "drizzleAmount": 65857.0586
+        },
+        {
+            "address": "rETh9auJaQXah8fTpwfto1pV8w2tjr3Jmv",
+            "balance": 36532.194021,
+            "drizzleAmount": 575.7534
+        },
+        {
+            "address": "r3x3SmeLeEYTWmz75Rdaowu7TJyc23K8kx",
+            "balance": 230195.150159711,
+            "drizzleAmount": 3627.9135
+        },
+        {
+            "address": "rPUEx8ntsmr1udSuHDfVErdxDM6nRe5haa",
+            "balance": 52098.10624931148,
+            "drizzleAmount": 821.0747
+        },
+        {
+            "address": "rWFHuEQhiP4QgSsuHF2QtYZE8hhTZaRzw",
+            "balance": 196688.6236014926,
+            "drizzleAmount": 3099.8451
+        },
+        {
+            "address": "rs2ZR3e4J7FfCYSnVVC17tcgaVo8nkCo8J",
+            "balance": 26274.45388067,
+            "drizzleAmount": 414.0897
+        },
+        {
+            "address": "rNk5vizuipEGcr9cNVXnh1eBjhaMFqFs42",
+            "balance": 27420.572971,
+            "drizzleAmount": 432.1528
+        },
+        {
+            "address": "rhwikqhjfJoKUBzSM8rqVowvRjiUvH2uHm",
+            "balance": 29200.693871,
+            "drizzleAmount": 460.2078
+        },
+        {
+            "address": "rLyh2jAvXnqnVGwVHGNNEBADcLSeUdEE26",
+            "balance": 679644.1688065869,
+            "drizzleAmount": 10711.3042
+        },
+        {
+            "address": "rK2WouW2ZhYhikZ9MAwxJUJpMR5vCQSrST",
+            "balance": 25020.806291,
+            "drizzleAmount": 394.332
+        },
+        {
+            "address": "rrr8pPDEsG9jodfSCTy6wUdPd5LvQLbSm",
+            "balance": 31621.93402788,
+            "drizzleAmount": 498.3669
+        },
+        {
+            "address": "rEeztTaVgFECLwdCv2emBn1NRPbBmAgzzb",
+            "balance": 1057494.261521,
+            "drizzleAmount": 16666.284
+        },
+        {
+            "address": "rGMM3Ag2DiYP71uk8mWQi8fafCQczx8ouK",
+            "balance": 102781.72317786,
+            "drizzleAmount": 1619.8569
+        },
+        {
+            "address": "rHadZoxJbNSBdbGWzB1XCKKYkeUBAue8hz",
+            "balance": 892257.8148521668,
+            "drizzleAmount": 14062.1303
+        },
+        {
+            "address": "rsvSVU4PGY1erjVtkLBGSeK8BnXUUpjs4K",
+            "balance": 32143.45915106483,
+            "drizzleAmount": 506.5862
+        },
+        {
+            "address": "rNduv5LLBqNm44TtuZVLobR4wYBTF6RvUL",
+            "balance": 105521.1758616998,
+            "drizzleAmount": 1663.0311
+        },
+        {
+            "address": "r3baW6y9swJQna768L3htSSpmypLbXWxRX",
+            "balance": 37556.25059462,
+            "drizzleAmount": 591.8927
+        },
+        {
+            "address": "rK8CU54dmJrLabE4rt4jaH4wtMeQQFssas",
+            "balance": 100636.024764,
+            "drizzleAmount": 1586.0403
+        },
+        {
+            "address": "rH8iFLxQcJ8h3o8ceCVfkdi6ss2vkbggnu",
+            "balance": 25663.79777565225,
+            "drizzleAmount": 404.4657
+        },
+        {
+            "address": "rn1u7DFN5xS4mJ8FhCZRqXC7mB8yNY4gaT",
+            "balance": 85535.40765223715,
+            "drizzleAmount": 1348.0521
+        },
+        {
+            "address": "rG66WWSFakT43FiBoa6KeHdE4kgToFDaCL",
+            "balance": 45429.79926165872,
+            "drizzleAmount": 715.9811
+        },
+        {
+            "address": "rBHzndknbEd5WGFRhizuFNWf9dwu2An21E",
+            "balance": 401304.8172600896,
+            "drizzleAmount": 6324.6301
+        },
+        {
+            "address": "rkoCzqdaZffzvQ98PiRjn4gkLZEMhyfqJ",
+            "balance": 45145.85333297451,
+            "drizzleAmount": 711.5061
+        },
+        {
+            "address": "r9bs4TzJhH2Z9ubTiWcguWsLgH8j1bqs9u",
+            "balance": 51014.287531222,
+            "drizzleAmount": 803.9936
+        },
+        {
+            "address": "rsmYqAFi4hQtTY6k6S3KPJZh7axhUwxT31",
+            "balance": 70206.137321,
+            "drizzleAmount": 1106.4603
+        },
+        {
+            "address": "r9MkjmSeAS6RUTjGqCbqYSzySJNRjmyBs5",
+            "balance": 43041.70621780504,
+            "drizzleAmount": 678.3444
+        },
+        {
+            "address": "rMNsSsSiYY1CnesbVW8YN7E3njcpV8d36M",
+            "balance": 58489.31436395,
+            "drizzleAmount": 921.8012
+        },
+        {
+            "address": "rJmS7R9RH7YWT1WDm2hTSNWf9Mna8mXXZM",
+            "balance": 85079.11247246843,
+            "drizzleAmount": 1340.8608
+        },
+        {
+            "address": "rHkxMKuRBo2C7KbAYsfv2VmKGGjHyQ7h5P",
+            "balance": 62862.12542357,
+            "drizzleAmount": 990.7175
+        },
+        {
+            "address": "raZASAfbDiqtrYwHYqR4HCiaEJ8zSKSPuP",
+            "balance": 232088.2352631701,
+            "drizzleAmount": 3657.7489
+        },
+        {
+            "address": "r9zLWLcLJ2JkVBeYYmkjaKvgBEEX49gpBn",
+            "balance": 30950.72073951,
+            "drizzleAmount": 487.7885
+        },
+        {
+            "address": "rMhUTJ8ir52uZRPBmEjduizRkoktezQUF1",
+            "balance": 25481.052271,
+            "drizzleAmount": 401.5856
+        },
+        {
+            "address": "rD4HRrWLKmxw4kQhQtB7o8pX9464EyD6ov",
+            "balance": 51448.26793152898,
+            "drizzleAmount": 810.8332
+        },
+        {
+            "address": "rBdNswWK31ZCTZcnVvp3QieKEDmHpD3TYe",
+            "balance": 26043.92251067,
+            "drizzleAmount": 410.4565
+        },
+        {
+            "address": "rJknMZT2cBzQjrTRcxsEWdyrfBypyonmNv",
+            "balance": 343151.3078848152,
+            "drizzleAmount": 5408.1212
+        },
+        {
+            "address": "rfyD4N55JsJD32M9TyLsWv6bnt2B8rWsf9",
+            "balance": 60704.71951150972,
+            "drizzleAmount": 956.7164
+        },
+        {
+            "address": "rfpyRzhnLhYFPquynkt7wxVoFrchAwdXm",
+            "balance": 25615.78160064412,
+            "drizzleAmount": 403.7089
+        },
+        {
+            "address": "rUVw57kM4vHF24gdibyeJsb5XLTmRPeuE9",
+            "balance": 38374.6582144,
+            "drizzleAmount": 604.7909
+        },
+        {
+            "address": "rKvubMYQzcZHtHx7S3gS4NH4kaEdoJ8FvZ",
+            "balance": 25704.00572720192,
+            "drizzleAmount": 405.0994
+        },
+        {
+            "address": "rLP8jN5w8pwpYP1yqNnFjuaYQaUUiakYmL",
+            "balance": 25447.35338390002,
+            "drizzleAmount": 401.0545
+        },
+        {
+            "address": "rN49iPJK8HhhrYvQU1nuzfp99bZ4km5XJf",
+            "balance": 49524.071871,
+            "drizzleAmount": 780.5075
+        },
+        {
+            "address": "rQwWwciMnz2B2vPEkR9WB5jtWa1JLj4shb",
+            "balance": 110133.262771,
+            "drizzleAmount": 1735.7184
+        },
+        {
+            "address": "rpDhP2JSy1LuJhYXhZmKJiiXnNx1kEHTcw",
+            "balance": 139457.4380822462,
+            "drizzleAmount": 2197.8722
+        },
+        {
+            "address": "rLadbCqcKDZJCPCuQE3SUYnZpRc9LVPPTM",
+            "balance": 162695.86305595,
+            "drizzleAmount": 2564.1136
+        },
+        {
+            "address": "rLUyQK2rnFYGCVHSVKZWFp3hGw7276TcMB",
+            "balance": 202737.8888871276,
+            "drizzleAmount": 3195.1826
+        },
+        {
+            "address": "rp8GMHM6orCj5cJkA5YTNK5AtYNPuv3sS7",
+            "balance": 26902.99160615,
+            "drizzleAmount": 423.9956
+        },
+        {
+            "address": "rKQNDE5xU8fgLkCQjmbnia5F8FggD4wczT",
+            "balance": 33129.70473191999,
+            "drizzleAmount": 522.1296
+        },
+        {
+            "address": "rHH36BeTWG3GYMQuB1RmzGEkopU6jFED53",
+            "balance": 69529.57025507,
+            "drizzleAmount": 1095.7975
+        },
+        {
+            "address": "rEPJTxLxkGGMdPUayjWm4kquLfLHesWiw3",
+            "balance": 84172.17961063,
+            "drizzleAmount": 1326.5674
+        },
+        {
+            "address": "r4m4tdm7gvc94nEHudnrunyxULB9Egwhux",
+            "balance": 51202.98807274629,
+            "drizzleAmount": 806.9675
+        },
+        {
+            "address": "rBzSM9TTHn4t3hMHCPb7TvqY16N9STt8Ah",
+            "balance": 27676.071021,
+            "drizzleAmount": 436.1794
+        },
+        {
+            "address": "rJHJAqJB3PLFuicU6pc9C6joZ2WAeJmmF2",
+            "balance": 46917.84824045,
+            "drizzleAmount": 739.433
+        },
+        {
+            "address": "raNcshyrrv2G6Ef2iUgPKZrE6av39KqCkd",
+            "balance": 63907.23783394,
+            "drizzleAmount": 1007.1886
+        },
+        {
+            "address": "rndwBcJPxGxfbbaKqtFmcb4eTjp9qj3Lp6",
+            "balance": 38968.7307095743,
+            "drizzleAmount": 614.1536
+        },
+        {
+            "address": "rNb8xx1FkA7Y3iSdbdNxbCMJFJbJmkzCfd",
+            "balance": 130558.68063845,
+            "drizzleAmount": 2057.6263
+        },
+        {
+            "address": "rsv13zZpmpdUCPWccYNUoq2nsviqnMumu1",
+            "balance": 73394.84466689202,
+            "drizzleAmount": 1156.7149
+        },
+        {
+            "address": "rEminajQe3SwmBT7Y76dnb9KaBCC5SerfR",
+            "balance": 48775.686771,
+            "drizzleAmount": 768.7129
+        },
+        {
+            "address": "rJkngVGoaLe6ck2vL7wSHUSdd1cyCpujxZ",
+            "balance": 30325.662011,
+            "drizzleAmount": 477.9374
+        },
+        {
+            "address": "rfAK7x7Zu3HvvGXstQQXZpAia9ugjYkdG8",
+            "balance": 37636.10787176,
+            "drizzleAmount": 593.1513
+        },
+        {
+            "address": "r9SBSZa3AvLuuDjm5tA3PfunkAvd3ExNEC",
+            "balance": 89698.63159027118,
+            "drizzleAmount": 1413.6652
+        },
+        {
+            "address": "rG7iaE4DyLhALCygcfm6juWYF9QoMxBZjz",
+            "balance": 71882.583693,
+            "drizzleAmount": 1132.8814
+        },
+        {
+            "address": "rE6AGA2A52sShHBjJvrcnj3yVivqfXa8wb",
+            "balance": 25641.62930101385,
+            "drizzleAmount": 404.1163
+        },
+        {
+            "address": "rKiLTuowzix1G3x14AQDJgAEjXNzrvkGzr",
+            "balance": 74179.1517148788,
+            "drizzleAmount": 1169.0757
+        },
+        {
+            "address": "rsqTRqLQuNdoDap8zTLPKwAjRvrgCgWc9v",
+            "balance": 45284.43940127,
+            "drizzleAmount": 713.6902
+        },
+        {
+            "address": "rNTj188ARqFGuHUxgeN737Tkj25MBbpRtq",
+            "balance": 57505.53735926,
+            "drizzleAmount": 906.2968
+        },
+        {
+            "address": "rGu6r8nVTXEMAmGpuqiFygvGkuMyfAhqqj",
+            "balance": 82202.49186575736,
+            "drizzleAmount": 1295.5248
+        },
+        {
+            "address": "rfvmrvc3e3drTZFUw2RBXy6ZogMYGWDiRS",
+            "balance": 95069.84695930564,
+            "drizzleAmount": 1498.3165
+        },
+        {
+            "address": "rKio1zVGRwekP5Jhom572WSw27XEJKi454",
+            "balance": 41310.30374469,
+            "drizzleAmount": 651.0572
+        },
+        {
+            "address": "r9UgpchDPmSzka4TpjvrHZJfsBaAcc6hxX",
+            "balance": 73339.6906099382,
+            "drizzleAmount": 1155.8456
+        },
+        {
+            "address": "raucmqwmgqDTmYzydVfXnRw4MMoF9Lv7Do",
+            "balance": 49500.00075,
+            "drizzleAmount": 780.1282
+        },
+        {
+            "address": "rM8XGBSffRrPwsGLNmMGURfwy41veG5SSk",
+            "balance": 25429.99991486441,
+            "drizzleAmount": 400.781
+        },
+        {
+            "address": "r49pAdEtSJsWBM5KU2mBZacv8go9trFKN",
+            "balance": 55879.90409143827,
+            "drizzleAmount": 880.6765
+        },
+        {
+            "address": "rpJatVHaKDUmZ6LaVUYiDAC8kjaijw8sTq",
+            "balance": 33802.33796358705,
+            "drizzleAmount": 532.7304
+        },
+        {
+            "address": "rJGjBJixsvGbeLFnEYZkHi8KV7jMGT6G5Z",
+            "balance": 27097.853850629,
+            "drizzleAmount": 427.0666
+        },
+        {
+            "address": "rJ43Y1z8HiBdBtvZe7fj4k1vrbTns3bbCj",
+            "balance": 86508.1451179166,
+            "drizzleAmount": 1363.3826
+        },
+        {
+            "address": "rJ7jB3hWL4zyHtKzfRVWDuVxQjVHmGtFgv",
+            "balance": 34759.25811258103,
+            "drizzleAmount": 547.8116
+        },
+        {
+            "address": "rH59FrrhXGZsWqKNGaKqiRT8PozhrhWoB3",
+            "balance": 28165.04479528,
+            "drizzleAmount": 443.8858
+        },
+        {
+            "address": "rfUc2n4PYcJfmcarkHkxHLvfMpZPVKTmAS",
+            "balance": 352720.45583208,
+            "drizzleAmount": 5558.9326
+        },
+        {
+            "address": "rHj2Luv4f7MbJtNTBrbWAPVCVhrJuAVYTm",
+            "balance": 115625.04312647,
+            "drizzleAmount": 1822.2697
+        },
+        {
+            "address": "rfcJzSRhWqeTVdhN4uYCRabxAAcmWUuGZz",
+            "balance": 113963.7555332492,
+            "drizzleAmount": 1796.0876
+        },
+        {
+            "address": "rPy8yuY2d6Y7BATyep63YFJaKHvYg5tSbQ",
+            "balance": 149602.14577403,
+            "drizzleAmount": 2357.7545
+        },
+        {
+            "address": "rJTR31ZGTT3M6LB672QoLKZREnQnYjfLmE",
+            "balance": 41893.20878185429,
+            "drizzleAmount": 660.2439
+        },
+        {
+            "address": "rBBxUPnV1eQ1kdJBG4WJtUk7bZ8qLdCACZ",
+            "balance": 420920.9988667061,
+            "drizzleAmount": 6633.7844
+        },
+        {
+            "address": "rwEpmYHzSmaupCkr4af1btEdtgaHi4uk27",
+            "balance": 88085.87692848076,
+            "drizzleAmount": 1388.2479
+        },
+        {
+            "address": "rMzEEP6Ppf8bFBEz2eMeMRc2awvmMo1kGt",
+            "balance": 25696.188641,
+            "drizzleAmount": 404.9762
+        },
+        {
+            "address": "rDYVe1vGU8GDAvK1JDZxL2g2e4V14DjLNi",
+            "balance": 38881.43589137,
+            "drizzleAmount": 612.7778
+        },
+        {
+            "address": "rpFxW7H2494zTVCWGHZ5wXzwqJVmNBqmGo",
+            "balance": 25454.47174472729,
+            "drizzleAmount": 401.1667
+        },
+        {
+            "address": "rHP7hD1AoazkWq1Y2Y1R4gXbGgVYvyGG52",
+            "balance": 47248.97946645069,
+            "drizzleAmount": 744.6517
+        },
+        {
+            "address": "rPkTyqygJdUbFHXx5c33Ry9MDqkWW2pwqf",
+            "balance": 54597.19545553,
+            "drizzleAmount": 860.4608
+        },
+        {
+            "address": "r3oUzwSY8c6g9e9wiUdHZnES8RXWHhAhPk",
+            "balance": 115773.60067209,
+            "drizzleAmount": 1824.611
+        },
+        {
+            "address": "rB22TCde4EKQpSjFXPEoYkHKugSoY8a15c",
+            "balance": 47747.43500189474,
+            "drizzleAmount": 752.5075
+        },
+        {
+            "address": "rnqNPfjB1BF7KL8J449f4JVjHn7DQqXE9C",
+            "balance": 51207.347571,
+            "drizzleAmount": 807.0362
+        },
+        {
+            "address": "rLXmFNsgj492jyeR6APARWEthoA5DJTEXV",
+            "balance": 26480.65498528572,
+            "drizzleAmount": 417.3395
+        },
+        {
+            "address": "rps78KyFT9DfAxNbeNBc1dzQWWLxgvHTD1",
+            "balance": 56885.18050562014,
+            "drizzleAmount": 896.5198
+        },
+        {
+            "address": "rw2GLHduCC9dLd49YRnuovkyttLdMDcoQ4",
+            "balance": 74925.73813208,
+            "drizzleAmount": 1180.842
+        },
+        {
+            "address": "rwk1aEuS6Pvi5x6LojVbLF5vTwKU9UhT4i",
+            "balance": 42778.5708263,
+            "drizzleAmount": 674.1973
+        },
+        {
+            "address": "rEjVZj5ijTHEi4bAGiK8DBNyxYbiiCNRqX",
+            "balance": 26263.37729451781,
+            "drizzleAmount": 413.9152
+        },
+        {
+            "address": "rDJKVQ14BZPsrsAtPhqi5vmQnRe98Lco6f",
+            "balance": 56975.15145652473,
+            "drizzleAmount": 897.9378
+        },
+        {
+            "address": "rBSxpxVeyjMat44MpsMVzAyV3Naa3hLJ5Z",
+            "balance": 80945.81604747502,
+            "drizzleAmount": 1275.7194
+        },
+        {
+            "address": "ra9jk6WZy4tcgFL5FXMqnhbyHoc3wCcESJ",
+            "balance": 55486.85268228,
+            "drizzleAmount": 874.4819
+        },
+        {
+            "address": "rKCuhXmJAavoYQRJQ6Eum4eSyDN6gEEHjo",
+            "balance": 29546.51043308554,
+            "drizzleAmount": 465.6579
+        },
+        {
+            "address": "r98d3C34ePWkHdctxGXMsM851Wr6HDvGj9",
+            "balance": 313969.8289356298,
+            "drizzleAmount": 4948.2163
+        },
+        {
+            "address": "rsMBQ2TTvb61pikTvpByEyvQC26br1GC1B",
+            "balance": 64689.38854345311,
+            "drizzleAmount": 1019.5154
+        },
+        {
+            "address": "rHjbXB7F6GKpuki6S7hSHVQBMiFohq7LUh",
+            "balance": 31284.309051,
+            "drizzleAmount": 493.0459
+        },
+        {
+            "address": "rEqHSnkRKCeyT3kaGGc3vVdBYxyuybuJvr",
+            "balance": 144489.78554062,
+            "drizzleAmount": 2277.1829
+        },
+        {
+            "address": "r38qEBhssmhrx8Xbd8TQq3WhVQveeKSe5Z",
+            "balance": 48797.47994389637,
+            "drizzleAmount": 769.0563
+        },
+        {
+            "address": "rLjN7ry5kuexNUAqZHbfREUFvT1hT3GmUF",
+            "balance": 54635.55280193371,
+            "drizzleAmount": 861.0653
+        },
+        {
+            "address": "rsWejzdJzgUq3E22669j5WX8BmBkb3i5Rv",
+            "balance": 215792.1126273229,
+            "drizzleAmount": 3400.9193
+        },
+        {
+            "address": "rhA5i9dWtXprHXYiAzgUdRoyybGmfnV9Pj",
+            "balance": 70000,
+            "drizzleAmount": 1103.2115
+        },
+        {
+            "address": "rEhNq87adciRGbwHbKLX88W9oBQXvymK2",
+            "balance": 36594.8574638,
+            "drizzleAmount": 576.741
+        },
+        {
+            "address": "rJGkNUppagHSJ7MoUfmbfJXgbvyhi9VQ57",
+            "balance": 44603.84915925,
+            "drizzleAmount": 702.964
+        },
+        {
+            "address": "rJj6XgrHU4QNjETqv1xjhpfaiLkFzx6UUz",
+            "balance": 93160.35220792,
+            "drizzleAmount": 1468.2225
+        },
+        {
+            "address": "r9ezkV71LaaSXRc5xgee8gV93U2G1Rf9yv",
+            "balance": 141349.9565862,
+            "drizzleAmount": 2227.6986
+        },
+        {
+            "address": "rBn3nsMAbCGbjEFsD9DCVk8JxqJNwPZbuS",
+            "balance": 54764.52241253,
+            "drizzleAmount": 863.0979
+        },
+        {
+            "address": "rL6LDgfQHqsZXB5gjvjM16gBrKcZEtQPB",
+            "balance": 27838.74053321,
+            "drizzleAmount": 438.7431
+        },
+        {
+            "address": "rskkqAqtQ8A4wcqAponmGpvhA8doDihMPw",
+            "balance": 37962.67714453,
+            "drizzleAmount": 598.2981
+        },
+        {
+            "address": "rEtVKw7UeuJixjoRLDfCnrqBrJVLV8m52k",
+            "balance": 142665.6314105787,
+            "drizzleAmount": 2248.4339
+        },
+        {
+            "address": "rw8xswrJDxmieTmifdBCxcDeqvyfJq2qj9",
+            "balance": 123631.06834626,
+            "drizzleAmount": 1948.446
+        },
+        {
+            "address": "rs3W5xouoL18EakQs1nxwnVQDVatTHVBoB",
+            "balance": 28629.41162371,
+            "drizzleAmount": 451.2042
+        },
+        {
+            "address": "rE6M4d9utQmotD2WV6HTJCqgiLoXHjoZKv",
+            "balance": 50571.80630345984,
+            "drizzleAmount": 797.02
+        },
+        {
+            "address": "rhU2wqviY9qgQZnZgLF1dpqKGYAN2K5oJV",
+            "balance": 64158.40869318,
+            "drizzleAmount": 1011.1471
+        },
+        {
+            "address": "rB2AQ23qrZM4gZk1hF4HM7u1oquC5p17Uj",
+            "balance": 27494.73924153,
+            "drizzleAmount": 433.3216
+        },
+        {
+            "address": "r9DqCmT4WitDSAdoVRqvt6ZVXHzN2WzUhE",
+            "balance": 73426.37018000809,
+            "drizzleAmount": 1157.2117
+        },
+        {
+            "address": "rNYWrAJCAkjfDmXGBzfGZ54XndmWV1yPAr",
+            "balance": 73607.88843155,
+            "drizzleAmount": 1160.0725
+        },
+        {
+            "address": "raroJ48K7VYyQBxwJgwwWFYchs7RA2ZQJt",
+            "balance": 140212.24204892,
+            "drizzleAmount": 2209.7681
+        },
+        {
+            "address": "rUobVBpvRwZ7k73QJ7ZURWxcPsNyhTy6xN",
+            "balance": 355803.46220555,
+            "drizzleAmount": 5607.5212
+        },
+        {
+            "address": "r4bmwR44GD3AUAuyLPu1ghzWDrK5WFVbPj",
+            "balance": 86278.88853049,
+            "drizzleAmount": 1359.7695
+        },
+        {
+            "address": "rhZE1aHDsZC6RCe8brBWojy7ti8fPvURi3",
+            "balance": 104167.7651424199,
+            "drizzleAmount": 1641.7012
+        },
+        {
+            "address": "rHMHtcCMMoxfHfi8ixBn7KXbd8feXpD7nV",
+            "balance": 55438.98666416,
+            "drizzleAmount": 873.7276
+        },
+        {
+            "address": "r4PuxpNfeUs5pvBAKSRoNLMwpzkLt6taPi",
+            "balance": 103612.7255421851,
+            "drizzleAmount": 1632.9536
+        },
+        {
+            "address": "rsVFin1Kv1vuYwSu8x93TSYjPQK1Lw5c9i",
+            "balance": 1109982.613111651,
+            "drizzleAmount": 17493.5091
+        },
+        {
+            "address": "rEGYHBkPKJHmYu985rtkxZonoxNav29EFQ",
+            "balance": 4054045.132135021,
+            "drizzleAmount": 63892.4199
+        },
+        {
+            "address": "rVtgrzakJ2VitkZhHtz4bAXY1H4mXWbmH",
+            "balance": 74649.00456273,
+            "drizzleAmount": 1176.4806
+        },
+        {
+            "address": "rsBf2z4WXQL6cQpRgRUpTVqCWbrVZz2PeK",
+            "balance": 66336.15049724541,
+            "drizzleAmount": 1045.4687
+        },
+        {
+            "address": "rLqAkCwRPpFozXXx5V96qHacQyX4PkeDfX",
+            "balance": 38294.09952194209,
+            "drizzleAmount": 603.5213
+        },
+        {
+            "address": "raV3nvzMmuGHZnJfknMVfmtcdPHjvD3yro",
+            "balance": 61789.18680736,
+            "drizzleAmount": 973.8078
+        },
+        {
+            "address": "rwcMQNMZfyW7kG3aLuMjzTURTSV4DYu6WR",
+            "balance": 101706.6228,
+            "drizzleAmount": 1602.9131
+        },
+        {
+            "address": "rDikWmNAmzDY4LyWqMZBRgDH8QRZt8MFH5",
+            "balance": 28025.93343468,
+            "drizzleAmount": 441.6933
+        },
+        {
+            "address": "rDvF12VVLg8CD36Ba9U4HUB5q7AWai6BFi",
+            "balance": 90302.98045075017,
+            "drizzleAmount": 1423.1899
+        },
+        {
+            "address": "rMmTeYAA7on4moj3uXmBb6KEogt8FQrzbf",
+            "balance": 653279.651417658,
+            "drizzleAmount": 10295.7951
+        },
+        {
+            "address": "rBNPth2EeNuCuazKc1RokEWraSUcLmRx4b",
+            "balance": 120493.06270937,
+            "drizzleAmount": 1898.9905
+        },
+        {
+            "address": "ra1edWAjckqM74eyXdyspvJ3J1AVtu1Jrw",
+            "balance": 167010.7731276,
+            "drizzleAmount": 2632.1173
+        },
+        {
+            "address": "rBRT4ducfzSf9NTG1aVJvLszJvweopKsB9",
+            "balance": 31887.97259198,
+            "drizzleAmount": 502.5597
+        },
+        {
+            "address": "rh11wEmqEfRUzNi7tYrNLApiBHP6hT3hSa",
+            "balance": 65311.88233183,
+            "drizzleAmount": 1029.326
+        },
+        {
+            "address": "r9udgjHmrAWMenU45c97my4dWMiH6K6mu5",
+            "balance": 39324.78066859,
+            "drizzleAmount": 619.765
+        },
+        {
+            "address": "rPujYtooBQsbmEY13UMHYbropeuehrEqjE",
+            "balance": 32602.99203856,
+            "drizzleAmount": 513.8285
+        },
+        {
+            "address": "rfHijZ5ovrMKwS84ZYAmDKRL24mNfocjJG",
+            "balance": 29907.11900617,
+            "drizzleAmount": 471.3411
+        },
+        {
+            "address": "rLPNoxFgjzTai5r2c54v8s9TVAmyi9rdmz",
+            "balance": 58182.83724275,
+            "drizzleAmount": 916.9711
+        },
+        {
+            "address": "rQHEVGXZnFemrkU14UKBPV6ZpKY8KKTREn",
+            "balance": 185621.5188445298,
+            "drizzleAmount": 2925.4258
+        },
+        {
+            "address": "rNX1cnv3p4dDgtdXqJBjYvfkUna3bVZqSh",
+            "balance": 59330.74537222173,
+            "drizzleAmount": 935.0623
+        },
+        {
+            "address": "rBKi25HvgdHvnPWyiWTQ298MzRUPGMmgeW",
+            "balance": 43285.1674411,
+            "drizzleAmount": 682.1814
+        },
+        {
+            "address": "rJzURSqonqshQq1VnxonauVrQm98v9SGPr",
+            "balance": 26658.17200575054,
+            "drizzleAmount": 420.1372
+        },
+        {
+            "address": "rnB18b539g4QDB1btGQtwz1kBEpuHJnTTB",
+            "balance": 27915.81023519658,
+            "drizzleAmount": 439.9578
+        },
+        {
+            "address": "rhECvCB56y1w9sJgzDdwoMrwSu3p4VC5cy",
+            "balance": 25869.04157870477,
+            "drizzleAmount": 407.7004
+        },
+        {
+            "address": "r3FJJtegEvmgRYY2CY2QDWBwXusb1AFdFH",
+            "balance": 33029.33168044,
+            "drizzleAmount": 520.5477
+        },
+        {
+            "address": "rUSsxiTph4nhtR8yrBtcNMxS6eX3URShsN",
+            "balance": 72665.80009690004,
+            "drizzleAmount": 1145.225
+        },
+        {
+            "address": "rhZyYBvoVNPmhqJsTMMKXwy7QPGZpNmp8u",
+            "balance": 62892.47562588222,
+            "drizzleAmount": 991.1958
+        },
+        {
+            "address": "rJZsUAirF34BAo8Ysm7jh7mmhsi2E5C29n",
+            "balance": 149584.0728016617,
+            "drizzleAmount": 2357.4697
+        },
+        {
+            "address": "rpzff1EC9J8EwBJ9wqMNYPrpfN5hE18VKz",
+            "balance": 38130.4451807955,
+            "drizzleAmount": 600.9421
+        },
+        {
+            "address": "rGbXFHnMNk6xMqUcjRy1PrTQDCuCPGwygF",
+            "balance": 124757.70063831,
+            "drizzleAmount": 1966.2019
+        },
+        {
+            "address": "rpLB2pkk9jjaY4G1P6R6shjEjU2139CfTY",
+            "balance": 72262.19564271336,
+            "drizzleAmount": 1138.8641
+        },
+        {
+            "address": "rES6tpt3BWgEFHGvx6X3M8JDrx4GsCMsTt",
+            "balance": 26489.21691783222,
+            "drizzleAmount": 417.4744
+        },
+        {
+            "address": "rNgPKkRsa1gHLUjwLuiyNDRK1TESN8BX6P",
+            "balance": 32415.09694240291,
+            "drizzleAmount": 510.8673
+        },
+        {
+            "address": "rsLyhhiR8oN5v3ccQbbZ5PfcL7BAZg57Lo",
+            "balance": 29857.21138807132,
+            "drizzleAmount": 470.5546
+        },
+        {
+            "address": "rPGWSicY9nvqhZJPFRTgqBaJskZAp8ymDk",
+            "balance": 438218.2127208675,
+            "drizzleAmount": 6906.3913
+        },
+        {
+            "address": "rfZHmg3tXUUjL2dvPifDRtzi8MpNVEa6xf",
+            "balance": 97221.00624228535,
+            "drizzleAmount": 1532.2191
+        },
+        {
+            "address": "rJT3VNGbKuQWdZMfFbyjhw2LxUTD4mWVSR",
+            "balance": 79602.72545753,
+            "drizzleAmount": 1254.5521
+        },
+        {
+            "address": "rKHFuSP9BX5x4gcam1Khcnv1886kPHn5Ex",
+            "balance": 40361.54023132,
+            "drizzleAmount": 636.1045
+        },
+        {
+            "address": "raUoQeAbzL35ShWWDMyDNQSX33pagAEKf4",
+            "balance": 80611.77826957,
+            "drizzleAmount": 1270.4549
+        },
+        {
+            "address": "rpXjZra3KBSRwcaZP4StzRKbv7C5xVb5ne",
+            "balance": 110824.13396328,
+            "drizzleAmount": 1746.6066
+        },
+        {
+            "address": "rno8jZddBRRp8fHhDJGK4YUTzVeY3CNnk3",
+            "balance": 58314.17769556169,
+            "drizzleAmount": 919.0411
+        },
+        {
+            "address": "rhHdxg2ddF7qxdnh2xfBgHAyfvaXZRaCXg",
+            "balance": 103792.7335416227,
+            "drizzleAmount": 1635.7906
+        },
+        {
+            "address": "rMfZpTEhvnnkcbSe9dVE6P9ik9aiSz2YaK",
+            "balance": 27151.999421,
+            "drizzleAmount": 427.92
+        },
+        {
+            "address": "rHntgkoczGr4tJNCzF2nNPAVwV8rYBBoDx",
+            "balance": 31177.11107407,
+            "drizzleAmount": 491.3564
+        },
+        {
+            "address": "rptAoCTeoJg24qgU3WnERE2ino7vzCMXFY",
+            "balance": 30407.979021,
+            "drizzleAmount": 479.2348
+        },
+        {
+            "address": "rEP6M9Kny9Zte4MinzEGCWnp6DwDojnB8y",
+            "balance": 30859.19054376,
+            "drizzleAmount": 486.3459
+        },
+        {
+            "address": "rYjj7cmyDrC7AW9JPVaWT1bQx7xFUwhSC",
+            "balance": 137073.55300642,
+            "drizzleAmount": 2160.3018
+        },
+        {
+            "address": "rGUeZhZD4ccNz5Pt9HPs6fkcuPRXtBxHCt",
+            "balance": 88258.50556523,
+            "drizzleAmount": 1390.9686
+        },
+        {
+            "address": "r4jgzp9aSmCvbbmrAKVmWsrPjQJaWqW7Bx",
+            "balance": 32447.54953456009,
+            "drizzleAmount": 511.3787
+        },
+        {
+            "address": "rsxxcdiYifwJKZjYwxKbJYp41uCfMUoh9T",
+            "balance": 92527.18130312,
+            "drizzleAmount": 1458.2436
+        },
+        {
+            "address": "rLfMyz2e9GrNnk7ruW5feTKRuP5YwQ69Dg",
+            "balance": 25427.4107360997,
+            "drizzleAmount": 400.7402
+        },
+        {
+            "address": "rnmSadhqVh3iLfWziHUWpb1usBch16iHd7",
+            "balance": 78005.26033644506,
+            "drizzleAmount": 1229.3758
+        },
+        {
+            "address": "rpSNzeeeh1vePqXuhpvNUTqbfsQR8MJieS",
+            "balance": 31582.91458602,
+            "drizzleAmount": 497.7519
+        },
+        {
+            "address": "rs84D62UroPVZv4ufr9RFHZULarkDT88Hw",
+            "balance": 86620.72889158,
+            "drizzleAmount": 1365.157
+        },
+        {
+            "address": "rwuKaTTBMjAfwESTqS9qhQyA512J5DnoAg",
+            "balance": 60632.00021057,
+            "drizzleAmount": 955.5703
+        },
+        {
+            "address": "rJ7dmJFGRnbGuC8ZKCWp6wbd7mzRdUBRWf",
+            "balance": 84194.00315296096,
+            "drizzleAmount": 1326.9114
+        },
+        {
+            "address": "rELmt8E4PgVRvELnfCpb2Fixk8hKwQz83J",
+            "balance": 25100.010421,
+            "drizzleAmount": 395.5803
+        },
+        {
+            "address": "r9Fz2qHZ2sPpj3MPtEiAtY2AQDtuGqG9RT",
+            "balance": 54943.10731385,
+            "drizzleAmount": 865.9124
+        },
+        {
+            "address": "r4eQwoDwTLcd1s39pWC3ZzaqFRKZRjTzMf",
+            "balance": 152008.9962442792,
+            "drizzleAmount": 2395.6869
+        },
+        {
+            "address": "rQeu5CnuS2fc7kUk8TCt2H5FEcLhyTCyN",
+            "balance": 501452.2665567546,
+            "drizzleAmount": 7902.9704
+        },
+        {
+            "address": "rBH7m2rKDs4EgWit3phcGiEkoTRUgBTYx7",
+            "balance": 116984.8109226274,
+            "drizzleAmount": 1843.6999
+        },
+        {
+            "address": "rwN8Nsvyn6vzp3zvGqarBoFyhDbPMxQ55r",
+            "balance": 25000.1351128745,
+            "drizzleAmount": 394.0063
+        },
+        {
+            "address": "rJJ44QgW4wmt2AqZvVzjjqozzJzDUgeq3L",
+            "balance": 30538.82009086,
+            "drizzleAmount": 481.2968
+        },
+        {
+            "address": "rnADoM96GQdbXUZgCDZ9g8FLmED5jEpGan",
+            "balance": 39359.8540743,
+            "drizzleAmount": 620.3178
+        },
+        {
+            "address": "rNBbJ23PCiUboSRonpVSAobtNhQKVcn3QQ",
+            "balance": 56091.89811873,
+            "drizzleAmount": 884.0176
+        },
+        {
+            "address": "rPoU7KWVNVfqYbPSwSDiWE4AH8KFnAHJT3",
+            "balance": 31902.3160662,
+            "drizzleAmount": 502.7858
+        },
+        {
+            "address": "rDHmERCtVpnq7DjWyDq4BhfJ6tMbrSC2gu",
+            "balance": 400004.0007496898,
+            "drizzleAmount": 6304.129
+        },
+        {
+            "address": "rB9P7owehxBw8upKfSKjpXgqs4k4LUwA4N",
+            "balance": 90209.18411003,
+            "drizzleAmount": 1421.7116
+        },
+        {
+            "address": "rsVnj6jXW5KnDEnDecJ3iBKbwEqn9J8izb",
+            "balance": 225481.6149461349,
+            "drizzleAmount": 3553.6274
+        },
+        {
+            "address": "rBfNciSL6VBYVXDrzntaeASm52VgVYD7m3",
+            "balance": 28310.74989806372,
+            "drizzleAmount": 446.1821
+        },
+        {
+            "address": "r4GP8xGhmLtUGAfrvHqrVkoBmAZC68NKrk",
+            "balance": 29233.192971,
+            "drizzleAmount": 460.7199
+        },
+        {
+            "address": "rUtsRJgAS5KMJdVLAUYRtQq32uMSM1AatH",
+            "balance": 59287.17765232,
+            "drizzleAmount": 934.3757
+        },
+        {
+            "address": "rJuZn8MoW39W97FySH1VxarAX6D7ZnnUif",
+            "balance": 110033.12398581,
+            "drizzleAmount": 1734.1402
+        },
+        {
+            "address": "rfZ33EwxgmnkYPimHFFGq2ttdqy7UWVdjY",
+            "balance": 57147.29915764,
+            "drizzleAmount": 900.6509
+        },
+        {
+            "address": "r3rRSjagyhC2QaXXYEmqbP3Sm4VuW8XPyJ",
+            "balance": 134212.783071849,
+            "drizzleAmount": 2115.2156
+        },
+        {
+            "address": "rGj627NA4KyrncSpYDJaY4pMtTPoVJGwyN",
+            "balance": 38823.89602179794,
+            "drizzleAmount": 611.871
+        },
+        {
+            "address": "rHoeAuDL3R49wKDj6XQQcdYGzC1BGHsnSG",
+            "balance": 79101.74142253,
+            "drizzleAmount": 1246.6565
+        },
+        {
+            "address": "rwnprbg4P3VRWVNZ1GNFWupo5g6L8bhoQA",
+            "balance": 89678.57673805,
+            "drizzleAmount": 1413.3492
+        },
+        {
+            "address": "r9R5qdjiCyGUXtGaGBiDYeG4bR4qPbueeP",
+            "balance": 110059.1584316759,
+            "drizzleAmount": 1734.5505
+        },
+        {
+            "address": "rK9oyzdRrCXbqurN48vHuehVBMUSE4g2pP",
+            "balance": 143556.25968,
+            "drizzleAmount": 2262.4703
+        },
+        {
+            "address": "rUP3MGDuhrqaQnznJ5732yRD84SVGkcqYG",
+            "balance": 5206196.21923,
+            "drizzleAmount": 82050.5111
+        },
+        {
+            "address": "raV9SihMw4XEXFefMEZNSBBHy2Cgqu8WQg",
+            "balance": 57897.85038504,
+            "drizzleAmount": 912.4797
+        },
+        {
+            "address": "r9BQ2iDZyxCc3HMfkTnZ2QkyR1iZ9kgQMM",
+            "balance": 120672.46872562,
+            "drizzleAmount": 1901.818
+        },
+        {
+            "address": "r9pXGwRjhyyw7MbsRgWw8JUUjMvBWGGJwb",
+            "balance": 32642.34983265,
+            "drizzleAmount": 514.4488
+        },
+        {
+            "address": "rwqigqsBKBuKwJc5EEJ8P4ippoUf4pMwgQ",
+            "balance": 182026.02412559,
+            "drizzleAmount": 2868.7602
+        },
+        {
+            "address": "rGzdDax1eqFw2neytyFQECPjM4N99JqVF2",
+            "balance": 26622.97376370215,
+            "drizzleAmount": 419.5825
+        },
+        {
+            "address": "rKFJPDq3nwZUccTdUdYK3FjprRwYxMhCXe",
+            "balance": 80045.58166694,
+            "drizzleAmount": 1261.5316
+        },
+        {
+            "address": "rUcNmsc6JU5Rw7aR363Z927XFVbrpcDTu4",
+            "balance": 26897.7323,
+            "drizzleAmount": 423.9127
+        },
+        {
+            "address": "rNrcwuw5SUah2dnjHDN5jH674XtYHnpPJz",
+            "balance": 26222.69188,
+            "drizzleAmount": 413.2739
+        },
+        {
+            "address": "rBZKRJeDYHuY4AFNPRGNvmCjsj7MZEcohD",
+            "balance": 405020.5239848361,
+            "drizzleAmount": 6383.1903
+        },
+        {
+            "address": "rEAyYkw1oKRiEbYpFe6MMtAbT47mKvKigq",
+            "balance": 109808.2011262427,
+            "drizzleAmount": 1730.5954
+        },
+        {
+            "address": "r3opdv8LNupEdJhUBLPfssp6UQS5Kstoxw",
+            "balance": 26704.96132941283,
+            "drizzleAmount": 420.8746
+        },
+        {
+            "address": "rUwhv3fxBbY1kSoGsbwFKxtp85pcsBeMtk",
+            "balance": 39332.47710603,
+            "drizzleAmount": 619.8863
+        },
+        {
+            "address": "rfXZBsjCTskKV28QpAy1tZkyNkYLA2pCT1",
+            "balance": 27424.82526449884,
+            "drizzleAmount": 432.2198
+        },
+        {
+            "address": "rQ3m2rbWuwjnV3m28N9pBqwPG8ZKoSCSPN",
+            "balance": 61503.07217626,
+            "drizzleAmount": 969.2986
+        },
+        {
+            "address": "r46fdFh5oFBTg8tyeCyMUrmbmfgHG9eYwk",
+            "balance": 29306.53672269633,
+            "drizzleAmount": 461.8759
+        },
+        {
+            "address": "rn82iiNjurF5GQT7dvTXGte2o1BCJYu5mG",
+            "balance": 95619.65450729,
+            "drizzleAmount": 1506.9815
+        },
+        {
+            "address": "r9bdrtaFddgPTbR3ood7NSGcjdsfPJDrCg",
+            "balance": 121033.1216386077,
+            "drizzleAmount": 1907.502
+        },
+        {
+            "address": "rMAMafJa1WFLey1vEUbPt6RkrSPYNH5fV8",
+            "balance": 38811.78488379143,
+            "drizzleAmount": 611.6801
+        },
+        {
+            "address": "rHYUpUcMT5Yi9CUMWp8cHQHUTb42XVeUdg",
+            "balance": 30814.10886939,
+            "drizzleAmount": 485.6354
+        },
+        {
+            "address": "rMDb8gWSNuJzXYyCYSqxbYXudiykhaduMM",
+            "balance": 28664.95448,
+            "drizzleAmount": 451.7644
+        },
+        {
+            "address": "rscF9kdWeQEgsZo4fbcX397gtWgrJvPtgy",
+            "balance": 108405.5467055788,
+            "drizzleAmount": 1708.4893
+        },
+        {
+            "address": "rLQw4cArDTCN1fHBNuQBDJfyxz1QMx4rpp",
+            "balance": 52996.07501473,
+            "drizzleAmount": 835.2269
+        },
+        {
+            "address": "rNerXWx2TEVhiq4UzthtDNUX89QokRPKxE",
+            "balance": 30174.45914598772,
+            "drizzleAmount": 475.5545
+        },
+        {
+            "address": "rUkMdxTZsRmZcjTjQtRqAb5KBo4atXAeqD",
+            "balance": 39940.98247963646,
+            "drizzleAmount": 629.4765
+        },
+        {
+            "address": "rnD8pwcUvnDcQWNBqHzt7NjUasawKBUunm",
+            "balance": 31814.61393472555,
+            "drizzleAmount": 501.4036
+        },
+        {
+            "address": "rMhMX5FCqc1YEooXGsDPBpH3UKVvKtjArp",
+            "balance": 58609.6809003,
+            "drizzleAmount": 923.6982
+        },
+        {
+            "address": "rCHTsNm6DdSBmRr5RXox6ptvAwh7rdsh2",
+            "balance": 150933.40927141,
+            "drizzleAmount": 2378.7354
+        },
+        {
+            "address": "rBu7AxNFsWGfqfXAQQvGk7rpjANQ64K8pX",
+            "balance": 35155.95898814,
+            "drizzleAmount": 554.0637
+        },
+        {
+            "address": "r3iZtB3GR6a9sTks8qZpUAq9AJi8Q6JSJX",
+            "balance": 36869.49033,
+            "drizzleAmount": 581.0692
+        },
+        {
+            "address": "rK8UmBrLfUsuKsHtqjEqwjWLxZA4H5yyCj",
+            "balance": 96988.007908478,
+            "drizzleAmount": 1528.547
+        },
+        {
+            "address": "rHK2vqbvwfFxS3zW5itGGi5kMXWKRZ4n8J",
+            "balance": 80267.79975895,
+            "drizzleAmount": 1265.0338
+        },
+        {
+            "address": "rpi8bcGg4cqR2TeCDiLFLuSAhcusdWj5V4",
+            "balance": 149065.2068109,
+            "drizzleAmount": 2349.2922
+        },
+        {
+            "address": "rpaAAe1iAHX14LSVX2rSeiwQ96DPQVf8D2",
+            "balance": 104356.91521973,
+            "drizzleAmount": 1644.6822
+        },
+        {
+            "address": "rphzFYsB7NV1bArGrLCdXJFnQ7GeYvEKce",
+            "balance": 535706.5453197985,
+            "drizzleAmount": 8442.8235
+        },
+        {
+            "address": "rhys47hLTostCHnshjSTnTxDWwkhdWmYoS",
+            "balance": 95709.08696183,
+            "drizzleAmount": 1508.391
+        },
+        {
+            "address": "rh2iocmYyHXtR8gc9gmviYaLB9f3ZdfbF7",
+            "balance": 25889.83668,
+            "drizzleAmount": 408.0281
+        },
+        {
+            "address": "rBWA7PMA2LkeJrtDxCUY9AFAJhLxi2zjau",
+            "balance": 89817.65077940804,
+            "drizzleAmount": 1415.541
+        },
+        {
+            "address": "rEDKrvjU4t2Ykq4DQv1Ztux9TAq4swndi7",
+            "balance": 27050.61042475,
+            "drizzleAmount": 426.3221
+        },
+        {
+            "address": "rKqTMCKRvybCKHwXXbyE5Q34Er1B66DT8M",
+            "balance": 29504.04288,
+            "drizzleAmount": 464.9886
+        },
+        {
+            "address": "rdKSuncEDsnGRmVfF9zY2jxeM4iJPwntz",
+            "balance": 33454.00131761,
+            "drizzleAmount": 527.2406
+        },
+        {
+            "address": "rEezigFvy9bNyMDYf135f2yihYbzCEmGn6",
+            "balance": 30674.0796934,
+            "drizzleAmount": 483.4286
+        },
+        {
+            "address": "raHFa8rk3DkppcPa9Bb25zbFB2MUuwP292",
+            "balance": 34868.18418,
+            "drizzleAmount": 549.5283
+        },
+        {
+            "address": "rLTQsWjfeeZBeUfzAhRa55HwtYubjsbBDw",
+            "balance": 101707.3278031631,
+            "drizzleAmount": 1602.9243
+        },
+        {
+            "address": "rnj5K1nzcTZbuAubZ8GsqTt41hHPzpF7jn",
+            "balance": 26222.85188,
+            "drizzleAmount": 413.2765
+        },
+        {
+            "address": "rEqktdW9wPkCiMsoRmAmtCn314Hbbn86Fj",
+            "balance": 106944.0316830757,
+            "drizzleAmount": 1685.4556
+        },
+        {
+            "address": "r99vFVUScrXNqYHQgES5BfwZKL96TvExdK",
+            "balance": 65661.90164975,
+            "drizzleAmount": 1034.8424
+        },
+        {
+            "address": "rKtiNaC8q3pV4WekEgHU4xbX2jzP9T8LKj",
+            "balance": 113515.3255326146,
+            "drizzleAmount": 1789.0203
+        },
+        {
+            "address": "rHSUzaH8MVEYAKwCiVYxNaohQj2pTk9R7C",
+            "balance": 28357.56540469,
+            "drizzleAmount": 446.9199
+        },
+        {
+            "address": "rH4hh4KiEX5dVwGQ9o7Q1Z4cvUaVPcv8b3",
+            "balance": 55639.88311284001,
+            "drizzleAmount": 876.8937
+        },
+        {
+            "address": "r9NACAiYqj7UcXRg1uV8Y2pS3FyqX2pu1S",
+            "balance": 27887.85598,
+            "drizzleAmount": 439.5172
+        },
+        {
+            "address": "rpGm13Mbb4RYPF7CBHzpXQLjGrBCbbjwa2",
+            "balance": 75981.27484394,
+            "drizzleAmount": 1197.4774
+        },
+        {
+            "address": "rwXXcJMS4MMz2zL21co7iNQfEkannsHD93",
+            "balance": 66632.22273,
+            "drizzleAmount": 1050.1348
+        },
+        {
+            "address": "rJ92fcmTn6Jz3eDfkGkq9Kx5vCm93ZzFte",
+            "balance": 89602.24721944936,
+            "drizzleAmount": 1412.1462
+        },
+        {
+            "address": "r6KTnKMfbi1B6bjkXYype8oZDgGS89WV4",
+            "balance": 89201.23383077925,
+            "drizzleAmount": 1405.8262
+        },
+        {
+            "address": "rBNxu5fscgGJ7h32Ct1BvzncfvncWAjc1F",
+            "balance": 89570.91716167843,
+            "drizzleAmount": 1411.6524
+        },
+        {
+            "address": "rHGa29JFnVaHuUbzPTRvVsnpxVXAjp5r6b",
+            "balance": 89212.84608730854,
+            "drizzleAmount": 1406.0092
+        },
+        {
+            "address": "rsDbBPfHTTMguFWZEJwahxPs9164Dh9yvL",
+            "balance": 89561.43316312027,
+            "drizzleAmount": 1411.503
+        },
+        {
+            "address": "rL4ojKTExEXwBDmXNbv9SMYsQQRPhqHUCh",
+            "balance": 88835.650647276,
+            "drizzleAmount": 1400.0645
+        },
+        {
+            "address": "rhaFKM3ofD4PPXPreeT5uyEXKQXAu9qez8",
+            "balance": 89190.32685408904,
+            "drizzleAmount": 1405.6543
+        },
+        {
+            "address": "r64XWFyXnEQzTNTdTqUhUY3AedyrRizQX",
+            "balance": 89074.7209818917,
+            "drizzleAmount": 1403.8323
+        },
+        {
+            "address": "raMoB9wHVfxJvjkExWXZzan8LoVEpkJ5FZ",
+            "balance": 89113.0845320656,
+            "drizzleAmount": 1404.4369
+        },
+        {
+            "address": "rhJRMGzSzY6yT1qdPDwgtx8WP8RdNMHZpY",
+            "balance": 89027.44123154212,
+            "drizzleAmount": 1403.0872
+        },
+        {
+            "address": "rDYp7Cqf8H2m4Zkq8pYc4qquVV2UtrADuS",
+            "balance": 89169.74134841927,
+            "drizzleAmount": 1405.3298
+        },
+        {
+            "address": "rfqjr5zK7AMRbVYUKPTGHaLbqQJPpLEQ6z",
+            "balance": 89156.80165952085,
+            "drizzleAmount": 1405.1259
+        },
+        {
+            "address": "rhsuTooPqrsxQanRcMDqmZGNDT7oFeRATA",
+            "balance": 89326.56023653461,
+            "drizzleAmount": 1407.8013
+        },
+        {
+            "address": "rP9uGDLpp5eajSZAyfixKMjBBk6k6S4XBM",
+            "balance": 88769.60626907568,
+            "drizzleAmount": 1399.0236
+        },
+        {
+            "address": "rHwxe3skeo5D54pRnKdK8XsXAQP8Z6ufPJ",
+            "balance": 88951.6421080597,
+            "drizzleAmount": 1401.8926
+        },
+        {
+            "address": "rPR9NGLWB2VKNeYWFtZuEVGao3w9GJd6zN",
+            "balance": 88919.50361817327,
+            "drizzleAmount": 1401.386
+        },
+        {
+            "address": "rKCzB1hrkxND1XgTr3ZenAfR3hF2W5QMxC",
+            "balance": 89642.9407680745,
+            "drizzleAmount": 1412.7875
+        },
+        {
+            "address": "rExLLsG6ojje369iMvX2xUwVefxFn7kzqq",
+            "balance": 89044.95735901377,
+            "drizzleAmount": 1403.3632
+        },
+        {
+            "address": "r4WPHChzE6zARLhXWtwVozZuuo3m8swuAo",
+            "balance": 88925.16268609634,
+            "drizzleAmount": 1401.4752
+        },
+        {
+            "address": "rhRBSpN33nV8G6V9P4kKa6hdYKzJhJw6ZD",
+            "balance": 88531.41204048687,
+            "drizzleAmount": 1395.2697
+        },
+        {
+            "address": "rRGDM9DvVek12P39AMk54EDKq6iCffrVK",
+            "balance": 88902.52407242416,
+            "drizzleAmount": 1401.1184
+        },
+        {
+            "address": "rNKXGrYMwRYV2YYXXV6YASuceVa4guomht",
+            "balance": 90833.62340346018,
+            "drizzleAmount": 1431.5529
+        },
+        {
+            "address": "rGit8DswftRrU4N67m2QgsTraa1ri96snx",
+            "balance": 92385.8343389789,
+            "drizzleAmount": 1456.016
+        },
+        {
+            "address": "rJge15tVADRyKiZqkTSDqvNErRfbVVamvJ",
+            "balance": 38577.84476732,
+            "drizzleAmount": 607.9932
+        },
+        {
+            "address": "rw85rkzo6ki1czPmRRobpuwbYQALMV2nTR",
+            "balance": 88799.81933851764,
+            "drizzleAmount": 1399.4998
+        },
+        {
+            "address": "rHi8g1oiKKWYijJyTLS7b1C59WHdL6wD1D",
+            "balance": 90289.12878789577,
+            "drizzleAmount": 1422.9716
+        },
+        {
+            "address": "r91nKDCrZPXCRv1HkpcFdB7btseurUxode",
+            "balance": 89749.99695198062,
+            "drizzleAmount": 1414.4748
+        },
+        {
+            "address": "rHh1VAjjwFjWuoGZxtNuFV2qmVX5VeMExi",
+            "balance": 92110.50703825033,
+            "drizzleAmount": 1451.6768
+        },
+        {
+            "address": "rameevSpsXB8yu34fc8MnNGfAue2CrZgB4",
+            "balance": 40709.16093263848,
+            "drizzleAmount": 641.5831
+        },
+        {
+            "address": "rNzMPN97bR8U7Z4nGZXdpaG37DNczwehx5",
+            "balance": 90307.49813555801,
+            "drizzleAmount": 1423.2611
+        },
+        {
+            "address": "rhEK2sDshwCiUFSKiyb5WXKueH258MaLPZ",
+            "balance": 89889.93105476041,
+            "drizzleAmount": 1416.6801
+        },
+        {
+            "address": "rP2i4gbJFLb2nBRyBMBckFGLUZMHws4sX3",
+            "balance": 91234.10452050746,
+            "drizzleAmount": 1437.8645
+        },
+        {
+            "address": "rBnePAiSKpvBs4sAfkSpVg9XeCbH5pKVeD",
+            "balance": 25111.00488,
+            "drizzleAmount": 395.7536
+        },
+        {
+            "address": "rfmpN9NadH6fKSqKrHEsBvXGoK3Gjewd5h",
+            "balance": 89143.15845485812,
+            "drizzleAmount": 1404.9109
+        },
+        {
+            "address": "rHx9NuswoEepf6QeRoPgfnjFBpJj6AuMTP",
+            "balance": 90789.27939972586,
+            "drizzleAmount": 1430.854
+        },
+        {
+            "address": "rKeQEaJURh4xRUiaevdhhsjJKMXn66SxZu",
+            "balance": 90343.3608021406,
+            "drizzleAmount": 1423.8263
+        },
+        {
+            "address": "rN9fXEohndAgsDz3yQYmwpMWCXELDdTwPn",
+            "balance": 90382.86425253682,
+            "drizzleAmount": 1424.4488
+        },
+        {
+            "address": "rPizJF8BKkpEHQD4nMX9wz7BC2sbHwAas",
+            "balance": 161672.7145857521,
+            "drizzleAmount": 2547.9886
+        },
+        {
+            "address": "rHNs9uf93qyAMh1yBuReFRB788ETntkimf",
+            "balance": 30512.42347999999,
+            "drizzleAmount": 480.8808
+        },
+        {
+            "address": "rDAS6frxEKkukQExaog6s7GWZo4C3FWqqF",
+            "balance": 83999.99999999689,
+            "drizzleAmount": 1323.8539
+        },
+        {
+            "address": "rfs6B6CV2zQe3THymdhuTCLtV2a1RhgbbT",
+            "balance": 241086.24343181,
+            "drizzleAmount": 3799.559
+        },
+        {
+            "address": "rGXdGJ1UU9Th8Lfddg12XurmVZt1M4kAfX",
+            "balance": 200215.18451449,
+            "drizzleAmount": 3155.4243
+        },
+        {
+            "address": "rhPPBqWxYTA4qoKcYFX1HWtsuYXmzoYoLU",
+            "balance": 217431.4024814929,
+            "drizzleAmount": 3426.7548
+        },
+        {
+            "address": "rGQzSrK7yPZsyYGV8zqXjuYqirz8BGsq9C",
+            "balance": 47661.62113,
+            "drizzleAmount": 751.155
+        },
+        {
+            "address": "rLUgk5Sm86HSq56VWq2gi1SbPbJduFN3FP",
+            "balance": 74878.86013,
+            "drizzleAmount": 1180.1032
+        },
+        {
+            "address": "rMyAZdwuH72z25yS18atW58ueixHgJRwNB",
+            "balance": 620462.2999672183,
+            "drizzleAmount": 9778.5882
+        },
+        {
+            "address": "ra5wzmShTsKDjD6U4y2bih5oU9aCXSidB9",
+            "balance": 286681.474273,
+            "drizzleAmount": 4518.1473
+        },
+        {
+            "address": "rpiGPPSoABHEzXo4anHXecLQqcFwc5hKSK",
+            "balance": 304052.8418328342,
+            "drizzleAmount": 4791.9229
+        },
+        {
+            "address": "rp9HFTBZ7qbxybAfuEdYTwuC16n9GSeztb",
+            "balance": 54011.94636,
+            "drizzleAmount": 851.2372
+        },
+        {
+            "address": "rJwg9H6JcSSGWJyeiJkY75JRMZ8kA9wM1h",
+            "balance": 75561.33927564257,
+            "drizzleAmount": 1190.8592
+        },
+        {
+            "address": "rNbMf6Hh4PamHi3Q9xVntx8sA7wXXcCQcf",
+            "balance": 84929.36928717,
+            "drizzleAmount": 1338.5009
+        },
+        {
+            "address": "rBz4jL6wyFyVPxqb7wSX3PRrYxUaEkbkDN",
+            "balance": 26950.91848,
+            "drizzleAmount": 424.7509
+        },
+        {
+            "address": "rhuKivmoSeE4E7T3NcddTcvH6SgcnqXQWn",
+            "balance": 76863.28283054,
+            "drizzleAmount": 1211.378
+        },
+        {
+            "address": "rwbGBQv1bqdmD3iCfHN39UUGQQzGebkKQh",
+            "balance": 58116.15536371,
+            "drizzleAmount": 915.9202
+        },
+        {
+            "address": "r3nKngTB2vPm6GgYkU1M6BmFTomyxKP9Dr",
+            "balance": 240105.1745299998,
+            "drizzleAmount": 3784.0972
+        },
+        {
+            "address": "rB6gbpw78Uaie48Hjyv6ZDXrYSDUq4Mfys",
+            "balance": 166206.49991272,
+            "drizzleAmount": 2619.4419
+        },
+        {
+            "address": "rKEMMNznrTk8pLjz1eJ9Sz7ThMwkcTiNtm",
+            "balance": 72428.98172452157,
+            "drizzleAmount": 1141.4927
+        },
+        {
+            "address": "rJnuMg35bhWmNZf3jjiB2RFutUXknmHDQz",
+            "balance": 74300.18198272001,
+            "drizzleAmount": 1170.9831
+        },
+        {
+            "address": "rL8bLLfGvF5BhUu7XLaL4bkuK73GZmCDNL",
+            "balance": 66874.5168186038,
+            "drizzleAmount": 1053.9534
+        },
+        {
+            "address": "r3QahruYU5KneBBzTdMTLJyTty86WZP5u3",
+            "balance": 25721.59109861,
+            "drizzleAmount": 405.3765
+        },
+        {
+            "address": "rEkAqBs71X45FUmE3xuDKfWoBSMqFMYTqK",
+            "balance": 41258.10261344387,
+            "drizzleAmount": 650.2345
+        },
+        {
+            "address": "rEj8aFjc4BFe3LVJbfoYXQLqWCvtxdmHm5",
+            "balance": 152713.47591534,
+            "drizzleAmount": 2406.7896
+        },
+        {
+            "address": "rHwBd1ZTMyUQhPgeSbjRELTx7uKCmDywiw",
+            "balance": 60111.00413,
+            "drizzleAmount": 947.3593
+        },
+        {
+            "address": "rQhjFBQUqURRt4CKJMRt2X1fFHhRjKnqbD",
+            "balance": 31397.28558198,
+            "drizzleAmount": 494.8264
+        },
+        {
+            "address": "rHtKuYDYzyWcj4yKPVTRe4wygcnkhJqmhr",
+            "balance": 25355.77362686894,
+            "drizzleAmount": 399.6112
+        },
+        {
+            "address": "rLwhknU9xD1gphk2zzCrz6kFVMMdByDQWe",
+            "balance": 34930.02491177,
+            "drizzleAmount": 550.503
+        },
+        {
+            "address": "rPdmH6ueFpMS6BgL32gunxXVMkA4K2cBoA",
+            "balance": 45157.4090114,
+            "drizzleAmount": 711.6882
+        },
+        {
+            "address": "r9gKMCzw28iFLwLpnA23Z8p67LnHYmrWv5",
+            "balance": 48469.94108,
+            "drizzleAmount": 763.8943
+        },
+        {
+            "address": "rUwwAy77E2hpqFwPY9XuS4he5nQpXt5ryZ",
+            "balance": 41438.93221594369,
+            "drizzleAmount": 653.0844
+        },
+        {
+            "address": "rU1tArrr24FMw3iztqeVBJqQwiGFyj97ju",
+            "balance": 1525409.689378576,
+            "drizzleAmount": 24040.7083
+        },
+        {
+            "address": "rFx7hq51dF2DB5vTuYM5wcF2jDx7xTGwC",
+            "balance": 25430.88519187609,
+            "drizzleAmount": 400.7949
+        },
+        {
+            "address": "rpfGRayLnRB6DFaVL33feGWtqzPtXi4nBg",
+            "balance": 87618.0237175497,
+            "drizzleAmount": 1380.8745
+        },
+        {
+            "address": "rsRUjjSuJmUEa6akpGgqyhiRJrGWFR6jjV",
+            "balance": 95002.86128,
+            "drizzleAmount": 1497.2608
+        },
+        {
+            "address": "rKxE6PLAKrtNH8XwuTA9Uriy4xE8MFuQBG",
+            "balance": 49593.57063908745,
+            "drizzleAmount": 781.6029
+        },
+        {
+            "address": "rn1FqEAnyX38RSnqbfPtdYmp8Y2WKQ9ydk",
+            "balance": 55281.0510298052,
+            "drizzleAmount": 871.2385
+        },
+        {
+            "address": "rH38nV1DG7e7zXGLrCzzUCgxscFBpLBWQi",
+            "balance": 102747.7736618423,
+            "drizzleAmount": 1619.3219
+        },
+        {
+            "address": "rKanoCNFv9RW7jyGd5sssUQw5sKJF54kjW",
+            "balance": 214871.39385813,
+            "drizzleAmount": 3386.4086
+        },
+        {
+            "address": "rwByUPDsoSZXmYJVH5oCfhRYQmKyREvEGZ",
+            "balance": 99073.08713407,
+            "drizzleAmount": 1561.4082
+        },
+        {
+            "address": "rHTDwLFCrgjZEgx6mTkYtUeuDnLELf6BRq",
+            "balance": 82658.98679631126,
+            "drizzleAmount": 1302.7193
+        },
+        {
+            "address": "rphzVHt26QZS1S5JbJ6GcMLgwCTWt2CFMD",
+            "balance": 95436.45201008,
+            "drizzleAmount": 1504.0942
+        },
+        {
+            "address": "rKA2wi75GmMMbGQM7L11V3G1V1mzGpyECD",
+            "balance": 25046.61100910281,
+            "drizzleAmount": 394.7387
+        },
+        {
+            "address": "rJCGL6hW2hcippbZRzcJbX9isp4DL9G1gq",
+            "balance": 97653.46530907603,
+            "drizzleAmount": 1539.0347
+        },
+        {
+            "address": "rMCvJSnSvFBZcxvHTCwRvKpBkxC9FmpCnT",
+            "balance": 179248.7511932759,
+            "drizzleAmount": 2824.9899
+        },
+        {
+            "address": "rGGzZwtAWvtJcugqPd445hfKEBeFgR4ety",
+            "balance": 75998.0380641472,
+            "drizzleAmount": 1197.7416
+        },
+        {
+            "address": "rDiFPYaQidNXVLN4QoQpa9ShsL7t992Hry",
+            "balance": 104964.3754410331,
+            "drizzleAmount": 1654.2559
+        },
+        {
+            "address": "rnV5PnFd5vV3MHeGiuuNFFg2TygCMszBay",
+            "balance": 33396.14020265247,
+            "drizzleAmount": 526.3287
+        },
+        {
+            "address": "rwVt8zH3x9SWwcAaGNfKjzHtmPUBt9u48s",
+            "balance": 69622.80468684,
+            "drizzleAmount": 1097.2669
+        },
+        {
+            "address": "rw5dgDzgoHvA1NRcPhaqPLDgiWpc9ZNd7Y",
+            "balance": 35509.01845734,
+            "drizzleAmount": 559.628
+        },
+        {
+            "address": "rJm36GG1wwqdqBX2zu4cWizUEGaaPh8cSt",
+            "balance": 151647.8613337683,
+            "drizzleAmount": 2389.9953
+        },
+        {
+            "address": "rJ91xq6fn97FrPLDpo4TdD1CvufL6G4mrd",
+            "balance": 97325.98428801,
+            "drizzleAmount": 1533.8736
+        },
+        {
+            "address": "r4P98RFRUBnMrAJdxSHRBBMhbJjBBByKEX",
+            "balance": 144464.7551481974,
+            "drizzleAmount": 2276.7884
+        },
+        {
+            "address": "r9rNYVD5W7mJ1XtaRDztyfcvTpSPabVmUm",
+            "balance": 2920122.027844092,
+            "drizzleAmount": 46021.6048
+        },
+        {
+            "address": "rpoXxz6ag6FtYjqWkNfCuSbouVE7iWMhhZ",
+            "balance": 56550.71282776,
+            "drizzleAmount": 891.2486
+        },
+        {
+            "address": "rsxgVA3HeCYkSYKhvXAtt7PVTA774EEUBH",
+            "balance": 97078.53133596454,
+            "drizzleAmount": 1529.9737
+        },
+        {
+            "address": "r3uojSjhBmWCYMDuy6eNZLgBvALwqtjNo6",
+            "balance": 29643.95004516,
+            "drizzleAmount": 467.1935
+        },
+        {
+            "address": "rED3HXsNkGRRGNYzNpSjkGdGJAALQ3aFBp",
+            "balance": 56887.98528085618,
+            "drizzleAmount": 896.564
+        },
+        {
+            "address": "rhwbtyZVo1yhF83j36mc3524NuUW74bpU3",
+            "balance": 62018.87512164,
+            "drizzleAmount": 977.4277
+        },
+        {
+            "address": "rfb9ADKxdEVy9ZCyUdMAmaHkmfGzj6aMzD",
+            "balance": 72377.01133131,
+            "drizzleAmount": 1140.6736
+        },
+        {
+            "address": "rJ8JJGZHKvyGkiFZhf5TbhnH8HSupWoDqE",
+            "balance": 1182103.75166272,
+            "drizzleAmount": 18630.1501
+        },
+        {
+            "address": "rshUYHfEyH3ccvTpcfsW9mTKbX728oE6ab",
+            "balance": 90256.84739084067,
+            "drizzleAmount": 1422.4628
+        },
+        {
+            "address": "rfm5B6b4T5tYzWNx9r2jBkTCpm7hcaRK3Z",
+            "balance": 126178.1204404862,
+            "drizzleAmount": 1988.588
+        },
+        {
+            "address": "rHoyYYrvycfPMSjLzTQqRAqHjLrg1wzJfc",
+            "balance": 28952.21781895,
+            "drizzleAmount": 456.2917
+        },
+        {
+            "address": "rsUsyC3o5dbwb6QAUk7Tv6vwieyJcGSrzt",
+            "balance": 46969.65709,
+            "drizzleAmount": 740.2495
+        },
+        {
+            "address": "rMs3Tkaco7PWNyxvgdKY33BumRcYFXUv1X",
+            "balance": 50673.87099666148,
+            "drizzleAmount": 798.6286
+        },
+        {
+            "address": "rP5iJTpyvjdTdisDfVUmZuTACWwSzEpfB6",
+            "balance": 88750.63544394,
+            "drizzleAmount": 1398.7247
+        },
+        {
+            "address": "rPo1HQyMDqd4NXsuGysFPeGLAGgNv5sELq",
+            "balance": 25708.96597167221,
+            "drizzleAmount": 405.1775
+        },
+        {
+            "address": "rNPkHXs2AfD54fuZBszNGYtUQue9HkC1Bp",
+            "balance": 92952.76925117637,
+            "drizzleAmount": 1464.951
+        },
+        {
+            "address": "rJeHoBtQineEhCCnmBsDqKP2oMjR1mN7t2",
+            "balance": 87242.31239127,
+            "drizzleAmount": 1374.9532
+        },
+        {
+            "address": "r9X2kw18TEJnkDdwJ5vXzWZ3VcLEU8gPnh",
+            "balance": 26293.02773,
+            "drizzleAmount": 414.3825
+        },
+        {
+            "address": "rp9F32bseKDMMi1h8eesY2hjmWtQQyaxzR",
+            "balance": 74172.57392243817,
+            "drizzleAmount": 1168.972
+        },
+        {
+            "address": "rPi5BLCNbp6embaEVs9EJbhS9PeR3j99Wk",
+            "balance": 26158.57528,
+            "drizzleAmount": 412.2635
+        },
+        {
+            "address": "rHUCadwfsQeS2w1EHbrqYpqzP8yGmG2EFE",
+            "balance": 376621.7851712269,
+            "drizzleAmount": 5935.6215
+        },
+        {
+            "address": "rssk1Xks6PAYkLrma3HNqkXVebBcAf8SZQ",
+            "balance": 750000.8257509382,
+            "drizzleAmount": 11820.1367
+        },
+        {
+            "address": "rDA97Jot4942JiTe4swwDbARfuB8gk4yiM",
+            "balance": 349117.03918216,
+            "drizzleAmount": 5502.1421
+        },
+        {
+            "address": "rNXn5pgukGrdyRMtQX1LTmabuSGWFu19p",
+            "balance": 94087.77834144,
+            "drizzleAmount": 1482.8389
+        },
+        {
+            "address": "rsGAqevvYJ59LygFPAsv4j3mLnGGrkrHub",
+            "balance": 96379.63428,
+            "drizzleAmount": 1518.9589
+        },
+        {
+            "address": "r9Szg8q4LubCd7X9APMm8hPuW35y4MBNqQ",
+            "balance": 47961.35159808,
+            "drizzleAmount": 755.8788
+        },
+        {
+            "address": "raxNYJfmar2ZE7jYdkxqBM677oz62qTXGR",
+            "balance": 111601.985396011,
+            "drizzleAmount": 1758.8657
+        },
+        {
+            "address": "rp4QN7ULPd77yfhnhMJVjJN6GXyCeetFxp",
+            "balance": 213409.38397764,
+            "drizzleAmount": 3363.3671
+        },
+        {
+            "address": "rJGqdUfPC9Lh4qe6MsaGrsWcvqKJnK7Dtt",
+            "balance": 40450.00502911642,
+            "drizzleAmount": 637.4988
+        },
+        {
+            "address": "rHc9JFpYqomJP8tYfQaAuB1ttqcBL5ZNVp",
+            "balance": 288558.17880156,
+            "drizzleAmount": 4547.7245
+        },
+        {
+            "address": "rpD13CdiJo5Eo4fsJXdVggUgmEa3rzGTYf",
+            "balance": 34778.8823285,
+            "drizzleAmount": 548.1209
+        },
+        {
+            "address": "r3qJDibfFppoNS9Xi3m2UpK5U8ZCrfvarW",
+            "balance": 91514.91320739446,
+            "drizzleAmount": 1442.2901
+        },
+        {
+            "address": "rBuAAS4z3m6Nt7KGX4mBvqb9u1313p2Q5w",
+            "balance": 89093.49643389,
+            "drizzleAmount": 1404.1282
+        },
+        {
+            "address": "rBkYPpPVgvKQccZ52obGR8VW3exfBDrbrY",
+            "balance": 27066.44440514,
+            "drizzleAmount": 426.5716
+        },
+        {
+            "address": "r41GCih5wUUK9tMY3NUSLXKD3rb6SJGGg6",
+            "balance": 171899.6278660988,
+            "drizzleAmount": 2709.1665
+        },
+        {
+            "address": "rhdTfT8DxVx327ozv145ggqGBosSMrGzG3",
+            "balance": 51026.10023,
+            "drizzleAmount": 804.1798
+        },
+        {
+            "address": "rGqjPtLVnFZv7cfZn2WKvH2pDcc3XHGMeG",
+            "balance": 84999.9999999973,
+            "drizzleAmount": 1339.614
+        },
+        {
+            "address": "rD8fhtFHD1wA5oyA91qAb7X6yjBD5ZgjFb",
+            "balance": 54450.59663058,
+            "drizzleAmount": 858.1504
+        },
+        {
+            "address": "rs9woHiJb73K8uqmCAUx7hRfW2a2WR5cwi",
+            "balance": 91344.83362571,
+            "drizzleAmount": 1439.6096
+        },
+        {
+            "address": "rpdWN8dA6PbNFGtgjQQgAW3fT9FLvbPRx6",
+            "balance": 277602.7596737687,
+            "drizzleAmount": 4375.0653
+        },
+        {
+            "address": "rLsgNAuUSejbuMLYMVCX3kFmJYxG18cXLu",
+            "balance": 30425.23672294402,
+            "drizzleAmount": 479.5067
+        },
+        {
+            "address": "rEd9DT8Nc2AKpY6v39F7hxSnmhW3NYFm12",
+            "balance": 26961.52840734437,
+            "drizzleAmount": 424.9181
+        },
+        {
+            "address": "rPTPjHPx8CM39mAdnesQc1SVHKSi4ANxQb",
+            "balance": 48246.46713,
+            "drizzleAmount": 760.3723
+        },
+        {
+            "address": "rM2NcAjdFQ1Z197ZngCS7gPFrwSM8PJ9tt",
+            "balance": 70663.68845588,
+            "drizzleAmount": 1113.6714
+        },
+        {
+            "address": "rpMrTmGnPkr4v3zLZppUWGnZHW9JfYMYEw",
+            "balance": 46856.07865443,
+            "drizzleAmount": 738.4595
+        },
+        {
+            "address": "rEJTEB41AqWuNsZ3kN24cB9hrDn4oJ5Aa5",
+            "balance": 63406.07159713,
+            "drizzleAmount": 999.2901
+        },
+        {
+            "address": "rpHV7hBdagQjkdU5bhwd26hhYTb73bWpss",
+            "balance": 46184.68873,
+            "drizzleAmount": 727.8783
+        },
+        {
+            "address": "rwZVtRTAwYtP9giaF5Q7qKX4pjb7XUDHc1",
+            "balance": 75106.03688584777,
+            "drizzleAmount": 1183.6835
+        },
+        {
+            "address": "rPmFupGbQ7TYKh3EjnRhkCZfQj6DALZdsD",
+            "balance": 50670.84354,
+            "drizzleAmount": 798.5809
+        },
+        {
+            "address": "rnU316byyDBhFtae9M7ctCwg3rpfXAMsdB",
+            "balance": 37559.34122864,
+            "drizzleAmount": 591.9414
+        },
+        {
+            "address": "rNgcRUeTU3ctL9umKsRykW3CFoRafwGEYj",
+            "balance": 75924.49311219,
+            "drizzleAmount": 1196.5825
+        },
+        {
+            "address": "r4faqBU8Wmr9SRCWeay8x4tdjyLbUK1sKs",
+            "balance": 26457.79953,
+            "drizzleAmount": 416.9793
+        },
+        {
+            "address": "rPikqZ3zuX1DbGYk3NzPyRNAfsyuP2Chs6",
+            "balance": 102314.3172758935,
+            "drizzleAmount": 1612.4905
+        },
+        {
+            "address": "rBDftxyVQY4NNwBArByzcsmW8ziAD9Ubf8",
+            "balance": 86543.85251743,
+            "drizzleAmount": 1363.9454
+        },
+        {
+            "address": "rM4a89Kg9LpLqPiC3k88g2RJW52MTHLDce",
+            "balance": 33046.88424838,
+            "drizzleAmount": 520.8243
+        },
+        {
+            "address": "r3wkh6SBiDBsovevnEy55rJCfveMmnYFpy",
+            "balance": 30513.28698000294,
+            "drizzleAmount": 480.8944
+        },
+        {
+            "address": "rDxrJmAStgQhMxEfRi9Gs5tuxfeHW93iWg",
+            "balance": 102346.20598,
+            "drizzleAmount": 1612.9931
+        },
+        {
+            "address": "rwsymAvZUdauVMxVx8rJRVhMCfLjGGyrZn",
+            "balance": 66770.26046,
+            "drizzleAmount": 1052.3103
+        },
+        {
+            "address": "rw6Lwy7VTW9ZrV2cwnmRZcqCD3R5XZhc7s",
+            "balance": 92844.22884837112,
+            "drizzleAmount": 1463.2404
+        },
+        {
+            "address": "rLZLMZ922JCRHHMvzAtttw9gCdFfnTyZ34",
+            "balance": 74579.86035372168,
+            "drizzleAmount": 1175.3909
+        },
+        {
+            "address": "rwX2nyUFbUEaoPrH64MjtVVymX4gss7MMa",
+            "balance": 25915.19759503,
+            "drizzleAmount": 408.4278
+        },
+        {
+            "address": "rpJ41FBNyAsSTSy161xzvM2WDmb89tycVL",
+            "balance": 1513786.710575174,
+            "drizzleAmount": 23857.5282
+        },
+        {
+            "address": "rDyzQWnbu6TXL427HKr5SCCXaPqBExPnPh",
+            "balance": 101324.30433981,
+            "drizzleAmount": 1596.8877
+        },
+        {
+            "address": "rMRwNnzFcMpaHVeSNdfgYN74RMamWv7GQA",
+            "balance": 98397.66820138037,
+            "drizzleAmount": 1550.7635
+        },
+        {
+            "address": "rP7pp2SKbAcjnTTuairtkw1EYFoJWyxwj6",
+            "balance": 86472.92231424,
+            "drizzleAmount": 1362.8275
+        },
+        {
+            "address": "rQsjGVEMY1XQMmgiW162ZmCDm8zgEXrtHZ",
+            "balance": 40004.2110558,
+            "drizzleAmount": 630.473
+        },
+        {
+            "address": "rL2csdnF3TRCsuZr6AuMFx1VT6BnJ9J9j5",
+            "balance": 63970.24581023,
+            "drizzleAmount": 1008.1816
+        },
+        {
+            "address": "rNDcd8NyYt9VGrWrWfawTVvU9N3QZX8JZy",
+            "balance": 76447.27891325,
+            "drizzleAmount": 1204.8217
+        },
+        {
+            "address": "rEHAeXufb9sPuDyPjw8jBq9J5iPbsLxBja",
+            "balance": 55389.58897996,
+            "drizzleAmount": 872.9491
+        },
+        {
+            "address": "rLVojSFELZCXeYWSeT3TFQAYiz3pszvFxf",
+            "balance": 51951.05128031002,
+            "drizzleAmount": 818.7571
+        },
+        {
+            "address": "r3qYRmcSkMEVyHYqXjsjnTbHbrCU8WuBs3",
+            "balance": 43291.92127422621,
+            "drizzleAmount": 682.2878
+        },
+        {
+            "address": "rpz7dKdRxyi5jUbKYHkvVmnRrNMH4jM5az",
+            "balance": 29006.67628,
+            "drizzleAmount": 457.15
+        },
+        {
+            "address": "rJ65xdtCmJrQ4mwJ8PyZqhT6creS6dqDrU",
+            "balance": 88942.7896336577,
+            "drizzleAmount": 1401.753
+        },
+        {
+            "address": "rsF1oN5xbuJQ3wPD87jjDvEde3VKwSrAue",
+            "balance": 25426.65993,
+            "drizzleAmount": 400.7284
+        },
+        {
+            "address": "rPuQd34NKJ3mMoeCM5q5hYSmsTBFCtv3x7",
+            "balance": 131308.3990981024,
+            "drizzleAmount": 2069.442
+        },
+        {
+            "address": "rBf6dVRnUyzZSh8SgHvYat7tvokFmicsZf",
+            "balance": 50608.53161499021,
+            "drizzleAmount": 797.5988
+        },
+        {
+            "address": "rGE7BbrUDc3iyHTmLQvxFZUdtNrQpgTQfL",
+            "balance": 133429.9539289599,
+            "drizzleAmount": 2102.8781
+        },
+        {
+            "address": "rJai2eZDbpU2L5yCE4bvaxqfMuyPTak7fp",
+            "balance": 127352.71274495,
+            "drizzleAmount": 2007.0998
+        },
+        {
+            "address": "rLbyjYsEepecFEhgBYtbNLsL2WkbgeYWCv",
+            "balance": 84719.25295586913,
+            "drizzleAmount": 1335.1894
+        },
+        {
+            "address": "r95VVSdCmMgTSxTxgVmEGV4mnrmYdBRcxH",
+            "balance": 87515.4316299677,
+            "drizzleAmount": 1379.2576
+        },
+        {
+            "address": "rDzJeNPNnwUV5G5zeqmkqXqo1exoR5zFnd",
+            "balance": 54656.15478462,
+            "drizzleAmount": 861.39
+        },
+        {
+            "address": "rMXwFPuPHQT4imwqfaUu2x8ufyfQbaNfKp",
+            "balance": 257079.8578438838,
+            "drizzleAmount": 4051.621
+        },
+        {
+            "address": "r924Es62xHCREBTeq6hgBkq8cPNmwKHRPg",
+            "balance": 54946.01819768,
+            "drizzleAmount": 865.9583
+        },
+        {
+            "address": "r3dcaVF7BhiHoFoZPtnc8iAnNkVkHzD5F8",
+            "balance": 97856.19648,
+            "drizzleAmount": 1542.2298
+        },
+        {
+            "address": "rhzAU6FAYPswCXUhaErFo3fRTy5mwha55B",
+            "balance": 67862.37287422,
+            "drizzleAmount": 1069.5222
+        },
+        {
+            "address": "rwzVHTQf9P3iH3QjKK6ieoecqaa4TAe9UB",
+            "balance": 297942.0774481701,
+            "drizzleAmount": 4695.6163
+        },
+        {
+            "address": "rUDjC2WCpXBxgbRT3HtZpK9L7PUEaHe8Kp",
+            "balance": 1731625.703322369,
+            "drizzleAmount": 27290.7067
+        },
+        {
+            "address": "rY3JRf5FLbzyc5Bs3fq72s3DBSwCw9AiX",
+            "balance": 87582.0769367,
+            "drizzleAmount": 1380.308
+        },
+        {
+            "address": "rnmFX4v7G2y8C59z7AftNK8ub2SA7Cx8ci",
+            "balance": 27031.29228,
+            "drizzleAmount": 426.0176
+        },
+        {
+            "address": "rJVwtHT8x51w6AoVpDBx3NKEjvqi1xZS6n",
+            "balance": 60622.09361568,
+            "drizzleAmount": 955.4142
+        },
+        {
+            "address": "rQBBwH3QefnFN46AdvTKndGSDZntJKV5DW",
+            "balance": 30876.12338,
+            "drizzleAmount": 486.6128
+        },
+        {
+            "address": "r9Uu6F1f3wtPjsnREBjv88cJ1XSxW1fjB1",
+            "balance": 80284.07797699,
+            "drizzleAmount": 1265.2903
+        },
+        {
+            "address": "rPULuRu58wpVaTFh1eFZ1XUdvaYipNWPNn",
+            "balance": 90621.60769585,
+            "drizzleAmount": 1428.2115
+        },
+        {
+            "address": "rz5HKVNh8epeP5PSwXkwjYDdeTyhYRoF3",
+            "balance": 84821.00951868,
+            "drizzleAmount": 1336.7931
+        },
+        {
+            "address": "rP43XY9ypraj7DyY4e3HXuwE3jbb82abfB",
+            "balance": 25778.83198,
+            "drizzleAmount": 406.2786
+        },
+        {
+            "address": "raym66pphysPbkKnanbwjE6Xb13MfW7sLv",
+            "balance": 82569.76938425,
+            "drizzleAmount": 1301.3132
+        },
+        {
+            "address": "rNegQwSyGzhW7cTvGsksDHR3xDtVPYL5jj",
+            "balance": 142656.238937157,
+            "drizzleAmount": 2248.2859
+        },
+        {
+            "address": "r9YDzvmYMdC6K2uvF4jdWBTsbZszs9YRsq",
+            "balance": 39461.42172064,
+            "drizzleAmount": 621.9185
+        },
+        {
+            "address": "rHFivTN7bxEV7QxZpfgo6GKMFPt25qhvDW",
+            "balance": 65611.78583738,
+            "drizzleAmount": 1034.0526
+        },
+        {
+            "address": "rKKDmfji3MYEAtBZY3AQj8ghcuH1HXYpZC",
+            "balance": 45063.6399042,
+            "drizzleAmount": 710.2104
+        },
+        {
+            "address": "rpHYkHfzCvTZMUiTSDkWekpPr7XjyyYU7r",
+            "balance": 289972.9876730603,
+            "drizzleAmount": 4570.0221
+        },
+        {
+            "address": "rHKtm8AEEiuGG5ryo9kd4FSZL26t3nNfoc",
+            "balance": 191575.9270692453,
+            "drizzleAmount": 3019.2682
+        },
+        {
+            "address": "rBLh3SrV1ALEEfJiHKYiaSxoRxG7R9SuEh",
+            "balance": 33612.61115404,
+            "drizzleAmount": 529.7403
+        },
+        {
+            "address": "rL9V1JhauNWZzDVWBXXiEGDe8g3S1t5wah",
+            "balance": 109380.63826415,
+            "drizzleAmount": 1723.8569
+        },
+        {
+            "address": "rU2M3CzrpxsgaXPxoaKRzJBbUMYvWxJP9s",
+            "balance": 49515.78362705,
+            "drizzleAmount": 780.3769
+        },
+        {
+            "address": "rENg2Bwtwoq1N7T7X7DpuJTK7JyEkohFs8",
+            "balance": 51192.28067833,
+            "drizzleAmount": 806.7988
+        },
+        {
+            "address": "rhqgFpryNcxAJz985ZvPLGWmnGaXLT2Jgz",
+            "balance": 384155.82050877,
+            "drizzleAmount": 6054.3591
+        },
+        {
+            "address": "rs3YUPfNVpY74k9ptnyAiTCtvbfQzzUB3t",
+            "balance": 49841.7420314647,
+            "drizzleAmount": 785.5141
+        },
+        {
+            "address": "rEgz16wq1Jx275ywwNEETRtzC85ujbumow",
+            "balance": 25766.89715881469,
+            "drizzleAmount": 406.0905
+        },
+        {
+            "address": "rEvp6LEs8JTh9kxSftxNQ2drR2yv54a4as",
+            "balance": 84622.96842542,
+            "drizzleAmount": 1333.6719
+        },
+        {
+            "address": "rgAuQy4opX23g8UguUNLGFpy9qZFhgBDy",
+            "balance": 38701.66133564749,
+            "drizzleAmount": 609.9446
+        },
+        {
+            "address": "rsKNRNQJzM49Fkjk5wmsXW6e9SxVmuknni",
+            "balance": 26437.10701587786,
+            "drizzleAmount": 416.6532
+        },
+        {
+            "address": "rPMy2x2s6D6AvdxaxXUxi2HRp648qyM8q6",
+            "balance": 29108.08886,
+            "drizzleAmount": 458.7483
+        },
+        {
+            "address": "r3jEP3ntzHKfP5uVYgsxWW1oc7jGJtqYYn",
+            "balance": 302576.1579663097,
+            "drizzleAmount": 4768.6502
+        },
+        {
+            "address": "rMFa8YYf458BpbS5dLME5En3k2C6kGecm6",
+            "balance": 25609.00488,
+            "drizzleAmount": 403.6021
+        },
+        {
+            "address": "rhaWysLsmjqSFc9UXAK5MgsGLYkbbGtF3d",
+            "balance": 31159.56489641,
+            "drizzleAmount": 491.0799
+        },
+        {
+            "address": "rnBpRkun76WCDKz7y3YoK6gybmgGjayurK",
+            "balance": 153162.244240491,
+            "drizzleAmount": 2413.8622
+        },
+        {
+            "address": "rfPwNWzZF7BPwYcAvuJRQ5zckGpfv4JgJw",
+            "balance": 62222.81079435227,
+            "drizzleAmount": 980.6418
+        },
+        {
+            "address": "rGgQFretLimmP5xL5YUnaAUJjrGgYrufoH",
+            "balance": 58803.0816788,
+            "drizzleAmount": 926.7463
+        },
+        {
+            "address": "rsUJD6mzaPrkLcvWgBbWPuXrF8sVA9WaZh",
+            "balance": 54663.34823,
+            "drizzleAmount": 861.5034
+        },
+        {
+            "address": "rMUU94J9jSzCBAkHshbHPo3BfnBztAHGZM",
+            "balance": 39632.11067267,
+            "drizzleAmount": 624.6086
+        },
+        {
+            "address": "r4bkmPPJCo9oJH7UY9aywgPV372FH751Ze",
+            "balance": 64332.92310366,
+            "drizzleAmount": 1013.8975
+        },
+        {
+            "address": "racAU29jkrJB3K5mTWRZjWhdDrRenvmsJT",
+            "balance": 95465.77930926,
+            "drizzleAmount": 1504.5564
+        },
+        {
+            "address": "r4Q9cFnBXo42cvNGWRTZAziJF5hUWXodfJ",
+            "balance": 67703.22374059069,
+            "drizzleAmount": 1067.014
+        },
+        {
+            "address": "rhKqrpt2XYbQJxAvEsuth6NpWzoz56MpZX",
+            "balance": 47694.6953271789,
+            "drizzleAmount": 751.6763
+        },
+        {
+            "address": "rJLjak6FjPSthM6AsAvDJvMb5k1vDAoKmG",
+            "balance": 244659.31315055,
+            "drizzleAmount": 3855.8711
+        },
+        {
+            "address": "r3Z21T5v1Vvp5WvmZozeceDBECsFLCEqeC",
+            "balance": 26471.23708,
+            "drizzleAmount": 417.1911
+        },
+        {
+            "address": "rEFSj6k8TBLQCMkauRvZXLqeb4gE9hzU1u",
+            "balance": 77824.37883,
+            "drizzleAmount": 1226.525
+        },
+        {
+            "address": "rfXwzbAcKGP8hmuEE3SwGDCdajrHTA7SEX",
+            "balance": 35734.89309105,
+            "drizzleAmount": 563.1878
+        },
+        {
+            "address": "rLLA4tT7g4WmRWXLPwLuD856mQNFpSevq5",
+            "balance": 26849.88609596,
+            "drizzleAmount": 423.1586
+        },
+        {
+            "address": "rBNmfMkbqnWzht5tv7ndYm23FEE1LrbfUb",
+            "balance": 30996.13496239,
+            "drizzleAmount": 488.5042
+        },
+        {
+            "address": "rUDN58U2W72p5846e3W5HnWybNhupvPuhX",
+            "balance": 147688.7825018227,
+            "drizzleAmount": 2327.5996
+        },
+        {
+            "address": "r3UzZHGd1L1RN2S232tys3rVz5gJzNvqWf",
+            "balance": 103335.47868198,
+            "drizzleAmount": 1628.5842
+        },
+        {
+            "address": "rHefYrE98CMRXgf9myUxvrwvuHTSwPfgcs",
+            "balance": 25471.97474933,
+            "drizzleAmount": 401.4425
+        },
+        {
+            "address": "rH8D8XhXJT9ZsrUy5z57gZSuM254S9xjCh",
+            "balance": 100881.56171431,
+            "drizzleAmount": 1589.9101
+        },
+        {
+            "address": "rsQC6eJLJg4YuFGKyN6vQuUccpdnC9nvT4",
+            "balance": 33292.836884,
+            "drizzleAmount": 524.7006
+        },
+        {
+            "address": "rwcW9c2M6ZutMqx1UGqMWZB7uWtmfe3Fzn",
+            "balance": 56293.27664495,
+            "drizzleAmount": 887.1913
+        },
+        {
+            "address": "rPDEwaUBpRBa4cWqQSMWorDiuGN9dFKCaE",
+            "balance": 25798.01923,
+            "drizzleAmount": 406.581
+        },
+        {
+            "address": "rPFJCVx3bXnVKbN8xLNhL9Dim3RRLJf6Aa",
+            "balance": 41832.033533,
+            "drizzleAmount": 659.2797
+        },
+        {
+            "address": "rLWbS55V5t2pXF8gbYwQTT3zpC1Ra8HtXZ",
+            "balance": 25990.48829876371,
+            "drizzleAmount": 409.6144
+        },
+        {
+            "address": "r4iL2oYEPjHD5Cdos6iKFQfULBQFMuGrR6",
+            "balance": 67653.31727633,
+            "drizzleAmount": 1066.2274
+        },
+        {
+            "address": "rGB2688H9r2LzJ7A9yCGxHPer5shBynN42",
+            "balance": 44687.89128,
+            "drizzleAmount": 704.2885
+        },
+        {
+            "address": "r3qWJXCZYHuBtxQExJ9hpe68FrR4fufKeP",
+            "balance": 134712.768044441,
+            "drizzleAmount": 2123.0954
+        },
+        {
+            "address": "rhYZWnSHyiBRWNvY2bGYaDmVFdEfrNLhfx",
+            "balance": 55084.42912562639,
+            "drizzleAmount": 868.1397
+        },
+        {
+            "address": "rHWUh5xXQQunXQHKzpKms2nJ5PunQjVuRs",
+            "balance": 134069.6614166565,
+            "drizzleAmount": 2112.96
+        },
+        {
+            "address": "r3c5uFzCwKYRhj3BD314QrAworAC5zeu9Z",
+            "balance": 35122.33783,
+            "drizzleAmount": 553.5338
+        },
+        {
+            "address": "rH6gNaex7QMcaU5JK19TaN2bHypudF5V4D",
+            "balance": 27412.86578,
+            "drizzleAmount": 432.0313
+        },
+        {
+            "address": "rMwGFWJTtVZYwZ6yEmRoCcCUkrzqLZdbxb",
+            "balance": 41729.78854392,
+            "drizzleAmount": 657.6683
+        },
+        {
+            "address": "raQ8dCbAYqhbm8j1UuUQbumeuZEpEhb8DQ",
+            "balance": 37252.49297401155,
+            "drizzleAmount": 587.1054
+        },
+        {
+            "address": "rRn2AYYsw1E7wCEBYKdLT1af8rjrBUHPF",
+            "balance": 29038.29392325,
+            "drizzleAmount": 457.6483
+        },
+        {
+            "address": "rNctz3yVL7KayGtnJtMwei7EVa1e1RrhVm",
+            "balance": 65194.16244914,
+            "drizzleAmount": 1027.4708
+        },
+        {
+            "address": "rDUpVBUpMLasi1LUGciVWB7cDi9KoCtrEQ",
+            "balance": 53732.69063085046,
+            "drizzleAmount": 846.8361
+        },
+        {
+            "address": "resQ2EeKvZYpegbe2JCKYBWcVxB7d5S7s",
+            "balance": 50222.25882999999,
+            "drizzleAmount": 791.5111
+        },
+        {
+            "address": "rwL3e1MXpCZC6WHLqx6JyVjev4hraXt7zf",
+            "balance": 101000.84206375,
+            "drizzleAmount": 1591.7899
+        },
+        {
+            "address": "rLUxrAV8BaaYL1wL6TyDpPTAPgAotrk8n8",
+            "balance": 84134.1715705792,
+            "drizzleAmount": 1325.9684
+        },
+        {
+            "address": "rKY4W3n6uPPcFZcSF9VKRzeTvRDXz65VBF",
+            "balance": 30513.28698000031,
+            "drizzleAmount": 480.8944
+        },
+        {
+            "address": "rnid2ZFJBgoPSPQB5tXw2v25oYeSusfGSN",
+            "balance": 147640.6536138413,
+            "drizzleAmount": 2326.8411
+        },
+        {
+            "address": "rDCG6v1Gb1Ze5V8jAHnhpX41RzPgti6LGw",
+            "balance": 71000.00075,
+            "drizzleAmount": 1118.9717
+        },
+        {
+            "address": "rDEJNfrZ7eGEtyS35gdiM1MjvvKKxfEMNv",
+            "balance": 93204.76391046,
+            "drizzleAmount": 1468.9225
+        },
+        {
+            "address": "rBnniqVjNJmGQnwWfurtFkXRGvu6nNbK55",
+            "balance": 217739.577810657,
+            "drizzleAmount": 3431.6117
+        },
+        {
+            "address": "rP4xtPCrb7Bm5pjvTymdVvg1pTWZkYo28s",
+            "balance": 54546.14428,
+            "drizzleAmount": 859.6562
+        },
+        {
+            "address": "rNJJ8bHD3egkRJ4K4r3SshLfvVKxGLG6uA",
+            "balance": 29199.97653,
+            "drizzleAmount": 460.1964
+        },
+        {
+            "address": "rENVyS5METcqHMoVaxEXVmMLJbqmAMtWy",
+            "balance": 33376.50519856,
+            "drizzleAmount": 526.0192
+        },
+        {
+            "address": "rpETK593N4hLLcDNTf2DM7EYo961F8Y2FL",
+            "balance": 119025.7727589837,
+            "drizzleAmount": 1875.8658
+        },
+        {
+            "address": "rJFVoFRar8RhczUbZvRiFiUDs75YGzF9yQ",
+            "balance": 30546.67013,
+            "drizzleAmount": 481.4206
+        },
+        {
+            "address": "rLkxfvz8VrSDfTDUdCh4MeS9pDvQqaNRQ9",
+            "balance": 30038.85327072,
+            "drizzleAmount": 473.4173
+        },
+        {
+            "address": "rUmx129Zgaaqk3v6sqvQ6P5ryriRWgmZXm",
+            "balance": 1128383.730770108,
+            "drizzleAmount": 17783.5137
+        },
+        {
+            "address": "rBghfq4vpPyT6Xn9ZzqHFBnQxGnDpWkddJ",
+            "balance": 165687.31704699,
+            "drizzleAmount": 2611.2594
+        },
+        {
+            "address": "rGnRKAXwPTjXJCa64gEFCxeWfxhriAPVTu",
+            "balance": 98395.04649032,
+            "drizzleAmount": 1550.7222
+        },
+        {
+            "address": "rsdM48evq9vXkSz4LXLYrTfcQqvcwSKiR6",
+            "balance": 97812.20949966,
+            "drizzleAmount": 1541.5366
+        },
+        {
+            "address": "rPc7GooMAmqu8QqN3rM5oTXFHvM6uvSh4p",
+            "balance": 53555.0869774223,
+            "drizzleAmount": 844.037
+        },
+        {
+            "address": "rLvXWMVkbTNQ1cRRKb6LvRWEwNgFBwMVQg",
+            "balance": 241502.3025518568,
+            "drizzleAmount": 3806.1161
+        },
+        {
+            "address": "rwu7VoRAVLG4VqD81LUuLRJ5KCt7VQJR1s",
+            "balance": 81528.60699708,
+            "drizzleAmount": 1284.9043
+        },
+        {
+            "address": "r4e3w8R7FHc9iMYmmMwgvexL3jRLhmmQBq",
+            "balance": 101844.90248,
+            "drizzleAmount": 1605.0925
+        },
+        {
+            "address": "r4wTXLwsyiCiww6VH167oKCJBLdFmbct6e",
+            "balance": 89585.95857243,
+            "drizzleAmount": 1411.8895
+        },
+        {
+            "address": "rf7iQLtn7t2Tzi9R3LPT6yGkUFdQmuumnU",
+            "balance": 38436.89471419,
+            "drizzleAmount": 605.7718
+        },
+        {
+            "address": "rKYpihi7GK68QnTU1JaqwG9fioEadTuf7z",
+            "balance": 116066.19542278,
+            "drizzleAmount": 1829.2224
+        },
+        {
+            "address": "rLyDSGngAY5qi7anLkyG6SXNAfHQDYzqhc",
+            "balance": 34686.31677049,
+            "drizzleAmount": 546.6621
+        },
+        {
+            "address": "rU2BYr4vDVrPSZ1rQkQ5BpTNXRMugusq7h",
+            "balance": 139251.306424,
+            "drizzleAmount": 2194.6236
+        },
+        {
+            "address": "rQJ6MZGE578H5QRszi5JeaMadPtyZ1rg3W",
+            "balance": 47736.45803,
+            "drizzleAmount": 752.3345
+        },
+        {
+            "address": "r4rjvTgUqNyGoE4heAqX94t7bPDAud39N1",
+            "balance": 30841.2111977,
+            "drizzleAmount": 486.0626
+        },
+        {
+            "address": "rnCDjY4K3vZXcDn4SgENfnZqwN6NkTs5eZ",
+            "balance": 191111.6313316999,
+            "drizzleAmount": 3011.9508
+        },
+        {
+            "address": "raDyXZN3rDGJ4CSFGPzBvn2nsHTsrW1scK",
+            "balance": 34715.06603,
+            "drizzleAmount": 547.1152
+        },
+        {
+            "address": "rPHefMGqMDBZ8G7wWtTHKo3uJLd3c4QAiC",
+            "balance": 27996.93463,
+            "drizzleAmount": 441.2363
+        },
+        {
+            "address": "rhm9Q8M5QTUgUH7Q9oDzGqhTzh3DNoqVRf",
+            "balance": 95549.39555861,
+            "drizzleAmount": 1505.8742
+        },
+        {
+            "address": "rBfGPRRsFxbvkWFQMhozeBEFbciMrFQokF",
+            "balance": 31527.03193688,
+            "drizzleAmount": 496.8712
+        },
+        {
+            "address": "rGdmmhYeBfiLhwQdxrAGNQ1Hj4u5RxhJut",
+            "balance": 25719.40078,
+            "drizzleAmount": 405.342
+        },
+        {
+            "address": "rM8tAnDE8P6ChMPPAXPF7nM6wJikPBzWsY",
+            "balance": 100297.4202544722,
+            "drizzleAmount": 1580.7039
+        },
+        {
+            "address": "r3BSHKoKH486qzaT6w8337VuRAXDeZ5JzS",
+            "balance": 100582.59196273,
+            "drizzleAmount": 1585.1982
+        },
+        {
+            "address": "rsxXaV7AXp37LyYLUMy4kW57kdCWkQ3KNh",
+            "balance": 94088.31302135,
+            "drizzleAmount": 1482.8473
+        },
+        {
+            "address": "rEZTCqpNgtHEMXtPmGqckYta1ypn92HdRk",
+            "balance": 90526.49044639,
+            "drizzleAmount": 1426.7124
+        },
+        {
+            "address": "r3iaGi6szJPAGsz3zEt6KLsqRKi1gT3A5S",
+            "balance": 52995.62588612,
+            "drizzleAmount": 835.2198
+        },
+        {
+            "address": "rfuorBM4R7HCDPcMGnwFUq3Q1TkLbhoNUq",
+            "balance": 82831.86487294092,
+            "drizzleAmount": 1305.4439
+        },
+        {
+            "address": "rnebzrM2FNWrhqe8PFEdSbSLqRja1L79Bh",
+            "balance": 66657.96011343,
+            "drizzleAmount": 1050.5404
+        },
+        {
+            "address": "rDwSdGhPqjysHaoz1Cu9egPS8gZaCgbvAk",
+            "balance": 51196.60798,
+            "drizzleAmount": 806.867
+        },
+        {
+            "address": "rMJqW54UgtN3S1g3H8hN6B3c53ge5zg2mu",
+            "balance": 69027.5104551687,
+            "drizzleAmount": 1087.8849
+        },
+        {
+            "address": "rEuBFbS7iRvEsVfiFxAhHfL2jig3CU92PB",
+            "balance": 86337.29078,
+            "drizzleAmount": 1360.6899
+        },
+        {
+            "address": "rPhYPGXD2dNdBFEd5GgSnpN9sb9pPk5VL3",
+            "balance": 40677.12069502,
+            "drizzleAmount": 641.0781
+        },
+        {
+            "address": "rD5nXmjbNyWGUGTGeSQQW6caDDKfpKjmFN",
+            "balance": 1004855.482055145,
+            "drizzleAmount": 15836.6881
+        },
+        {
+            "address": "rDXSv4ZFfYPNh3uVkkpykzX1Bd7AViiZb1",
+            "balance": 58378.19005973218,
+            "drizzleAmount": 920.0499
+        },
+        {
+            "address": "rhErijiQWJ98bLemEG2EmXH2TRjSFRhF9j",
+            "balance": 29055.35291460783,
+            "drizzleAmount": 457.9172
+        },
+        {
+            "address": "rHG1dxgczTYabXwqEiKM6gyYWkBBUdSxiC",
+            "balance": 83941.02038,
+            "drizzleAmount": 1322.9243
+        },
+        {
+            "address": "rPKNwmFCvSs5cpc5p5Z4CwzWN28UsJCMww",
+            "balance": 26412.38566935043,
+            "drizzleAmount": 416.2636
+        },
+        {
+            "address": "r9GUrHMGth5PjfoCrTXMwJJhnrK4au843U",
+            "balance": 104539.4894854876,
+            "drizzleAmount": 1647.5596
+        },
+        {
+            "address": "rhufkUqHMoes7BJrbvX7GbBZQErF56J4uX",
+            "balance": 42145.25873515,
+            "drizzleAmount": 664.2162
+        },
+        {
+            "address": "rw2iFSKXhjPn2ZvHYHRK9tBuCVYkrZLr75",
+            "balance": 43296.91087078,
+            "drizzleAmount": 682.3665
+        },
+        {
+            "address": "rU8uFeAGEPdnQYsVdy43bvJ8ijMCdZVv2T",
+            "balance": 25989.76693022358,
+            "drizzleAmount": 409.603
+        },
+        {
+            "address": "r3ifVtsNLZ83W21uzsPaeGE95YrWrGBNS5",
+            "balance": 788720.5720482704,
+            "drizzleAmount": 12430.3663
+        },
+        {
+            "address": "rDR6XH17MoACNbvNpChGCP3LvEm5bW6y7T",
+            "balance": 41960.45322555,
+            "drizzleAmount": 661.3037
+        },
+        {
+            "address": "rpSsDsQjkn4og3gxumtEmgwJ7g5yetoso5",
+            "balance": 121763.0643678672,
+            "drizzleAmount": 1919.006
+        },
+        {
+            "address": "r4jDhMv1KdMLunGKUHoTRSWywWinAGc4VF",
+            "balance": 62589.25275845957,
+            "drizzleAmount": 986.4169
+        },
+        {
+            "address": "rGUSBpWffgjuZgWsi551MKnhp57K9zqKYY",
+            "balance": 30815.71902295,
+            "drizzleAmount": 485.6608
+        },
+        {
+            "address": "rJFgUURmaUqkXzMewvycyKeBNYpGRRiBKx",
+            "balance": 56531.19079189,
+            "drizzleAmount": 890.9409
+        },
+        {
+            "address": "r3xA1HF3tonG5wirFPtPn1GjfbqZQpc6cU",
+            "balance": 33427.52393541356,
+            "drizzleAmount": 526.8233
+        },
+        {
+            "address": "rPtZs2vZhtxF4yN7njKjKqdBha9a5XLxY9",
+            "balance": 54219.55231581,
+            "drizzleAmount": 854.5091
+        },
+        {
+            "address": "rs389PaqWZkchfWtBgdG9Kv1BGa9xxaYJn",
+            "balance": 316620.651133804,
+            "drizzleAmount": 4989.9937
+        },
+        {
+            "address": "rpohMc3bE5KEfVBPkfBaMGdbosLpcH641o",
+            "balance": 55627.06368,
+            "drizzleAmount": 876.6917
+        },
+        {
+            "address": "rwqbji111Qu3c9ikSa6c7XSaHn7XqAtxYS",
+            "balance": 122692.6097813185,
+            "drizzleAmount": 1933.6558
+        },
+        {
+            "address": "rfcnKrQJjrX69KYxvezWMyQYwchA22u6s5",
+            "balance": 31684.80708998,
+            "drizzleAmount": 499.3578
+        },
+        {
+            "address": "rMWiQnK4JK6c3nZor34Q92hNxGhzt6Y2Qp",
+            "balance": 74717.99498106584,
+            "drizzleAmount": 1177.5679
+        },
+        {
+            "address": "rwRicLTgNX4qKygevw72RfVDj6sjbTYqaY",
+            "balance": 71360.60063,
+            "drizzleAmount": 1124.6548
+        },
+        {
+            "address": "rMymQjtXirTKDEJsxpXypMShX4GBu1qMbd",
+            "balance": 88817.24662197,
+            "drizzleAmount": 1399.7745
+        },
+        {
+            "address": "rURYDZSf4xX21PaB1mJnasXzEVKMWji68v",
+            "balance": 37153.03838,
+            "drizzleAmount": 585.538
+        },
+        {
+            "address": "rw4QuPgPPPt5BH7Lqo9LDVSuMxZFYA5xZJ",
+            "balance": 63401.67687363001,
+            "drizzleAmount": 999.2209
+        },
+        {
+            "address": "rMGfCbfK75UYyCzzWdxDJu5nELwuLiAQ5C",
+            "balance": 38019.55423000001,
+            "drizzleAmount": 599.1944
+        },
+        {
+            "address": "rwEBWbYEfMXHaW1AE5odiHyd3gAf1UNyQB",
+            "balance": 28501.48363333,
+            "drizzleAmount": 449.1881
+        },
+        {
+            "address": "rNirEvsSGiRDGtL68t6MJwfAyU1MExreYv",
+            "balance": 50983.59709483136,
+            "drizzleAmount": 803.5099
+        },
+        {
+            "address": "rULbqfUWQ74rubmbrRpX1oSrpRJrFULmSv",
+            "balance": 25825.30513,
+            "drizzleAmount": 407.0111
+        },
+        {
+            "address": "rGmGiUayTJ5xXmRSCaGSns4D2taBHKLBzr",
+            "balance": 44225.7376544772,
+            "drizzleAmount": 697.0049
+        },
+        {
+            "address": "rfSY5QL4bsaAjGfqQuyn6mRTPL3NPzmPAN",
+            "balance": 25075.88988,
+            "drizzleAmount": 395.2002
+        },
+        {
+            "address": "r9f5UeA1zKriZK25bnj5jLJiSqNDWJ8Lya",
+            "balance": 82647.91550123,
+            "drizzleAmount": 1302.5448
+        },
+        {
+            "address": "rrn4Fy8o6SnB7EnTQ5nw88EBP2AZkKMqG3",
+            "balance": 32088.32763295231,
+            "drizzleAmount": 505.7173
+        },
+        {
+            "address": "rwPAndgmPzkzRY67h83BcY6mN9ukNPLGpa",
+            "balance": 36570.27131536643,
+            "drizzleAmount": 576.3535
+        },
+        {
+            "address": "rBPvKfDan5uiAqUHKvg1sk1c3jLqVN9aGb",
+            "balance": 35876.99523895953,
+            "drizzleAmount": 565.4274
+        },
+        {
+            "address": "rDFXpezWxxAia6B9NkTefd5Y84QjucvnBj",
+            "balance": 35957.00513,
+            "drizzleAmount": 566.6883
+        },
+        {
+            "address": "rhd8hWfXqKCNxtC6JiUvZwz3NPgoi6B6Zo",
+            "balance": 35957.00513,
+            "drizzleAmount": 566.6883
+        },
+        {
+            "address": "rpwetc1H34xa6ZrGmJGacPaQhpAmB4PhPh",
+            "balance": 35957.00513,
+            "drizzleAmount": 566.6883
+        },
+        {
+            "address": "rUkxETMUMPLd2kBzkkCdyoRSwxFhwAeE2e",
+            "balance": 35957.00513,
+            "drizzleAmount": 566.6883
+        },
+        {
+            "address": "r36sQJhYJSC31MUb1J2vmHuZrw4rkuFpof",
+            "balance": 39415.18462233,
+            "drizzleAmount": 621.1898
+        },
+        {
+            "address": "rfzuVCwiXVVh8kj8Kgc2ttiwjFNVtxTDkF",
+            "balance": 37107.27946971,
+            "drizzleAmount": 584.8168
+        },
+        {
+            "address": "rDZhkFRoh8cFx32jhw7tou2uvGdAQWainj",
+            "balance": 107441.2768355099,
+            "drizzleAmount": 1693.2922
+        },
+        {
+            "address": "rNzJgY2Vfbmjb9mud5ex6v1nQ55VxPffg",
+            "balance": 78543.68255331164,
+            "drizzleAmount": 1237.8614
+        },
+        {
+            "address": "rsECAYN1K2cUU4QWySSfjeTTwpeRJyzA9q",
+            "balance": 41599.39004677762,
+            "drizzleAmount": 655.6132
+        },
+        {
+            "address": "rMTsoxzMHXKB7FhqRnPJWCkhRWq8ev6goN",
+            "balance": 235121.5895046263,
+            "drizzleAmount": 3705.555
+        },
+        {
+            "address": "r4qnd6P4mXb2vXQqFZzawiripRFyYUBWiZ",
+            "balance": 68498.09148768184,
+            "drizzleAmount": 1079.5412
+        },
+        {
+            "address": "rBmdx48QTwATNBevbDHrJTJZeJuKqWyu73",
+            "balance": 28086.76736307423,
+            "drizzleAmount": 442.6521
+        },
+        {
+            "address": "rU74uDenu4S8r7XrQhth96S8yYwxAZJaXV",
+            "balance": 76952.98591264462,
+            "drizzleAmount": 1212.7917
+        },
+        {
+            "address": "rB48k9HcS3btqdtg61XcjhCLZHKCY5UrsP",
+            "balance": 257387.683324792,
+            "drizzleAmount": 4056.4723
+        },
+        {
+            "address": "rnvWov34ScGM1ZrkkV1wzSpMBjkxNUXatE",
+            "balance": 51967.5712610341,
+            "drizzleAmount": 819.0175
+        },
+        {
+            "address": "rP3bJxB5XKFZfEZ8zVfqEjrrneSCSJFHMy",
+            "balance": 50904.39378,
+            "drizzleAmount": 802.2616
+        },
+        {
+            "address": "rszE5drZCWa5Nfz6ersj87EKhL7fneutYT",
+            "balance": 135130.9024021102,
+            "drizzleAmount": 2129.6853
+        },
+        {
+            "address": "rDUoHxCL91fVkGmzrntfCxerGbpuLLPdm7",
+            "balance": 84414.97902767,
+            "drizzleAmount": 1330.394
+        },
+        {
+            "address": "r9o9knkdE6LkGdGCgcsgyLJKcnyerEyD5k",
+            "balance": 68641.22629764,
+            "drizzleAmount": 1081.797
+        },
+        {
+            "address": "rMT1mrwegw6UuYExYZWTA2kHijZVYKtrd9",
+            "balance": 42910.0878987341,
+            "drizzleAmount": 676.2701
+        },
+        {
+            "address": "rBVUHsTrvNUyjgJabxmfBNgRWjE5HAmzZc",
+            "balance": 39826.11004695,
+            "drizzleAmount": 627.6661
+        },
+        {
+            "address": "rDTcsr3uLx5UTYzPkuDdyEa1x462qiZy9",
+            "balance": 76156.58305736,
+            "drizzleAmount": 1200.2403
+        },
+        {
+            "address": "rZyavKybPUTdzpDprfbT8Zexw9p7HAiUa",
+            "balance": 91924.99341524,
+            "drizzleAmount": 1448.7531
+        },
+        {
+            "address": "rhPQssAxB1HDpX2o9HidD6Jn4aSSZNFo9D",
+            "balance": 29952.7902,
+            "drizzleAmount": 472.0609
+        },
+        {
+            "address": "rnhiPicQJMXW9qydp9rjmzrQTTqkV2kwi2",
+            "balance": 53706.8136405707,
+            "drizzleAmount": 846.4282
+        },
+        {
+            "address": "rJuhgzt8FEqS7TFRHaX1jpMJuZnbL4GmpW",
+            "balance": 42932.86334681305,
+            "drizzleAmount": 676.629
+        },
+        {
+            "address": "rLLCBwJm2bR6rMY1oMzsDxYRMkUeD69SDY",
+            "balance": 211072.6800162798,
+            "drizzleAmount": 3326.5402
+        },
+        {
+            "address": "rPsSjNkwMRhEjtqj532z1XnfuSKWmPsRBp",
+            "balance": 54169.7296445871,
+            "drizzleAmount": 853.7239
+        },
+        {
+            "address": "rPNGfjLL3xV8AvabyuGZv9s6qcqLhRL28j",
+            "balance": 40000.26966810948,
+            "drizzleAmount": 630.4108
+        },
+        {
+            "address": "rLsdfrb3NNQdPDvJ3wy1ysQhAG2xKsUPAx",
+            "balance": 28632.35548,
+            "drizzleAmount": 451.2506
+        },
+        {
+            "address": "rKFdCk1rtCqRtmwoopt69nYxARL8cqDSi9",
+            "balance": 260764.7560137909,
+            "drizzleAmount": 4109.6956
+        },
+        {
+            "address": "rnpgBPgpTfCfvNacXkwEdMeFcw2w6NwkJE",
+            "balance": 59437.15112265845,
+            "drizzleAmount": 936.7393
+        },
+        {
+            "address": "r7XQBtVXsBX9w7rPtN4kGN7xHPQaf82i1",
+            "balance": 28987.86196458999,
+            "drizzleAmount": 456.8535
+        },
+        {
+            "address": "rLkPKxcS6sBjGR61dedRk5hd8W1qNXZ3qn",
+            "balance": 150011.27198,
+            "drizzleAmount": 2364.2024
+        },
+        {
+            "address": "rKT3RTUaaZ8xyJSNTYiNvMjT7sbaQbF7xt",
+            "balance": 30850.12443,
+            "drizzleAmount": 486.203
+        },
+        {
+            "address": "rBFgR73K1vpjfAPq1uXJhqz8zMBkskRhtR",
+            "balance": 28815.99268,
+            "drizzleAmount": 454.1448
+        },
+        {
+            "address": "r9haJizXzZXHDVV8NazPpd71taWtFp35mc",
+            "balance": 25625.71658599,
+            "drizzleAmount": 403.8655
+        },
+        {
+            "address": "rE123x7fvqpV7JWV2HS5MXoCfTvUAJaR3x",
+            "balance": 52299.64574696626,
+            "drizzleAmount": 824.251
+        },
+        {
+            "address": "r3ThkyqijxLNxJbrFJE1HHtUrQFk9ibJSL",
+            "balance": 30675.29459096344,
+            "drizzleAmount": 483.4477
+        },
+        {
+            "address": "rFTfd2i1d8V58XfmhHKHGsGm4eWjcK2hB",
+            "balance": 29877.9926402,
+            "drizzleAmount": 470.8821
+        },
+        {
+            "address": "rsi3Y3rhWPa38rYq66Ck3Kc8huxrdLYqjg",
+            "balance": 89678.00778827,
+            "drizzleAmount": 1413.3402
+        },
+        {
+            "address": "rnFp4R9uAVRfmPJfcMjvZ62F1CLVXzicBX",
+            "balance": 77691.91637505,
+            "drizzleAmount": 1224.4374
+        },
+        {
+            "address": "rpYGsvBkpPF5beVwfGM8NgcgE8iRgZfN7z",
+            "balance": 84996.97876618,
+            "drizzleAmount": 1339.5664
+        },
+        {
+            "address": "r9Ep86EmuYRFveFHJNqfBXNsBzj9msd26E",
+            "balance": 77079.40026168,
+            "drizzleAmount": 1214.7841
+        },
+        {
+            "address": "r3PqrAz7A9koLh9zXr788Dqim5RU6nSFx4",
+            "balance": 3336933.641825319,
+            "drizzleAmount": 52590.6246
+        },
+        {
+            "address": "rU8qcBDDsdqVzoDwYsbsRcDV8WCBKhFqAk",
+            "balance": 306106.6639731139,
+            "drizzleAmount": 4824.2915
+        },
+        {
+            "address": "r6A8imXjKJgKWHXgCRpjMrM8WyA8abBWM",
+            "balance": 28625.79604021,
+            "drizzleAmount": 451.1473
+        },
+        {
+            "address": "rUwD5b4X3gKA5u3nbu6KFSyzQcLbNPTi3i",
+            "balance": 46387.24947617,
+            "drizzleAmount": 731.0707
+        },
+        {
+            "address": "rKceHk2iygRS5ki5yR52FKe1gsNjFAuZJZ",
+            "balance": 35842.3518079,
+            "drizzleAmount": 564.8814
+        },
+        {
+            "address": "rpQhwaXtiVVjg9VjBEW4LuR9eG9c8zYaQx",
+            "balance": 184654.49014665,
+            "drizzleAmount": 2910.1852
+        },
+        {
+            "address": "rPqRHuU3UB7yqcS4kAHfpubsxFvg2MX455",
+            "balance": 112716.3737035599,
+            "drizzleAmount": 1776.4286
+        },
+        {
+            "address": "rhDhGndkDwWnKyr8PyLgDQXX1BNS2Nbf59",
+            "balance": 85594.01701777,
+            "drizzleAmount": 1348.9758
+        },
+        {
+            "address": "rwfpRhwtV8DbeVigQeo4iCC3WNSbxfRvoz",
+            "balance": 55690.86649407843,
+            "drizzleAmount": 877.6972
+        },
+        {
+            "address": "r95yY4dnQHm38Pm9neAxBmhcQeicujNDa5",
+            "balance": 87492.75530633,
+            "drizzleAmount": 1378.9003
+        },
+        {
+            "address": "rHsfYyJki4mphQ4vGm6mpztVBvwZND7qRt",
+            "balance": 75774.5632453,
+            "drizzleAmount": 1194.2196
+        },
+        {
+            "address": "rfd2zR1Kquxx91YcXyCCFGX8MMMBPNQRLU",
+            "balance": 25878.52062820999,
+            "drizzleAmount": 407.8498
+        },
+        {
+            "address": "raPVjXsS9uiwz35Ep9MqGTRvfcSncVQXHS",
+            "balance": 29087.64319522,
+            "drizzleAmount": 458.4261
+        },
+        {
+            "address": "r363kyZUY9FQ5EJgtqgZUg2VRdJ9ykFJoh",
+            "balance": 131481.5519197816,
+            "drizzleAmount": 2072.1709
+        },
+        {
+            "address": "rpzJxYVaV4jt25rh6NuUuys6pZLDRSPWjP",
+            "balance": 64117.71620056,
+            "drizzleAmount": 1010.5058
+        },
+        {
+            "address": "rUHvugWgwr81XRd3f6NzQ52K7NWP1tTXgm",
+            "balance": 102563.42382333,
+            "drizzleAmount": 1616.4165
+        },
+        {
+            "address": "rKCsm478c9furdWNJkYV9gBhqK1BrkH1jD",
+            "balance": 28663.05732651815,
+            "drizzleAmount": 451.7345
+        },
+        {
+            "address": "r47b3E6vK5BheVCAh6TJYg474iyhTHAcnz",
+            "balance": 41559.86286845,
+            "drizzleAmount": 654.9903
+        },
+        {
+            "address": "r4uLkKYy7VsvnRSK9zjtfoAztVAfLXQqKV",
+            "balance": 45373.36283,
+            "drizzleAmount": 715.0917
+        },
+        {
+            "address": "ra5Y5ZDWkEqmdD1Y68stu7comrtt7tLAat",
+            "balance": 154516.6562572799,
+            "drizzleAmount": 2435.208
+        },
+        {
+            "address": "rs4PirTFPGLHXUdD9n7pAwmazEWbZDwXn3",
+            "balance": 60636.502573174,
+            "drizzleAmount": 955.6413
+        },
+        {
+            "address": "rPRVQGXY1CZha15LtT2DgsiRAuBGsUxHZr",
+            "balance": 27642.12462749,
+            "drizzleAmount": 435.6444
+        },
+        {
+            "address": "rQfn21KgsSQknM6vZPFvfuAekhi9ryW3UK",
+            "balance": 2153382.892409236,
+            "drizzleAmount": 33937.6695
+        },
+        {
+            "address": "rJQSpUaKwGQAgzwZBuXRWYU72j3sK24VuG",
+            "balance": 49232.1164907723,
+            "drizzleAmount": 775.9063
+        },
+        {
+            "address": "rJXbzeLXtMsVyzLhAibpyT1hiJmYvTm8Zn",
+            "balance": 32509.30528183,
+            "drizzleAmount": 512.352
+        },
+        {
+            "address": "rUNF6Hv2YMJGxUkzAx1qYdsANdjAde5aJ1",
+            "balance": 30475.78989105859,
+            "drizzleAmount": 480.3035
+        },
+        {
+            "address": "r4ji7PBT3nW3cmEWv8CMVkYYugEndyiU6F",
+            "balance": 71323.36581817,
+            "drizzleAmount": 1124.068
+        },
+        {
+            "address": "rMgcVDswdmkggz3qrW2aAhuiDzm5cmGjRk",
+            "balance": 76023.73455566,
+            "drizzleAmount": 1198.1466
+        },
+        {
+            "address": "rEcPfjvaLHXMtRz79GftCB3k4gp7JQzt8d",
+            "balance": 26110.76548940747,
+            "drizzleAmount": 411.51
+        },
+        {
+            "address": "rGGDLdCLPS2XKKdDhuvnK7XVznLjgbQB5",
+            "balance": 66762.07818,
+            "drizzleAmount": 1052.1814
+        },
+        {
+            "address": "rF3NMC6TvR2kYwFHoSiA8MqtVxVaBfppP",
+            "balance": 203210.8900070503,
+            "drizzleAmount": 3202.6371
+        },
+        {
+            "address": "rBgrsNivjUuiH6accZJC1Hzh6pMqWMjaUy",
+            "balance": 1009365.11547393,
+            "drizzleAmount": 15907.7607
+        },
+        {
+            "address": "rQ9U7tciSp1PqqEo6aXTwjDdBMpuEccQCz",
+            "balance": 99124.40610864,
+            "drizzleAmount": 1562.217
+        },
+        {
+            "address": "r4ry1SDapcpmFt5mKqRGayeAYtFakQBk9s",
+            "balance": 43082.75984999,
+            "drizzleAmount": 678.9914
+        },
+        {
+            "address": "rwrj9TvUBbQfznsGTgoDc9EHRqixHCZ47W",
+            "balance": 60064.15249963823,
+            "drizzleAmount": 946.6209
+        },
+        {
+            "address": "rJdkTfp4azrQrPCp8vfzvrhhSypacJBDyr",
+            "balance": 61904.50063964,
+            "drizzleAmount": 975.6251
+        },
+        {
+            "address": "raSPoNcy67xieVa6io1nqzs5K6WwsgWrc8",
+            "balance": 62950.99545945579,
+            "drizzleAmount": 992.1181
+        },
+        {
+            "address": "rQfCEDQBPvmQbkbr4dHZyU7dQFEyJ7rZ1Z",
+            "balance": 124953.6075039924,
+            "drizzleAmount": 1969.2895
+        },
+        {
+            "address": "rMmyGFcpGF1xeEXPcFjgGnr2XqnKGA3MKB",
+            "balance": 49025.83498,
+            "drizzleAmount": 772.6552
+        },
+        {
+            "address": "rGSaHMjd116W5ndr4Gkhzeh7kSf1DpEqsy",
+            "balance": 119068.3489772565,
+            "drizzleAmount": 1876.5368
+        },
+        {
+            "address": "rfpiJF5drR9zTMuHdPnZXucmpbo9q5ZvPg",
+            "balance": 27881.14503,
+            "drizzleAmount": 439.4114
+        },
+        {
+            "address": "rwCEibHtFqYfURKHaaGwYAqV3tZfuRtaam",
+            "balance": 135510.24649417,
+            "drizzleAmount": 2135.6638
+        },
+        {
+            "address": "r4k6ujQBRFgHUD9t9KLHGmXs7qR9mJm8Wn",
+            "balance": 59178.87558990781,
+            "drizzleAmount": 932.6688
+        },
+        {
+            "address": "rpmQWfNqutrt8uV83RgNKsTxoQHAUMqCUi",
+            "balance": 108354.9152716865,
+            "drizzleAmount": 1707.6913
+        },
+        {
+            "address": "r4qB55n2WzAdFFD7v8Wr7vaCiVAL6Kzzpz",
+            "balance": 27868.13640429,
+            "drizzleAmount": 439.2064
+        },
+        {
+            "address": "rn42UYUQdP8Gd16kKHdu9owetvCft5SdcF",
+            "balance": 728231.8563289,
+            "drizzleAmount": 11477.0542
+        },
+        {
+            "address": "rHptxjA3jFirNBvipWEaDTz2nHwcrVkamp",
+            "balance": 187637.1661976816,
+            "drizzleAmount": 2957.1927
+        },
+        {
+            "address": "rwFBmuxaKyuAPNMzXGbGxxLXVn1Lg1KfkD",
+            "balance": 101808.6501109918,
+            "drizzleAmount": 1604.5211
+        },
+        {
+            "address": "rNihyS9jndgn9eduzCHNdnLPxdNvhokm69",
+            "balance": 27887.85598,
+            "drizzleAmount": 439.5172
+        },
+        {
+            "address": "rLj2K8cihtKtKkiCakMWURzcmCNkpbHdNH",
+            "balance": 27348.8056020643,
+            "drizzleAmount": 431.0217
+        },
+        {
+            "address": "rhG8Q6yiec1HJLdbr9ptQPssVU1QrxpBxw",
+            "balance": 29782.54970079558,
+            "drizzleAmount": 469.3779
+        },
+        {
+            "address": "rno35bcvBqLMETwksdhSiUuDQquXyoBtem",
+            "balance": 455597.2492851599,
+            "drizzleAmount": 7180.2878
+        },
+        {
+            "address": "raXGCQGkG1V5Nkt5M43UnTnL4dzUCBE4q",
+            "balance": 71582.51920010438,
+            "drizzleAmount": 1128.1523
+        },
+        {
+            "address": "r4JmtE1orXsFZuTXKV1rUdrsiBa7RnCz2N",
+            "balance": 1909151.198673618,
+            "drizzleAmount": 30088.5378
+        },
+        {
+            "address": "rDxfeokdq86o8KQZj5j8rKHnyUTRm2rJjf",
+            "balance": 25427.07688056,
+            "drizzleAmount": 400.7349
+        },
+        {
+            "address": "rfEMcuDotL5ugVAzecdsCvBFdPf1j8GdYM",
+            "balance": 45584.04934469,
+            "drizzleAmount": 718.4121
+        },
+        {
+            "address": "rK9H8aF6KAm1JWHtWdp1jiBkC6yjorbn3C",
+            "balance": 25814.70540014,
+            "drizzleAmount": 406.844
+        },
+        {
+            "address": "rPhMukCPCWM1snqKfgnTmZ5FgMSqjziKWt",
+            "balance": 96655.67428,
+            "drizzleAmount": 1523.3094
+        },
+        {
+            "address": "rJByR3dDMu9iiJ16LhoFfgmXznoBiuwK6r",
+            "balance": 110106.6315652734,
+            "drizzleAmount": 1735.2987
+        },
+        {
+            "address": "rPMvSY6bfg8zDaYNGD7SRU4mrBLKHR1iiG",
+            "balance": 50280.71488,
+            "drizzleAmount": 792.4324
+        },
+        {
+            "address": "rLtiyVmj4kA8MwQ2YU7vW2J41Vpx6JHv2",
+            "balance": 62795.67071494999,
+            "drizzleAmount": 989.6701
+        },
+        {
+            "address": "rpgXYrmiuZAyDp6Lmf1zaoBHHjTf8Qo1Ru",
+            "balance": 44783.89717184115,
+            "drizzleAmount": 705.8016
+        },
+        {
+            "address": "rhNwrVrNcz6nx96HPR5sBv3X3wmCUdAHXS",
+            "balance": 195682.98892265,
+            "drizzleAmount": 3083.9962
+        },
+        {
+            "address": "rhSjW2CSF5xzzZT8sxccTrCbDPgGjQnn5E",
+            "balance": 88738.3356831463,
+            "drizzleAmount": 1398.5308
+        },
+        {
+            "address": "rM6SUv4GbvswGqFx51dqybNryJ1jJs1PNJ",
+            "balance": 120905.7778400562,
+            "drizzleAmount": 1905.495
+        },
+        {
+            "address": "rh1Eh2XzsheeXJWXMi3fDhjS1Go4PDb3sG",
+            "balance": 237694.905985716,
+            "drizzleAmount": 3746.1109
+        },
+        {
+            "address": "rNynee2W8TfDEfGpVLQwADrL1f7CuetLwz",
+            "balance": 27888.0780972133,
+            "drizzleAmount": 439.5207
+        },
+        {
+            "address": "rPaSX4dwKhi3VZ9tn6Ewnb7J6y8TDugbh2",
+            "balance": 119236.85550612,
+            "drizzleAmount": 1879.1925
+        },
+        {
+            "address": "rNAbS1jZpma5D3ksr3Lv4mVmsL2C42pAKn",
+            "balance": 31090.44887941574,
+            "drizzleAmount": 489.9906
+        },
+        {
+            "address": "rH4oVJmCDWWuShzhLb3mD3oVXAYuk9nqdb",
+            "balance": 52785.42924891423,
+            "drizzleAmount": 831.9071
+        },
+        {
+            "address": "rhppPDNFJwFf7wrr1pvVkMwqvwxioVYiGD",
+            "balance": 255180.1570799999,
+            "drizzleAmount": 4021.6814
+        },
+        {
+            "address": "rKBp8VL6SU4SzKXfepG3echBRn6BAKzWy",
+            "balance": 163810.87768154,
+            "drizzleAmount": 2581.6864
+        },
+        {
+            "address": "rDdEGJSujW3YTMtmX19F33hjUoQYFcS8tZ",
+            "balance": 36898.4824386,
+            "drizzleAmount": 581.5262
+        },
+        {
+            "address": "rpFuaywSioJAPfMZEC3qxbdBAgzN6mQrLT",
+            "balance": 93279.66398771,
+            "drizzleAmount": 1470.1029
+        },
+        {
+            "address": "rEi33UaEXcSaHGMy1AiWPd1Ypr1EAUGUb1",
+            "balance": 40002.26066,
+            "drizzleAmount": 630.4422
+        },
+        {
+            "address": "r4NZFNjrTWJdLA5SgQdPv8sv6uX7QhtseC",
+            "balance": 25851.60298,
+            "drizzleAmount": 407.4255
+        },
+        {
+            "address": "rEm3pNTTN6S8MDGx6k1uyie4Q8WS7jR3rU",
+            "balance": 62373.56454428951,
+            "drizzleAmount": 983.0177
+        },
+        {
+            "address": "rMrucCR7BTTLKJZZXgSQ8Dg9jHLiPMhyGN",
+            "balance": 34426.95858052832,
+            "drizzleAmount": 542.5745
+        },
+        {
+            "address": "rpgtbNuTeDtdBmLpjsL8KsdoukciuNSLtf",
+            "balance": 115482.65435341,
+            "drizzleAmount": 1820.0257
+        },
+        {
+            "address": "rEZ3fE2mKnptMRB4ocnSbRGxhKBxHw6wy2",
+            "balance": 1566222.625775666,
+            "drizzleAmount": 24683.9269
+        },
+        {
+            "address": "rpp4gER2QTMJbWGuKNyBb1kHXpc6fs7GZE",
+            "balance": 53776.02193321848,
+            "drizzleAmount": 847.519
+        },
+        {
+            "address": "r9eQi9x5VpE1vp1WcUpcKnSTA9MRp2vtAf",
+            "balance": 26679.45439261077,
+            "drizzleAmount": 420.4726
+        },
+        {
+            "address": "rsYCv3djLKakt3uWJERHqGvpKPyZFXeFSv",
+            "balance": 139087.0957997,
+            "drizzleAmount": 2192.0356
+        },
+        {
+            "address": "r9NLynFpcNrECiHgfvgVdXXtXQw4N7gidX",
+            "balance": 448251.3870327248,
+            "drizzleAmount": 7064.5158
+        },
+        {
+            "address": "rLU9ADmqPGijpAiw3xRfheQttnuX9UfLGm",
+            "balance": 26546.00579694578,
+            "drizzleAmount": 418.3694
+        },
+        {
+            "address": "rp53oHLrm9UuJjE5v5hQEUJykqqnxPxnCJ",
+            "balance": 25438.17333985286,
+            "drizzleAmount": 400.9098
+        },
+        {
+            "address": "rwzamqnsVbhHnYn2FPefRbRtnefh66jWFe",
+            "balance": 25977.74009827241,
+            "drizzleAmount": 409.4135
+        },
+        {
+            "address": "rJuFFytEhVu632DcjAHqy6ZWiCD4HRqAaX",
+            "balance": 87263.52458011,
+            "drizzleAmount": 1375.2875
+        },
+        {
+            "address": "rJNDK8NFeLTDommVqZqAnk5UrUi9gEZaTS",
+            "balance": 120238.07427288,
+            "drizzleAmount": 1894.9719
+        },
+        {
+            "address": "rsYqZNiMKY1RNHq3F1vVoURbJDCxuz75YF",
+            "balance": 202764.2531172599,
+            "drizzleAmount": 3195.5981
+        },
+        {
+            "address": "r34ZU9oSvS4V8JNq62hfMXg9FsUqP3wyj7",
+            "balance": 77767.03235004949,
+            "drizzleAmount": 1225.6213
+        },
+        {
+            "address": "rGNNDfVkdokwfkyAsjhr1rEjqV1w3a4pPU",
+            "balance": 94055.87052862,
+            "drizzleAmount": 1482.336
+        },
+        {
+            "address": "rDQdkzx17ma7oUtiKMvaCX38DKJFMjVFHR",
+            "balance": 56636.73943642,
+            "drizzleAmount": 892.6044
+        },
+        {
+            "address": "rH1VaK2p8XiBejsSj1dKw6eCP3Q37ZjS9J",
+            "balance": 151555.3651729766,
+            "drizzleAmount": 2388.5376
+        },
+        {
+            "address": "rLEJWL6vz2tJd7KKZrbNLyeVA8e7xk3jTR",
+            "balance": 236422.05235508,
+            "drizzleAmount": 3726.0505
+        },
+        {
+            "address": "rMYUxqoM9akpGk5HijiaWCDqNsSoZoa4eP",
+            "balance": 26637.58659301775,
+            "drizzleAmount": 419.8128
+        },
+        {
+            "address": "rHqeTuduQAB6JnHVuaJue8egyaGrpC57NP",
+            "balance": 671440.634023981,
+            "drizzleAmount": 10582.0151
+        },
+        {
+            "address": "r42FsL99MEGhGtbJzBFhbCTfNsL76wxK9g",
+            "balance": 101707.1431220335,
+            "drizzleAmount": 1602.9214
+        },
+        {
+            "address": "rUc8aXZ5rHFShCyxQRmx1wJgPMMkm33B6N",
+            "balance": 134422.73919348,
+            "drizzleAmount": 2118.5245
+        },
+        {
+            "address": "r3LeLaFzDmNKLSXv527VBik2btRx1jN2mj",
+            "balance": 28718.08102555804,
+            "drizzleAmount": 452.6017
+        },
+        {
+            "address": "rB8FACFfwzNNZx1hVwcjymuxWodhubM2Cz",
+            "balance": 115000.0007500041,
+            "drizzleAmount": 1812.419
+        },
+        {
+            "address": "rGwwKyNMM9RyfqJs9cpPjbPD2wbCWUR4Si",
+            "balance": 107574.6565484324,
+            "drizzleAmount": 1695.3943
+        },
+        {
+            "address": "rMdPZRXA2GVSV7uXCxV5dyq43GhAVnQQpT",
+            "balance": 414480.46980415,
+            "drizzleAmount": 6532.2806
+        },
+        {
+            "address": "rGJzFMUKQ2EtmPUbAgGEUJEzFnYh6iPG9J",
+            "balance": 71207.33054797913,
+            "drizzleAmount": 1122.2393
+        },
+        {
+            "address": "rPfaSu7H7TirvwQsxN5RarErdLpvPCEqfH",
+            "balance": 75815.02674793855,
+            "drizzleAmount": 1194.8573
+        },
+        {
+            "address": "rEUBp8LU9wR1S3ibr7RNWpVttZqJcHKPTQ",
+            "balance": 105073.66657006,
+            "drizzleAmount": 1655.9783
+        },
+        {
+            "address": "rKvKiaKjJ6je8yiiCuv8FqCNsqKdQERpS7",
+            "balance": 44928.91283425,
+            "drizzleAmount": 708.0871
+        },
+        {
+            "address": "rGMocHYPP6gjCKz86zX5xTVvv8E6dEZbJ1",
+            "balance": 31599.47586531,
+            "drizzleAmount": 498.013
+        },
+        {
+            "address": "rULuVPsASYHgB5bFkw1GWXSfgyVy6jiP3T",
+            "balance": 54886.61276475046,
+            "drizzleAmount": 865.0221
+        },
+        {
+            "address": "rMuw1fTL9RftxRm7pqc2hizaq5R2gAVboo",
+            "balance": 70091.19053673,
+            "drizzleAmount": 1104.6487
+        },
+        {
+            "address": "rDHWhNg5LEKCkubqPsLjhD4j9fPYqoDYQq",
+            "balance": 30643.78481289693,
+            "drizzleAmount": 482.9511
+        },
+        {
+            "address": "rnJSwAV636C4RzQXW8yJEH1TxNneuvX1KL",
+            "balance": 91538.17771162449,
+            "drizzleAmount": 1442.6568
+        },
+        {
+            "address": "rDivN6Y15bcVG98MfXSKv9vFvAzGN8Vysi",
+            "balance": 32579.98670671952,
+            "drizzleAmount": 513.466
+        },
+        {
+            "address": "rP6AhxCtDV38wa3zBQUHk5yJ9gYcuFnGeT",
+            "balance": 161203.72736166,
+            "drizzleAmount": 2540.5973
+        },
+        {
+            "address": "rGPSJzDi4AEGnTJfkdGLuqYMrkjTdzgdrC",
+            "balance": 567375.7133758815,
+            "drizzleAmount": 8941.9348
+        },
+        {
+            "address": "rBMoz8hMTWaUnRiaqwi2SVJQmre9U37hRv",
+            "balance": 70792.92925157955,
+            "drizzleAmount": 1115.7082
+        },
+        {
+            "address": "rMoLCNag2e9ptyjFTc6pdQvgUqJjoZ8vhh",
+            "balance": 74408.15368118,
+            "drizzleAmount": 1172.6848
+        },
+        {
+            "address": "rNrJ6rBJkNQkZfSB3YhDXHdeUTTHB6UhHz",
+            "balance": 40058.99658505215,
+            "drizzleAmount": 631.3364
+        },
+        {
+            "address": "rMKfiV4Sfw54iUeEzBYJbGfoxaBvg8SuqB",
+            "balance": 32968.10221739355,
+            "drizzleAmount": 519.5827
+        },
+        {
+            "address": "rs12CF4ZmVxbPGmnPt3kaQif1RWaQiUKQs",
+            "balance": 156047.17986256,
+            "drizzleAmount": 2459.3293
+        },
+        {
+            "address": "rEdG5MWsbbHvVDfhFLms4ouRmqvEJQJjjk",
+            "balance": 82972.47996807,
+            "drizzleAmount": 1307.66
+        },
+        {
+            "address": "rhyv6um8bZxTj7zdti6eEQ2C89B3cdBkau",
+            "balance": 35563.32728623877,
+            "drizzleAmount": 560.4839
+        },
+        {
+            "address": "rwg2nepWA9EiNiraapcagU7Fc8TRACut6Y",
+            "balance": 111695.4518584484,
+            "drizzleAmount": 1760.3387
+        },
+        {
+            "address": "rBxN9B3nd3YCutzJM9c44sdJmoDReJ8bPF",
+            "balance": 132378.0235010055,
+            "drizzleAmount": 2086.2995
+        },
+        {
+            "address": "r3v5EzhoK3pGkWmt9JveB78KGoYnxP9RZp",
+            "balance": 94405.25581305,
+            "drizzleAmount": 1487.8424
+        },
+        {
+            "address": "rJRzprxRHSR6uQ8JfngtK1AbDfQWiRSdCE",
+            "balance": 528752.1687031465,
+            "drizzleAmount": 8333.2214
+        },
+        {
+            "address": "rQnxoKkHRpiDySnZZ5d2Q8pyfefkhygYcT",
+            "balance": 28478.5771689292,
+            "drizzleAmount": 448.8271
+        },
+        {
+            "address": "rDgDQxoVNd8YwFQbK33A46KRoEzVUcEisq",
+            "balance": 89540.02833,
+            "drizzleAmount": 1411.1656
+        },
+        {
+            "address": "rPzSyhmfWhnK5RycaxgDwFUGTf1tWEZbmC",
+            "balance": 29998.09985350333,
+            "drizzleAmount": 472.775
+        },
+        {
+            "address": "ra8fupQoBVcooEQDK6yeuabZ2WD2r5jt7h",
+            "balance": 102787.2798746,
+            "drizzleAmount": 1619.9445
+        },
+        {
+            "address": "rszXbFaw6nw8mVYvPwzox6f66vDN5XBNWo",
+            "balance": 96262.88019119,
+            "drizzleAmount": 1517.1189
+        },
+        {
+            "address": "rEMQNCyMbUoxtWvUjPMFvY2FXgqWdzHAdc",
+            "balance": 29514.80537169757,
+            "drizzleAmount": 465.1582
+        },
+        {
+            "address": "rsUj5TUnMA7xJ5Hac2tnAk2GzRVb8U69VJ",
+            "balance": 505232.5589053071,
+            "drizzleAmount": 7962.5485
+        },
+        {
+            "address": "r3EhtvGQ7XMSGuQjmT7QQN2eMM88bGybuB",
+            "balance": 27000.00075000499,
+            "drizzleAmount": 425.5245
+        },
+        {
+            "address": "rEFreSGEkkAFDkBNGCe9GZPNi8Ydm1Kv6d",
+            "balance": 42863.1512597299,
+            "drizzleAmount": 675.5303
+        },
+        {
+            "address": "rGMZn9TUA7MftUiuJhpfqKTcjwrb5UmKA2",
+            "balance": 39776.34937288,
+            "drizzleAmount": 626.8818
+        },
+        {
+            "address": "rp9kJTnnfXrjwVFxGRWfjUbJdmxkGP4cif",
+            "balance": 249727.17398755,
+            "drizzleAmount": 3935.7414
+        },
+        {
+            "address": "r4ST3nXbRH9Bm7LJ3j3KVTSSpPgpMk3UKa",
+            "balance": 42907.04920568,
+            "drizzleAmount": 676.2222
+        },
+        {
+            "address": "rHiGdrE5LBDWaBmS3smR2DwdV3wRn3m5FA",
+            "balance": 556342.0725961273,
+            "drizzleAmount": 8768.0428
+        },
+        {
+            "address": "rUxMFRTBnsdJ9nujaouwzhP8K33vyogVEF",
+            "balance": 86277.62935589472,
+            "drizzleAmount": 1359.7497
+        },
+        {
+            "address": "rNKjNE4sJ828LBQRFjrpD5psiqjEqmMV3h",
+            "balance": 83123.17794133937,
+            "drizzleAmount": 1310.035
+        },
+        {
+            "address": "rD1CoMHvr5io86TCWg4mYiS7Amge2eLydi",
+            "balance": 57757.41996985,
+            "drizzleAmount": 910.2665
+        },
+        {
+            "address": "rMBnXU5VHGxwPf97k9P7V6eqNbiTGBHEWF",
+            "balance": 293862.0673719344,
+            "drizzleAmount": 4631.3146
+        },
+        {
+            "address": "raHmTcDguMfYcs4zJudTp51nHbVr8FF5SK",
+            "balance": 206623.2026165441,
+            "drizzleAmount": 3256.4158
+        },
+        {
+            "address": "rsRPHwDyRv18j1hT1wkQEHCvtCpgKYYyGc",
+            "balance": 177927.7593066699,
+            "drizzleAmount": 2804.1708
+        },
+        {
+            "address": "rDadHSYbHVmPexWBcGjHG51vk6bm2EXdN1",
+            "balance": 37997.11472147125,
+            "drizzleAmount": 598.8408
+        },
+        {
+            "address": "rHi7CSUVLfZRkobHmU9ySWTZu4mNhx3Rig",
+            "balance": 101593.0218957542,
+            "drizzleAmount": 1601.1228
+        },
+        {
+            "address": "rLbUhtuZC75uVKYGWexQaKtekEroXgBN3Q",
+            "balance": 76012.78568599,
+            "drizzleAmount": 1197.974
+        },
+        {
+            "address": "r9gQJgstAu5a4kC7JZHk83SXMpyBL6pj3q",
+            "balance": 72131.91667953,
+            "drizzleAmount": 1136.8109
+        },
+        {
+            "address": "r48Lxsui645NcCBwoa2pLN81rnfFkyQ3Ch",
+            "balance": 31597.5174687,
+            "drizzleAmount": 497.9821
+        },
+        {
+            "address": "rUtqN8J5yLeXZCM86yD37tHrfZ64Qziyzi",
+            "balance": 44347.60196474,
+            "drizzleAmount": 698.9255
+        },
+        {
+            "address": "rp7twsS3fzzjwVeLbQnwhsgvNwHtdzQYyX",
+            "balance": 626508.6656521698,
+            "drizzleAmount": 9873.8799
+        },
+        {
+            "address": "rN2xbaerZn4dQyXrhY1rVqGEAyGeMWftRN",
+            "balance": 100936.63518248,
+            "drizzleAmount": 1590.778
+        },
+        {
+            "address": "rXtvpARjgu65R3vovEPMhgwAMZ555PrdA",
+            "balance": 225040.540233898,
+            "drizzleAmount": 3546.676
+        },
+        {
+            "address": "r32d5sxTjQYeDKp26D4q9ezGe5tGYjNECi",
+            "balance": 1151135.808904137,
+            "drizzleAmount": 18142.0902
+        },
+        {
+            "address": "rMJxnXXgYk54Psb9SLmCJERzvCnQWPfXsh",
+            "balance": 30381.86263454151,
+            "drizzleAmount": 478.8232
+        },
+        {
+            "address": "rB4kANQzfCfA2KdM11fFs5Y9Dg8ipkbU76",
+            "balance": 66948.52413356,
+            "drizzleAmount": 1055.1198
+        },
+        {
+            "address": "r3eWjG7no9shtBzPH7cDS1qDTiHgM8qHvn",
+            "balance": 105517.71188692,
+            "drizzleAmount": 1662.9765
+        },
+        {
+            "address": "rK4CWU4Ra52bUmeQDxC7fkxdLXhoK1jDww",
+            "balance": 63212.21896577875,
+            "drizzleAmount": 996.235
+        },
+        {
+            "address": "r3hHeP7fsBq6ZHrScFWHdcLsGnB7ztkvNN",
+            "balance": 37751.49458502,
+            "drizzleAmount": 594.9698
+        },
+        {
+            "address": "rsoFdZaggJc7Ub166r6Gw4sqrpRFbLEmeM",
+            "balance": 105528.67976927,
+            "drizzleAmount": 1663.1494
+        },
+        {
+            "address": "rnwEK7e5QwxAGGzk11aqZhPbZ6DnLYN49Z",
+            "balance": 93515.20999445,
+            "drizzleAmount": 1473.8151
+        },
+        {
+            "address": "rfNGFhCMCTxHxmjsbtMPcNRNzMJXhtXJZu",
+            "balance": 39049.24966709164,
+            "drizzleAmount": 615.4226
+        },
+        {
+            "address": "rHY7dgD7H4bWF3H4564sEk18yPksXUPfM2",
+            "balance": 26869.698153875,
+            "drizzleAmount": 423.4709
+        },
+        {
+            "address": "rUDJ6GrLseydhrQEM94D14FxJW9hzuww1z",
+            "balance": 363600.9945161599,
+            "drizzleAmount": 5730.4116
+        },
+        {
+            "address": "rsiJmkMimkdb5kZDtjtKPFiR8NYE7mbsVD",
+            "balance": 99955.9575817,
+            "drizzleAmount": 1575.3224
+        },
+        {
+            "address": "rnJGvwuwzZ76U2NJBjjpUgyM3aUEdcmsd4",
+            "balance": 83492.69505888844,
+            "drizzleAmount": 1315.8586
+        },
+        {
+            "address": "rpSKjY3LuhAiY21o7r8V9T9bTjQj79PXmW",
+            "balance": 86212.00885486924,
+            "drizzleAmount": 1358.7155
+        },
+        {
+            "address": "rrsciD1EJSgMFteukXWkHR4EpFdMwm1WJ6",
+            "balance": 26146.07939756,
+            "drizzleAmount": 412.0665
+        },
+        {
+            "address": "rHsQUtPFnXeZRkpV8wBiFnw2u643JYVK1x",
+            "balance": 26437.91367876508,
+            "drizzleAmount": 416.6659
+        },
+        {
+            "address": "rhQcBB7DzRpMfAgUHxGfvPF1Rk9xRe8ky7",
+            "balance": 1833254.054107529,
+            "drizzleAmount": 28892.3863
+        },
+        {
+            "address": "rBNB7DjPnAiDSrVauFTHKncgRjZB2CChXr",
+            "balance": 99209.73443881742,
+            "drizzleAmount": 1563.5618
+        },
+        {
+            "address": "rwzbz1tvRub41aDuJm9fAEuRG7By3R3x8n",
+            "balance": 26344.6634677829,
+            "drizzleAmount": 415.1962
+        },
+        {
+            "address": "rstDnFs29StMhhYBWqR5wm5XWpmBKw1YNL",
+            "balance": 85956.46701608613,
+            "drizzleAmount": 1354.6881
+        },
+        {
+            "address": "rs63dGVfxRxTi6XWmDuqf5sUCLVkHnYeqV",
+            "balance": 80073.08542942646,
+            "drizzleAmount": 1261.965
+        },
+        {
+            "address": "rsV2G1Nb594vV37peAekU4xaADHg7y59vA",
+            "balance": 132149.46471719,
+            "drizzleAmount": 2082.6974
+        },
+        {
+            "address": "raGBRcjWLSgDmBTwJ7juaq7f13xAFKGsc3",
+            "balance": 87504.13286498857,
+            "drizzleAmount": 1379.0796
+        },
+        {
+            "address": "rG83oWisezUD9iro5Hb6jB29RTeRzYrgh4",
+            "balance": 86091.0838773557,
+            "drizzleAmount": 1356.8097
+        },
+        {
+            "address": "rwxUGHFMZNZsctFPCxn22dJRUMU5VMdYge",
+            "balance": 116472.5939862403,
+            "drizzleAmount": 1835.6273
+        },
+        {
+            "address": "r9EkD87CFH2u81U4BST9iLoHDtNudJHTgs",
+            "balance": 86050.30781530714,
+            "drizzleAmount": 1356.167
+        },
+        {
+            "address": "rHFPtWJQ5jm7VNdtkR89qs8HrSSViApuDA",
+            "balance": 87739.12795350664,
+            "drizzleAmount": 1382.7831
+        },
+        {
+            "address": "rsH1kfGrbVNdzFACeHrv314qaGRF2YqRES",
+            "balance": 147937.6373028908,
+            "drizzleAmount": 2331.5216
+        },
+        {
+            "address": "rwGPbry4Cr6FZXu3LbMhDywdjp9DRX6uX8",
+            "balance": 25041.94474353,
+            "drizzleAmount": 394.6652
+        },
+        {
+            "address": "rGKeoQ5drb9EUjhoUDKHR2sxum43xJqgtm",
+            "balance": 407808.3495804971,
+            "drizzleAmount": 6427.1268
+        },
+        {
+            "address": "rfE6XJm2ndaGXcU8xLTPQP1hYzPos5t5LD",
+            "balance": 56490.56751658953,
+            "drizzleAmount": 890.3007
+        },
+        {
+            "address": "r3KFdr7FTU1hxo9DbS1h65Wq8MXG7e9cgK",
+            "balance": 36556.00803956,
+            "drizzleAmount": 576.1287
+        },
+        {
+            "address": "rQU6haAN7FQAUuF4QWQtdFjjL3dzqSMwhN",
+            "balance": 203187.49455951,
+            "drizzleAmount": 3202.2684
+        },
+        {
+            "address": "rG2amRSAicSCidv8t5vPYARY9kZ49TLNwX",
+            "balance": 86034.72745513,
+            "drizzleAmount": 1355.9215
+        },
+        {
+            "address": "rJUnzvLzmZ8zhTF7cc2P3QnsvSFbvtS3JA",
+            "balance": 122989.5435514913,
+            "drizzleAmount": 1938.3355
+        },
+        {
+            "address": "rQ3ev3CXDdFahgr5NBknQ91GtiW3gqkg1J",
+            "balance": 86038.77383316,
+            "drizzleAmount": 1355.9853
+        },
+        {
+            "address": "rD2FyFJZn8KeY9xcLQ1Xh7fvn1JoeAqQhU",
+            "balance": 93364.1874967941,
+            "drizzleAmount": 1471.435
+        },
+        {
+            "address": "rUvzfDFbg5GatAMw7MEJiNUfXyvbc6GhoS",
+            "balance": 87505.04146595,
+            "drizzleAmount": 1379.0939
+        },
+        {
+            "address": "rGVc3tJev2fppyMNeVct6aQ9Jk7XCsCE6J",
+            "balance": 87528.56980085,
+            "drizzleAmount": 1379.4647
+        },
+        {
+            "address": "r3meCpC7MWvyZVMpiGer3NMvuiwF5Fb2Pq",
+            "balance": 67680.94299065357,
+            "drizzleAmount": 1066.6628
+        },
+        {
+            "address": "rsj4WtzEFF3WpKLmHHBQKREeFz4H6vvcwJ",
+            "balance": 86038.80168164505,
+            "drizzleAmount": 1355.9857
+        },
+        {
+            "address": "rJkUJJZt6yt9mJFC6n5A8QQrLJ3sRtNT3u",
+            "balance": 86068.91628768192,
+            "drizzleAmount": 1356.4603
+        },
+        {
+            "address": "rfPnsGnQYUUozRQi5749PVjSDzrnphcmyW",
+            "balance": 26939.38708189,
+            "drizzleAmount": 424.5692
+        },
+        {
+            "address": "rUHfPf1Djkz8y8iaE882PnXvAgMqjsgG75",
+            "balance": 53522.52504310555,
+            "drizzleAmount": 843.5238
+        },
+        {
+            "address": "rUXVxxM8t4FxtXoQk6XjbRzpzcuHr6ib9Y",
+            "balance": 98411.09338,
+            "drizzleAmount": 1550.9751
+        },
+        {
+            "address": "rUSyeiYUuSuXr5FGm9QJAXjWFRMTp3Apoj",
+            "balance": 118915.2857847421,
+            "drizzleAmount": 1874.1245
+        },
+        {
+            "address": "rDVUatrNWvUP4DjFkGFs96YR1zTjnq9qUX",
+            "balance": 25630.29853073694,
+            "drizzleAmount": 403.9377
+        },
+        {
+            "address": "rf2LtaJ3CCJMJfrugSuaCRBLfMqnyUdwVK",
+            "balance": 25954.98844728362,
+            "drizzleAmount": 409.0549
+        },
+        {
+            "address": "rwtA7LXhWKkffYVY1ZEbFLqHs6khBCFgD8",
+            "balance": 149403.4321321099,
+            "drizzleAmount": 2354.6227
+        },
+        {
+            "address": "rJu97nd2Qb5KWN3UkDVHvXKNmjXBgDi3YV",
+            "balance": 108007.8033458912,
+            "drizzleAmount": 1702.2208
+        },
+        {
+            "address": "rLdAdXY4GaoApwoKyyjWnZsRFWjDwSxrJ3",
+            "balance": 67985.91280706,
+            "drizzleAmount": 1071.4692
+        },
+        {
+            "address": "rpr8ohzyp3NMNkBn5kvZ25qiU6xxE86shm",
+            "balance": 557757.1593789642,
+            "drizzleAmount": 8790.3448
+        },
+        {
+            "address": "rfvur8JsMc1Xs8Hj9Uq1XC3SN5Qff8q1VH",
+            "balance": 114246.513007,
+            "drizzleAmount": 1800.5439
+        },
+        {
+            "address": "rGE9mi2uxPLhSpVXRjPMbBS7e49jRn7SbG",
+            "balance": 26271.71130743,
+            "drizzleAmount": 414.0465
+        },
+        {
+            "address": "rGcFmXUDisAvFKNYnHwzVbPtmM6TcLmX5U",
+            "balance": 29500.46341458,
+            "drizzleAmount": 464.9322
+        },
+        {
+            "address": "rJVXAgHmctVWWJSLXPEUM8BXN7EJKge52n",
+            "balance": 161367.0429962262,
+            "drizzleAmount": 2543.1712
+        },
+        {
+            "address": "rLkKykZoA5JDnS96svnkSPLVm2hAdw9dRc",
+            "balance": 101628.8987801266,
+            "drizzleAmount": 1601.6882
+        },
+        {
+            "address": "rndi4kuBPzpuZHYRnzg5efywUkVEmmFbPr",
+            "balance": 120013.2854269773,
+            "drizzleAmount": 1891.4292
+        },
+        {
+            "address": "rKqW7MmrSejV7rjmhuvjUf1xBbmKY9VCVp",
+            "balance": 309325.23587478,
+            "drizzleAmount": 4875.0167
+        },
+        {
+            "address": "rPTaFAGXL4ghc9iMc1i5GvH4m1sHHX8oek",
+            "balance": 50856.3633499994,
+            "drizzleAmount": 801.5047
+        },
+        {
+            "address": "rfSvurAoemLuJGnn6jxbcjZKjVLUpp7WMY",
+            "balance": 41007.26314624,
+            "drizzleAmount": 646.2812
+        },
+        {
+            "address": "rPkDdUuZXc9CzSHCZ1at5NkruMKwTdR8ZV",
+            "balance": 1117072.363129999,
+            "drizzleAmount": 17605.2447
+        },
+        {
+            "address": "r4eH7tmTfUyh1qDwTvuh2GDzMGQQFoacWX",
+            "balance": 75514.6611225976,
+            "drizzleAmount": 1190.1235
+        },
+        {
+            "address": "rKYGcCZKcihYsPSeho4Y7dPyvy3VGCNx3N",
+            "balance": 1424394.116244611,
+            "drizzleAmount": 22448.6862
+        },
+        {
+            "address": "rab1q1tsXS9pQgkFWy66D2cunUBacZP8m6",
+            "balance": 940263.4525467288,
+            "drizzleAmount": 14818.7071
+        },
+        {
+            "address": "rGFaZSm1WNafmn9zhHVVkDeD3M9YbDyWvZ",
+            "balance": 58749.4176141022,
+            "drizzleAmount": 925.9005
+        },
+        {
+            "address": "rPQt6EMkSf6xRTLBZXTENVEtHPxW8FZrMf",
+            "balance": 106902.4345503101,
+            "drizzleAmount": 1684.8
+        },
+        {
+            "address": "rJd6579WobCiptrR15LacugvRR3SwiQLq9",
+            "balance": 117712.2320467419,
+            "drizzleAmount": 1855.1642
+        },
+        {
+            "address": "rNEZNPBGyu7Vwdbw9yf4wmVK7NyKL6EYD9",
+            "balance": 1039534.266126502,
+            "drizzleAmount": 16383.2315
+        },
+        {
+            "address": "rp69rLhTS5dBB2Tk8nY8Zgj1cF1WGJsjoa",
+            "balance": 155476.5254625096,
+            "drizzleAmount": 2450.3357
+        },
+        {
+            "address": "rNkv5FqXqBCt8C671UqDytqVgoFSBB4oKz",
+            "balance": 27162.40898,
+            "drizzleAmount": 428.084
+        },
+        {
+            "address": "rpXYMw8Vkaw69BqfcwuLbgWQX6YGdhLvxG",
+            "balance": 46299.46242924274,
+            "drizzleAmount": 729.6872
+        },
+        {
+            "address": "rE8gzjgU4uggXZckkSukwB4EcFjWaTqWwF",
+            "balance": 28208.77858897,
+            "drizzleAmount": 444.575
+        },
+        {
+            "address": "rEg9kVjqYnZqLfXwNoECU12g9qky6xzhhS",
+            "balance": 173512.3268121163,
+            "drizzleAmount": 2734.5829
+        },
+        {
+            "address": "rL8NW4mDfSYbMCm1MCpB3tjrUWRmkCtiuh",
+            "balance": 88133.28207189,
+            "drizzleAmount": 1388.9951
+        },
+        {
+            "address": "rMf8QmJJv5P44gsLuLViUbSrP65fhFsc9h",
+            "balance": 27625.86298,
+            "drizzleAmount": 435.3882
+        },
+        {
+            "address": "rsy4Cs7WVNPA8vZ9dxFkawqCqYhkUFobjA",
+            "balance": 27309.127097034,
+            "drizzleAmount": 430.3963
+        },
+        {
+            "address": "rhZo3zkc325NvB16iDMv24uZ49Jjkw696c",
+            "balance": 48651.11288,
+            "drizzleAmount": 766.7496
+        },
+        {
+            "address": "ra3nUHub2Frt1B2ocW82xBMHZcx5mSScWp",
+            "balance": 1492954.072307432,
+            "drizzleAmount": 23529.2024
+        },
+        {
+            "address": "r3A5XFxZb2HqrC5Qz8k5mz1Fgqu2sNFQG1",
+            "balance": 34967.68441195999,
+            "drizzleAmount": 551.0965
+        },
+        {
+            "address": "rQpcjUnuRmyxicTjnWzSb7K35JqpgPP1qH",
+            "balance": 100461.023732987,
+            "drizzleAmount": 1583.2823
+        },
+        {
+            "address": "rGWUWVjcTbavbtbdujoweL8NjiScm87md1",
+            "balance": 74629.05351066506,
+            "drizzleAmount": 1176.1662
+        },
+        {
+            "address": "rKQ1cAegbWyVMWYLxDAUcF9vpAz3qVwFW5",
+            "balance": 270446.42064038,
+            "drizzleAmount": 4262.2802
+        },
+        {
+            "address": "rhfT7f9Mr3YXt8EhfRvfMo2uF7B33PQHcZ",
+            "balance": 107464.5204528358,
+            "drizzleAmount": 1693.6586
+        },
+        {
+            "address": "rp4ynG8WKgSYY6VvPH2uuf6V7BzVs41oHq",
+            "balance": 348131.7920804989,
+            "drizzleAmount": 5486.6145
+        },
+        {
+            "address": "rh3z1G6mRLArURxAtw6C8JdDEQPMekb1nt",
+            "balance": 230765.3000870827,
+            "drizzleAmount": 3636.8992
+        },
+        {
+            "address": "rhNpaqBjTogDTWxf8fBYQEWRkQb1zY3HiP",
+            "balance": 109806.5934837573,
+            "drizzleAmount": 1730.57
+        },
+        {
+            "address": "rPX1N6EkrfeMvDk2AqUy6tJ9E8nRu6yhZS",
+            "balance": 584612.5573083147,
+            "drizzleAmount": 9213.5903
+        },
+        {
+            "address": "rNsnBaYC35aee23W7FtcmoRucvpW636WQX",
+            "balance": 87776.23047941,
+            "drizzleAmount": 1383.3679
+        },
+        {
+            "address": "rw5ZXyBrSfvkuY2ANZ28NT7rg9DvWkuUov",
+            "balance": 39452.74092686399,
+            "drizzleAmount": 621.7817
+        },
+        {
+            "address": "rfb4Huc1PvJ3GNR82to8DXT6w1EcgF66VE",
+            "balance": 33321.4192,
+            "drizzleAmount": 525.1511
+        },
+        {
+            "address": "rB1JwYoMc7jYEejUiNJmMkkn5Mqzc6FWuP",
+            "balance": 88136.80102450999,
+            "drizzleAmount": 1389.0505
+        },
+        {
+            "address": "rL26Uxpk7RSYUr5CNSEs1ecjnVQgixjRZH",
+            "balance": 39715.23967958,
+            "drizzleAmount": 625.9187
+        },
+        {
+            "address": "rMyQXSbnMW9WQ1VCAtFsMYqPHVAqtXP6dJ",
+            "balance": 27012.71621610516,
+            "drizzleAmount": 425.7249
+        },
+        {
+            "address": "rn1wZaKUaW3zv5r2epdwKBG3kvKHXv18BL",
+            "balance": 167833.2584874222,
+            "drizzleAmount": 2645.0798
+        },
+        {
+            "address": "rLwX96R5Aq3xNETsDxJyvbYK2h6JoHPz3r",
+            "balance": 94288.45218144,
+            "drizzleAmount": 1486.0016
+        },
+        {
+            "address": "rGRyfRcJ7cSYSu6rw5VpNJReEZt9Gzy9a7",
+            "balance": 48229.32731652,
+            "drizzleAmount": 760.1022
+        },
+        {
+            "address": "rh5pXkoAfB3dPMQstTYEGvuRtd9m4r3rSc",
+            "balance": 75491.40159179164,
+            "drizzleAmount": 1189.7569
+        },
+        {
+            "address": "r2K7YCPLUq6K84hCuydGV9ziec9BKv7sj",
+            "balance": 122383.4935170038,
+            "drizzleAmount": 1928.784
+        },
+        {
+            "address": "rfhUwyyMmKcqpCzN624UJAizKzaiwnwpAZ",
+            "balance": 64771.67415541895,
+            "drizzleAmount": 1020.8123
+        },
+        {
+            "address": "r463pCYBEtDxf8wCWbHPVJvpPqEK2CDYWV",
+            "balance": 148619.9336564587,
+            "drizzleAmount": 2342.2747
+        },
+        {
+            "address": "rhF5ayEvKST1q5kpmAwx3qZm3WqybqgUYz",
+            "balance": 58524.06575772,
+            "drizzleAmount": 922.3489
+        },
+        {
+            "address": "rnp5hAYBXGYWxZguTQzrjsLay9YW2hWmSd",
+            "balance": 95412.83676551,
+            "drizzleAmount": 1503.722
+        },
+        {
+            "address": "r4QpqdqwDPGGqMPLaGWcRQPvKRRtzxnJ1K",
+            "balance": 89712.93476549,
+            "drizzleAmount": 1413.8906
+        },
+        {
+            "address": "rnVKRLCRRyPrqLNVVaPxYB5YQdAMpktCc1",
+            "balance": 132218.61000166,
+            "drizzleAmount": 2083.7871
+        },
+        {
+            "address": "rKpHiZ2y4MnvAqK2PeFeLC9k1NydJYy9TZ",
+            "balance": 121839.6020521746,
+            "drizzleAmount": 1920.2122
+        },
+        {
+            "address": "rahBvPtt7BNUDyisGgWRdVpRVGLSU7z5Zh",
+            "balance": 26365.84233179,
+            "drizzleAmount": 415.53
+        },
+        {
+            "address": "r4Aoh8ZQiUuDC8HzzBCFt2T3FP2uJAY3QP",
+            "balance": 231129.4574111549,
+            "drizzleAmount": 3642.6384
+        },
+        {
+            "address": "rNGVoCBgjj9FtuqVc2LzmDDo1PQy9uwDmc",
+            "balance": 59017.99184496221,
+            "drizzleAmount": 930.1333
+        },
+        {
+            "address": "rpJB7p755JiHDVL3xvTyysLSJw3PJk4im8",
+            "balance": 44736.60628586,
+            "drizzleAmount": 705.0563
+        },
+        {
+            "address": "rQfgsmvTXyZLijem37iZWoYfZoJdDcvrMJ",
+            "balance": 103677.7123827237,
+            "drizzleAmount": 1633.9778
+        },
+        {
+            "address": "rGz1sPmwvkaRyZido3CQB3ziVd9dwQ4Y6x",
+            "balance": 339687.7994293438,
+            "drizzleAmount": 5353.5357
+        },
+        {
+            "address": "rwGa7kBxRDrPUUqToevk867cCdt3vCALGX",
+            "balance": 29290.17586808,
+            "drizzleAmount": 461.618
+        },
+        {
+            "address": "rJK5M3Zy7ZUYmwCxmrc9WtS3B5ELeqNiLh",
+            "balance": 27978.30431911,
+            "drizzleAmount": 440.9427
+        },
+        {
+            "address": "rf4nxBJ1V31MRRTUTcnemAg6qzSC4d1mmq",
+            "balance": 525632.8680660444,
+            "drizzleAmount": 8284.0607
+        },
+        {
+            "address": "rnKhZ5PLsj9LZp86ocugkonnETijd2pz25",
+            "balance": 43202.16756215369,
+            "drizzleAmount": 680.8733
+        },
+        {
+            "address": "rUUVFDA319sqh9rkJddjdzQj9d73XKqoCJ",
+            "balance": 61027.11728379999,
+            "drizzleAmount": 961.7974
+        },
+        {
+            "address": "rHYiHpSZTBzko4ve8QJLMNi2vQ5wAZzyLx",
+            "balance": 28326.39627182,
+            "drizzleAmount": 446.4287
+        },
+        {
+            "address": "rsJB77kGviJg6TqVhPdpCwLrTMRw4a9juQ",
+            "balance": 78101.20147978,
+            "drizzleAmount": 1230.8878
+        },
+        {
+            "address": "rnMKXVhzY7P9DDxF8pSPijPJYRkNW6wEiu",
+            "balance": 119888.88488,
+            "drizzleAmount": 1889.4686
+        },
+        {
+            "address": "rsqkgX7B5Z1hHGn7hVYFQzmQj185uG77wu",
+            "balance": 93169.86553864,
+            "drizzleAmount": 1468.3724
+        },
+        {
+            "address": "rN1B26LVxbYSYtPhoRKTZSPHwuoCJXFHcX",
+            "balance": 27658.26078,
+            "drizzleAmount": 435.8988
+        },
+        {
+            "address": "r3gn8dD73buec9eMSWDypzxP9a9LAnR7fK",
+            "balance": 62234.90842857717,
+            "drizzleAmount": 980.8324
+        },
+        {
+            "address": "rEcDbHpbJpM8dCjFD2KkJQRbsTk2Dtcf5y",
+            "balance": 95119.56557175904,
+            "drizzleAmount": 1499.1
+        },
+        {
+            "address": "rHxxnFHBYNMSRwF7AK1rvfEUJXghuBGgHF",
+            "balance": 376669.4339170693,
+            "drizzleAmount": 5936.3724
+        },
+        {
+            "address": "rp5WifEkwD98v2SEzFNDmZr7dLyPvPjXhF",
+            "balance": 27730.52651722323,
+            "drizzleAmount": 437.0377
+        },
+        {
+            "address": "rE9ZbcuLDVCTWwr9x9BXudiG2rzdjbWPgc",
+            "balance": 27629.61209209862,
+            "drizzleAmount": 435.4472
+        },
+        {
+            "address": "rNYXZykr3H2u7ARbtueYKPaW5TZnPCKdwC",
+            "balance": 119888.88488,
+            "drizzleAmount": 1889.4686
+        },
+        {
+            "address": "rUMSBTBsLcxVW8iDLFwgBoQdRe2eNaj4Ud",
+            "balance": 25427.53883883824,
+            "drizzleAmount": 400.7422
+        },
+        {
+            "address": "rjJZ4qirnUqNgXfXdxm4tFpGbP5jDeQjH",
+            "balance": 28057.06314275001,
+            "drizzleAmount": 442.1839
+        },
+        {
+            "address": "rs1goHTsqVyFY9mmHNrr93wFzU7PM2dwq3",
+            "balance": 166569.04158539,
+            "drizzleAmount": 2625.1556
+        },
+        {
+            "address": "rw1oVw3wfSmLiRmVzEBCcFp4enpmDd4vEF",
+            "balance": 29555.55690333,
+            "drizzleAmount": 465.8005
+        },
+        {
+            "address": "rHz4NtnddMuipvpYg8o5VoFbTmNjm4D6U9",
+            "balance": 35606.09318620657,
+            "drizzleAmount": 561.1579
+        },
+        {
+            "address": "rHRfmSx3BFUEcv7muKzNGxgzg9JBp1cYp9",
+            "balance": 27001.17992153227,
+            "drizzleAmount": 425.543
+        },
+        {
+            "address": "r3ecZc4UCMJAt72de4HktnnJaJSt1fszLb",
+            "balance": 38141.60663,
+            "drizzleAmount": 601.118
+        },
+        {
+            "address": "rF82FDTNTYxD5hCcmna782gDKgy5dQ5Vi",
+            "balance": 72955.5810805,
+            "drizzleAmount": 1149.792
+        },
+        {
+            "address": "r38gQqfA86Zqctgzix5ZmZtRvBPqukrkpx",
+            "balance": 42788.73973771052,
+            "drizzleAmount": 674.3576
+        },
+        {
+            "address": "rnL8xnsKN7WUcJEZpA4BARvXGsoR3m6ABs",
+            "balance": 698876.4444750828,
+            "drizzleAmount": 11014.408
+        },
+        {
+            "address": "rNtB5pUvufMkzs55wL88pVuh3xt7LVW2mR",
+            "balance": 634111.5206243166,
+            "drizzleAmount": 9993.7021
+        },
+        {
+            "address": "rMCAzv7W8Ci6tMpHWytRxxxKoA6kS1WkDT",
+            "balance": 73493.79112639761,
+            "drizzleAmount": 1158.2743
+        },
+        {
+            "address": "rKgDoAKC6PEYEiaZjMRbsANiUM975vbGKY",
+            "balance": 25621.83662863577,
+            "drizzleAmount": 403.8044
+        },
+        {
+            "address": "rJ4LjYcpGrGXvZVTzGA3byEoamgByxjDPZ",
+            "balance": 27201.72601799,
+            "drizzleAmount": 428.7037
+        },
+        {
+            "address": "rKsv1g6b3pFBT1dJWWN5nMEWsBrnRjvC1F",
+            "balance": 125795.1937210132,
+            "drizzleAmount": 1982.553
+        },
+        {
+            "address": "rU9F7QWrLnWeHbXK5BaBFDkSTfQJoGj5AM",
+            "balance": 49236.05923,
+            "drizzleAmount": 775.9684
+        },
+        {
+            "address": "rhHjqMNygsQ6yW2n1DQTt8NNmDP5Q2zhzQ",
+            "balance": 50979.56252835596,
+            "drizzleAmount": 803.4463
+        },
+        {
+            "address": "r3eGfh3K3QW43fWTQFDoxDVTnitpv8NJ7V",
+            "balance": 56209.11551275,
+            "drizzleAmount": 885.8649
+        },
+        {
+            "address": "rPMBmRLWLiF69aLkJKvWPxXk1iqehvtyap",
+            "balance": 82293.93124511,
+            "drizzleAmount": 1296.9659
+        },
+        {
+            "address": "rff2MPV8feYXMNzwZxsDxecrqdM1dS7n9m",
+            "balance": 73443.37169107902,
+            "drizzleAmount": 1157.4797
+        },
+        {
+            "address": "rpEtoFvmeNdAWA3Y5ytbw6iUWMAtezfqu2",
+            "balance": 83251.46583817225,
+            "drizzleAmount": 1312.0568
+        },
+        {
+            "address": "r4jPVMaezEbriZHbS8yHQinFR8dMMMry1Y",
+            "balance": 58741.680245017,
+            "drizzleAmount": 925.7786
+        },
+        {
+            "address": "rBt5mtrBm1tGq6crDQSyT4YgvkrJpbHjpu",
+            "balance": 25427.73923,
+            "drizzleAmount": 400.7454
+        },
+        {
+            "address": "rJhhnLD2wE74ZdBji3aaabmz3Txfe376pN",
+            "balance": 109574.9612528559,
+            "drizzleAmount": 1726.9195
+        },
+        {
+            "address": "rDxpEG7fXWd49ZuHzSdTGrTagnDYfReLh",
+            "balance": 30763.32494262434,
+            "drizzleAmount": 484.8351
+        },
+        {
+            "address": "rnEVvUZiS2JiVrbbLL6j8E8SX243iSfXJh",
+            "balance": 100059.01534711,
+            "drizzleAmount": 1576.9466
+        },
+        {
+            "address": "rfdfzP2ze6S64ETUjFt2PN6tmKErAxDkcD",
+            "balance": 245144.6834656184,
+            "drizzleAmount": 3863.5206
+        },
+        {
+            "address": "rBmJWJq8bHv7ZGreSpu7PG4WyaDeexTuu2",
+            "balance": 101150.0991267433,
+            "drizzleAmount": 1594.1422
+        },
+        {
+            "address": "r4wZmp94NFaE1YoEo4GvCn3QeuYn3LUJ6E",
+            "balance": 27104.88177219324,
+            "drizzleAmount": 427.1774
+        },
+        {
+            "address": "r5WMnxi5ndWM1vSAe79jDvMLgStQXymvV",
+            "balance": 30513.28698,
+            "drizzleAmount": 480.8944
+        },
+        {
+            "address": "rP3aA17LpNHPxrCBVSJTLeBurPEgpGB8b5",
+            "balance": 92754.6049731,
+            "drizzleAmount": 1461.8279
+        },
+        {
+            "address": "rECniek7dVR4BZLG9Xvk6YmHsjQLqiRXi",
+            "balance": 38079.59826632,
+            "drizzleAmount": 600.1407
+        },
+        {
+            "address": "rrSUqChM3Dk7VembpLbLr9QyG2hENGMCv",
+            "balance": 38859.32137767941,
+            "drizzleAmount": 612.4293
+        },
+        {
+            "address": "rpHAXNKLEs6oaoBBcmPQqYuGFB6fhfkAhh",
+            "balance": 27408.34251509651,
+            "drizzleAmount": 431.96
+        },
+        {
+            "address": "rErTXrNvJnRn7pcbCzbNb233npxcQtimtq",
+            "balance": 81044.99759642,
+            "drizzleAmount": 1277.2825
+        },
+        {
+            "address": "rG9Ga7kC8FEaUFQr2y5XHzF7V7dfwF4Lm8",
+            "balance": 54563.25273659158,
+            "drizzleAmount": 859.9259
+        },
+        {
+            "address": "r9wYNKmri3SmMX9uV2i24NTJWXQoBXwxXt",
+            "balance": 72651.17245758,
+            "drizzleAmount": 1144.9945
+        },
+        {
+            "address": "r9d4wLUxNbhgTG8LziF34xSRX45oC7ihjy",
+            "balance": 27661.84930182153,
+            "drizzleAmount": 435.9553
+        },
+        {
+            "address": "rp64eZjrJtdKnoR72j5aQCXE2pxreydyok",
+            "balance": 52890.36601020231,
+            "drizzleAmount": 833.5609
+        },
+        {
+            "address": "razJ4H7ibvWDDSwbAmnwYcJNAaNLGnij9o",
+            "balance": 59996.65853496814,
+            "drizzleAmount": 945.5572
+        },
+        {
+            "address": "raAE9MTD4rDQ5eDVpt1idWRjay1SwQWFx2",
+            "balance": 296019.5013417406,
+            "drizzleAmount": 4665.3162
+        },
+        {
+            "address": "raMSgsJWKoDfGiuwyJQp2WX4nTycr58bYA",
+            "balance": 26096.39099,
+            "drizzleAmount": 411.2834
+        },
+        {
+            "address": "rHsjJ34omsg13jnY9FbkF3eY7SFKT3rtF2",
+            "balance": 113405.2407360739,
+            "drizzleAmount": 1787.2853
+        },
+        {
+            "address": "rBfBN6Jt7Hxk5XAA27aL8vzenxXT8zhvzq",
+            "balance": 227232.67218,
+            "drizzleAmount": 3581.2244
+        },
+        {
+            "address": "r4hW1HUYG2UZ6tMkps4AB3oCfF1MVHNrZ4",
+            "balance": 25748.21296412596,
+            "drizzleAmount": 405.7961
+        },
+        {
+            "address": "rMS63krvEPxr358ero6EWJfV2tufq5b3fA",
+            "balance": 48574.22159959,
+            "drizzleAmount": 765.5377
+        },
+        {
+            "address": "rpXXDCk219Qc5JtPxtnvGzn53RbRnQdSsk",
+            "balance": 79327.50015826886,
+            "drizzleAmount": 1250.2145
+        },
+        {
+            "address": "rG7qSTxZmBQ77GLeeVDR86yRxc8teEsctk",
+            "balance": 40683.21743,
+            "drizzleAmount": 641.1742
+        },
+        {
+            "address": "rDSYceGk5xNGdxcXEU9SdbAq9zTwsJQcQ9",
+            "balance": 164515.26695699,
+            "drizzleAmount": 2592.7877
+        },
+        {
+            "address": "rHQRv1K9GrFMQCKeCZfdyFi7Q3GLHtmKKJ",
+            "balance": 30516.05782132967,
+            "drizzleAmount": 480.9381
+        },
+        {
+            "address": "rn7w52SLZFX43ZUYoGNmo5WZvUvsbxcsvf",
+            "balance": 71194.63675,
+            "drizzleAmount": 1122.0392
+        },
+        {
+            "address": "rUNSubZV885ZGdV2TYGr8eaZSfFMeA9qf2",
+            "balance": 134260.9228949044,
+            "drizzleAmount": 2115.9743
+        },
+        {
+            "address": "rnxzTkb9LVcG4X5qoHEbVTcDrhKFFFFDfR",
+            "balance": 33532.56901417375,
+            "drizzleAmount": 528.4788
+        },
+        {
+            "address": "rh2USjCngurfVVCBFWhBxLG8uFxZBCcE7K",
+            "balance": 270940.8500282499,
+            "drizzleAmount": 4270.0725
+        },
+        {
+            "address": "rENGrSeBVGBCphuw8CvMUAATWthaJoXsCR",
+            "balance": 83007.9388649,
+            "drizzleAmount": 1308.2188
+        },
+        {
+            "address": "rfeoxmWMSvc6fu7SkkazV2MEvj4FAnzRrM",
+            "balance": 40003.88947567382,
+            "drizzleAmount": 630.4679
+        },
+        {
+            "address": "rDw769gfhNurBi6ShwFfhjy1rbxKLpEQsa",
+            "balance": 78561.68249877,
+            "drizzleAmount": 1238.1451
+        },
+        {
+            "address": "r92khj9MZ4WHqTgVuwZ3nVyD1HW9m5puUU",
+            "balance": 26790.25485971977,
+            "drizzleAmount": 422.2188
+        },
+        {
+            "address": "rPofpjse831c17tCT9RdoUEJ6uRsyKUCqs",
+            "balance": 53333.35165369218,
+            "drizzleAmount": 840.5424
+        },
+        {
+            "address": "rGrd8PRPp4UGaXuiqrAnN8fix9x6kgaRU",
+            "balance": 43589.14511015,
+            "drizzleAmount": 686.9721
+        },
+        {
+            "address": "rPuWr5zKq78Z6PB4DPnGm5im2xXcz6WVnU",
+            "balance": 55370.20325296999,
+            "drizzleAmount": 872.6435
+        },
+        {
+            "address": "rEooS11oQiqqx9HRyVNdUPPbTenKHjUhXx",
+            "balance": 131971.51709166,
+            "drizzleAmount": 2079.8929
+        },
+        {
+            "address": "rhTQS7uutoEHLveLvq54oBFNgATcdqzjGL",
+            "balance": 42536.39791797,
+            "drizzleAmount": 670.3806
+        },
+        {
+            "address": "rfe4yBMVxJzfHY9GB8FHKmYuzDcB6drecn",
+            "balance": 111985.16737216,
+            "drizzleAmount": 1764.9047
+        },
+        {
+            "address": "r9df4iLq24s9YVczEAab5CT9rTcW3BoLW5",
+            "balance": 55246.06601888051,
+            "drizzleAmount": 870.6871
+        },
+        {
+            "address": "rpoRgknsRFt51X9L98jhMkpHy7zn7ZRbWN",
+            "balance": 53969.55132408559,
+            "drizzleAmount": 850.569
+        },
+        {
+            "address": "rfNxKhpysHwAJAoEdqiofVNLER74YxQ2Sp",
+            "balance": 30511.98765,
+            "drizzleAmount": 480.874
+        },
+        {
+            "address": "rJ7jdDrLqSdErfQ2uV11hcJYVxqaBRhMxL",
+            "balance": 221955.05431558,
+            "drizzleAmount": 3498.0483
+        },
+        {
+            "address": "rh1YjqidZ3essdsnSLNkLrEkZTpM4kwfQD",
+            "balance": 32305.08462365592,
+            "drizzleAmount": 509.1335
+        },
+        {
+            "address": "rMucJhzfm4839SNt7YMgB6s5imz77sdgVv",
+            "balance": 37036.10079347053,
+            "drizzleAmount": 583.6951
+        },
+        {
+            "address": "rLBQPCvqVKYnLCPwfECmDv8UREi8LSw1gR",
+            "balance": 469977.2432397997,
+            "drizzleAmount": 7406.9189
+        },
+        {
+            "address": "rGrNcKWV5gxRgC8E2anGFSDVS3H1mGFDZq",
+            "balance": 104586.0449846,
+            "drizzleAmount": 1648.2933
+        },
+        {
+            "address": "rDgxFUtEg2FsSeTtRFrYuBFYWtgmfVidV7",
+            "balance": 70422.55378254,
+            "drizzleAmount": 1109.8711
+        },
+        {
+            "address": "rBcNGqg82J73EWyMzuxpWbib46qqwiQ7DM",
+            "balance": 26418.94273422451,
+            "drizzleAmount": 416.3669
+        },
+        {
+            "address": "rJ2d19xuppwNEuZnmkzKBnfQLXY1S5j4VM",
+            "balance": 66333.51747304,
+            "drizzleAmount": 1045.4272
+        },
+        {
+            "address": "rM2tmNmE5G2b1Ge4XRsaxC4PrUGG8xrm4u",
+            "balance": 25539.44648098767,
+            "drizzleAmount": 402.5059
+        },
+        {
+            "address": "rUo83EMvsWVGWhxEkWkBmCLZzs1tZupyhH",
+            "balance": 509904.7588147399,
+            "drizzleAmount": 8036.1831
+        },
+        {
+            "address": "rCQLg7JdU5jxNK3hfDHdGvBs1Zwsvhv8X",
+            "balance": 27591.52307667143,
+            "drizzleAmount": 434.847
+        },
+        {
+            "address": "rp6YSoer2RJGBPX2xJXgipBDBv6LqfiVRa",
+            "balance": 118687.43987883,
+            "drizzleAmount": 1870.5336
+        },
+        {
+            "address": "rsdwVmDH9gKkmBwnohnkvMYpvuotdrESLC",
+            "balance": 203225.0684490858,
+            "drizzleAmount": 3202.8606
+        },
+        {
+            "address": "rMY9PvqsZY9pKC6kF3RcXq5HwJAs5b2RXH",
+            "balance": 131364.0571335076,
+            "drizzleAmount": 2070.3192
+        },
+        {
+            "address": "rJeYPs8Uv4srvt5CV1jY77KYJMWk18oWqE",
+            "balance": 184500.5277897224,
+            "drizzleAmount": 2907.7587
+        },
+        {
+            "address": "rp6Uz7KGaDnEvGmEs6ayUTgrZ5h92RGyVf",
+            "balance": 315839.4719314838,
+            "drizzleAmount": 4977.6822
+        },
+        {
+            "address": "rDJgRef8gLcR7KJ9E6edkUoyvxHN2SvMoP",
+            "balance": 25886.37085440603,
+            "drizzleAmount": 407.9735
+        },
+        {
+            "address": "rKNmLdt6sNjTTXNv72SzU2GhV7qEdBSmdN",
+            "balance": 30008.49095576657,
+            "drizzleAmount": 472.9388
+        },
+        {
+            "address": "rDLfyQcL7DA8Q8n7juMWRadXJKnwGHHQeP",
+            "balance": 25000.00075,
+            "drizzleAmount": 394.0041
+        },
+        {
+            "address": "rHwdvjeThMjmnSFa31KLGP3PJFgUQcpBsE",
+            "balance": 100000.00075,
+            "drizzleAmount": 1576.0165
+        },
+        {
+            "address": "rD9fyfM2oq6y2uiqjoAemY5F55MZSttSKZ",
+            "balance": 25000.00075,
+            "drizzleAmount": 394.0041
+        },
+        {
+            "address": "rBZW1acfxJJr8W8p4QyoZmzfnHjgfHTuML",
+            "balance": 35006.54019866633,
+            "drizzleAmount": 551.7088
+        },
+        {
+            "address": "rs8oUWyR4v4wCiz7ca1oH7HD4DhtRTR3g6",
+            "balance": 32019.96206225,
+            "drizzleAmount": 504.6399
+        },
+        {
+            "address": "r3zSaqtBE15BXMiv53RUmeoL1RsQmi1uDR",
+            "balance": 57411.58998284653,
+            "drizzleAmount": 904.8161
+        },
+        {
+            "address": "rh3i9JXs7JZYpMvc6srjL31nersb3dqjub",
+            "balance": 48350.97580594,
+            "drizzleAmount": 762.0194
+        },
+        {
+            "address": "rNZw71uv2v8U4iabVuC85uomMBpM4FMxGv",
+            "balance": 106632.8198775549,
+            "drizzleAmount": 1680.5508
+        },
+        {
+            "address": "rGUawqURpcKrdaLzgmw1DoVz9FgGR5dcSQ",
+            "balance": 75000.0140810722,
+            "drizzleAmount": 1182.0126
+        },
+        {
+            "address": "rKzFwNddQv4CtAzZbC4oHpJvy1Nzhotd5M",
+            "balance": 50620.65872952,
+            "drizzleAmount": 797.7899
+        },
+        {
+            "address": "rhMoAikGX2JZvrgLA5uWdZacczfaEEvomm",
+            "balance": 769999.8869766153,
+            "drizzleAmount": 12135.3252
+        },
+        {
+            "address": "rHFGBETrD4inkfTfVxVvnF8AdKGxNqKNvX",
+            "balance": 479627.2707143953,
+            "drizzleAmount": 7559.0049
+        },
+        {
+            "address": "rsxMFpJiN2ZFVU39A5ATwgfEvEFRXNBxUV",
+            "balance": 66882.76466595563,
+            "drizzleAmount": 1054.0834
+        },
+        {
+            "address": "rBi4jMFAXn2uyNdS6XDEvX2KPPCfx3RebR",
+            "balance": 250923.1409901,
+            "drizzleAmount": 3954.5901
+        },
+        {
+            "address": "r4dTG9YKkLQz9S7RxrTGf77gn5sPMbTMxi",
+            "balance": 37516.9811847277,
+            "drizzleAmount": 591.2738
+        },
+        {
+            "address": "rUGzEVwbyTMBCDH2Kq9Qpm2XK1zhTUAtFE",
+            "balance": 25371.8677659204,
+            "drizzleAmount": 399.8648
+        },
+        {
+            "address": "rEZxB4Qh1HXZEkb5BTmgdE6qZZfHnVEYAS",
+            "balance": 31692.2111502219,
+            "drizzleAmount": 499.4745
+        },
+        {
+            "address": "rUeb2huWw47BXvoRNK3jVKKns1gKMT5oss",
+            "balance": 67785.98663356427,
+            "drizzleAmount": 1068.3183
+        },
+        {
+            "address": "rnrnsFeumqwRvFWQdNgTtgjtGbqGcK8Y5Q",
+            "balance": 32401.45392176184,
+            "drizzleAmount": 510.6523
+        },
+        {
+            "address": "rHXRcxRWhbA8uZnSfibmCucCK6KWSTstzL",
+            "balance": 111395.6323285063,
+            "drizzleAmount": 1755.6135
+        },
+        {
+            "address": "rEtMaWF7D83rRPReQJjziWJfphNph8B29n",
+            "balance": 31155.00560277615,
+            "drizzleAmount": 491.008
+        },
+        {
+            "address": "rEauUTgiarNss1AVHsBsqDtTQYZzDepCPG",
+            "balance": 26000.00075,
+            "drizzleAmount": 409.7643
+        },
+        {
+            "address": "raM9ppy5E7uojMB1UkZUUzonPG84kRz14p",
+            "balance": 28000.00000000005,
+            "drizzleAmount": 441.2846
+        }
+    ]
+}
